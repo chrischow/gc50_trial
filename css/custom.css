@@ -41,6 +41,11 @@ body {
     font-size: 20px;
 }
 
+::selection {
+    background: #1B37DB!important;
+    color: white!important;
+}
+
 /* Navbar */
 a.navbar-brand {
     font-family: Poppins;
@@ -88,7 +93,10 @@ a.navbar-brand {
 }
 
 .footer {
-    padding: 3rem 0;
+    padding-top: 3rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .page-section-header {
@@ -154,8 +162,8 @@ a.navbar-brand {
 
 /* Footer */
 .footer-col {
-    padding-top: 10px;
-    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
 
 .footer-text {
@@ -170,6 +178,16 @@ hr {
     align: left;
 }
 
+.footer-link {
+    color: white;
+    transition: 0.3s;
+}
+
+a.footer-link:hover {
+    color: #66fcf1;
+    text-decoration: none;
+    transition: 0.3s;
+}
 
 
 /* Mobile */

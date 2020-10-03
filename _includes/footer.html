@@ -3,6 +3,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js" integrity="sha512-s+xg36jbIujB2S2VKfpGmlC3T5V2TF3lY48DX7u2r9XzGzgPsa6wTpOQA7J9iffvdeBN0q9tKzRxVxw1JviZPg==" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0"></script>
 <script>
     $(window).ready(function(){
         $('#main').animate({opacity: 1}, 700);
@@ -25,13 +26,14 @@
     // Create bar chart
     var unit_chart = document.getElementById('unit-lb').getContext("2d");
     var unitChart = new Chart(unit_chart, {
-        type: 'bar',
+        type: 'horizontalBar',
         data: {
             labels: unit_labels,
             datasets: [{
                 borderWidth: 2,
-                borderColor: "#27DDCB",
-                backgroundColor: "rgba(39,221,203, 0.4)",
+                borderColor: "transparent",
+                backgroundColor: "#27DDCB",
+                hoverBackgroundColor: "rgba(39,221,203, 0.80)",
                 fill: true,
                 lineTension: 0.1,
                 data: unit_data
@@ -44,22 +46,37 @@
             tooltips: {
                 callbacks: {
                     label: function(tooltipItem, data){
-                        return "Mileage: " + tooltipItem.yLabel + ' km';
+                        return "Mileage: " + tooltipItem.xLabel + ' km';
                     }
-                }
+                },
+                displayColors: false
             },
             scales: {
-                xAxes: [{
+                yAxes: [{
                     gridLines: {
-                        color: "rgba(0,0,0,0)"
+                        color: "rgba(0,0,0,0)",
+                        display: false
                     }
                 }],
-                yAxes: [{
+                xAxes: [{
                     scaleLabel: {
                         display: true,
-                        labelString: "Mileage (KM)"
+                        //labelString: "Mileage (KM)"
+                    },
+                    gridLines: {
+                        display: false
+                    },
+                    ticks: {
+                        display: false
                     }
                 }]
+            },
+            plugins: {
+                datalabels: {
+                    color: "white",
+                    anchor: 'end',
+                    align: 'left'
+                }
             }
         }  
     });
@@ -77,13 +94,14 @@
     // Create bar chart
     var indiv_chart = document.getElementById('indiv-lb').getContext("2d");
     var indivChart = new Chart(indiv_chart, {
-        type: 'bar',
+        type: 'horizontalBar',
         data: {
             labels: indiv_labels,
             datasets: [{
                 borderWidth: 2,
-                borderColor: "#ee4c7c",
-                backgroundColor: "rgba(238, 76, 124, 0.4)",
+                borderColor: "transparent",
+                backgroundColor: "#ee4c7c",
+                hoverBackgroundColor: "rgba(238, 76, 124, 0.85)",
                 fill: true,
                 lineTension: 0.1,
                 data: indiv_data
@@ -96,23 +114,39 @@
             tooltips: {
                 callbacks: {
                     label: function(tooltipItem, data){
-                        return "Mileage: " + tooltipItem.yLabel + ' km';
+                        return "Mileage: " + tooltipItem.xLabel + ' km';
                     }
-                }
+                },
+                displayColors: false
             },
             scales: {
-                xAxes: [{
+                yAxes: [{
                     gridLines: {
-                        color: "rgba(0,0,0,0)"
+                        color: "rgba(0,0,0,0)",
+                        display: false
                     }
                 }],
-                yAxes: [{
+                xAxes: [{
+                    gridLines:{
+                        color: "rgba(0,0,0,0)",
+                        display: false
+                    },
                     scaleLabel: {
                         display: true,
-                        labelString: "Mileage (KM)"
+                        //labelString: "Mileage (KM)"
+                    },
+                    ticks: {
+                        display: false
                     }
                 }]
             },
+            plugins: {
+                datalabels: {
+                    color: "white",
+                    anchor: 'end',
+                    align: 'left'
+                }
+            }
         }
     });
 
