@@ -37,6 +37,7 @@
         {% include footer.html %}
 
     </body>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/gooss.js"></script>
     <script>
         function getTimeRemaining(endtime) {
             const total = Date.parse(endtime) - Date.parse(new Date());
@@ -80,5 +81,19 @@
           
         const deadline = new Date(Date.parse('2020-10-20') + 50 * 24 * 60 * 60 * 1000);
         initializeClock('clockdiv', deadline);
+
+        // Gooss
+        gooss.data(
+            {
+                Mileage: {
+                    url: "https://docs.google.com/spreadsheets/d/1CcJY0IFV5lQc5EM5fb9VvgWD1Qe3sRFsRlqSEBwjeHI",
+                    index: 0
+                }
+            },
+            function (err, data) {
+                if (err) return alert(err);
+                console.log(data);
+            }
+            );
     </script>
 </html>

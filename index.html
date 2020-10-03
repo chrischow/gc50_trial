@@ -39,15 +39,6 @@ title: GC50 Virtual Sport Challenge
         Graph with unit mileage
         <h3 class="page-section-subheader text-center">Individual</h3>
         List of top individuals
-        {% assign individuals = site.data.investments %}
-        {% assign individuals = individuals | sort:"Unit" %}
-        
-        <ul>
-            {% for ind in individuals %}
-            <li><strong>{{ ind.Name }}:</strong> {{ ind['Mileage Clocked (km)'] }}</li>
-            {% endfor %}
-        </ul>
-        
         
     </div>
 </section>
