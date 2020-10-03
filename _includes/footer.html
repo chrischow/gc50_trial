@@ -11,12 +11,12 @@
     {% assign entries = (site.data.MileageEntries | sort:"Total" | reverse) %}
     var indiv_labels = []
     {% for item in entries limit:10 %}
-    indiv_labels.push("{{ item.Name }}");
+        indiv_labels.push("{{ item.Name }}");
     {% endfor %}
 
     var indiv_data = []
     {% for item in entries limit:10 %}
-    indiv_data.push("{{ item.Total }}");
+        indiv_data.push({{ item.Total }});
     {% endfor %}
 
     console.log(indiv_labels);
