@@ -153,6 +153,12 @@ a.navbar-brand {
     padding-bottom: 20px;
 }
 
+.footer-text {
+    font-family: Poppins;
+    font-weight: 200;
+    font-size: 1.0rem;
+}
+
 /* Mobile */
 @media (max-width: 576px) {
 
