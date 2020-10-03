@@ -8,11 +8,10 @@
         $('#main').animate({opacity: 1}, 700);
     });
 
-    {% assign entries = site.data.MileageEntries | sort_by:"Total" %}
-    {% assign entries = entries | reverse %}
-    {% for item in entries limit:10 %}
-        console.log("{{ item.Name }}");
-    {% endfor %}
+    {% assign entries = (site.data.MileageEntries | sort:"Total" | reverse) %}
+    //{% for item in entries limit:10 %}
+    //   console.log("{{ item.Name }}");
+    //{% endfor %}
 
     // Create bar chart
     var indiv_chart = document.getElementById('indiv-lb').getContext("2d");
