@@ -14,7 +14,7 @@
 
     if (screen.width > 576) {
         Chart.defaults.global.defaultFontSize = 16;
-        var datalabel_fontsize = 16;
+        var datalabel_fontsize = 14;
         $("#unit-lb").attr("height", "300");
         $("#indiv-lb").attr("height", "300");
     } else {
@@ -90,7 +90,12 @@
                     font: {
                         size: datalabel_fontsize
                     },
-                    padding: 0
+                    padding: {
+                        top: 0,
+                        bottom: 0,
+                        left: 0,
+                        right: -5,
+                    }
                 }
             }
         }  
@@ -163,7 +168,12 @@
                     font: {
                         size: datalabel_fontsize
                     },
-                    padding: 0
+                    padding: {
+                        top: 0,
+                        bottom: 0,
+                        left: 0,
+                        right: -5,
+                    }
                 }
             }
         }
