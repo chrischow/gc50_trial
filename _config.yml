@@ -10,7 +10,7 @@ url: "https://chrischow.github.io" # the base hostname & protocol for your site,
 github_username:  chrischow
 
 plugins:
-  - jekyll-feed
+- jekyll-feed
 
   sass:
       sass_dir: css
