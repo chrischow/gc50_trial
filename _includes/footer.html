@@ -17,7 +17,7 @@
         type: 'bar',
         data: {
             labels: [
-                {% for item in entries %}
+                {% for item in entries | reverse %}
                     "{{ item.Name }}",
                 {% endfor %}
             ].slice(0,10),
@@ -28,7 +28,7 @@
                 fill: true,
                 lineTension: 0.1,
                 data: [
-                    {% for item in entries %}
+                    {% for item in entries | reverse %}
                         "{{ item.Total }}",
                     {% endfor %}
                 ].slice(0,10)
