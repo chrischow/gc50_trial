@@ -8,7 +8,8 @@
         $('#main').animate({opacity: 1}, 700);
     });
 
-    {% assign entries = site.data.MileageEntries | sort: "Total" | reverse %}
+    {% assign entries = site.data.MileageEntries | sort: "Total" %}
+    {% assign entries = entries | reverse %}
 
     // Create bar chart
     var indiv_chart = document.getElementById('indiv-lb').getContext("2d");
