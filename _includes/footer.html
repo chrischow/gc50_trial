@@ -15,9 +15,13 @@
     if (screen.width > 576) {
         Chart.defaults.global.defaultFontSize = 16;
         var datalabel_fontsize = 16;
+        $("#unit-lb").attr("height", "300");
+        $("#indiv-lb").attr("height", "300");
     } else {
         Chart.defaults.global.defaultFontSize = 12;
         var datalabel_fontsize = 10;
+        $("#unit-lb").attr("height", "500");
+        $("#indiv-lb").attr("height", "500");
     };
 
     // Unit Leaderboard
