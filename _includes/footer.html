@@ -10,8 +10,15 @@
     });
 
     // Chart defaults
-    Chart.defaults.global.defaultFontFamily = "Lato";
-    Chart.defaults.global.defaultFontSize = 14;
+    Chart.defaults.global.defaultFontFamily = "News Cycle";
+
+    if (screen.width > 576) {
+        Chart.defaults.global.defaultFontSize = 16;
+        var datalabel_fontsize = 16;
+    } else {
+        Chart.defaults.global.defaultFontSize = 12;
+        var datalabel_fontsize = 10;
+    };
 
     // Unit Leaderboard
     {% assign unit_entries = (site.data.unitMileage) %}
@@ -77,7 +84,7 @@
                     anchor: 'end',
                     align: 'left',
                     font: {
-                        size: 12
+                        size: datalabel_fontsize
                     },
                     padding: 0
                 }
@@ -150,7 +157,7 @@
                     anchor: 'end',
                     align: 'left',
                     font: {
-                        size: 12
+                        size: datalabel_fontsize
                     },
                     padding: 0
                 }
