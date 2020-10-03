@@ -39,6 +39,17 @@ title: GC50 Virtual Sport Challenge
         Graph with unit mileage
         <h3 class="page-section-subheader text-center">Individual</h3>
         List of top individuals
+        {% assign entries = site.data.MileageEntries %}
+        {% assign entries = entries | sort:"Unit" %}
+        
+        <ul>
+            {% for entry in entries %}
+                {% if entry.Name != "" %}
+                    <li><strong>{{ entry.Name }} ({{ entry.Unit }}):</strong> {{ entry['MileageClockedKM'] }}</li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+        
         
     </div>
 </section>
