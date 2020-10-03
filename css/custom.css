@@ -110,6 +110,11 @@ a.navbar-brand {
     color: #39424D;
 }
 
+/* Leaderboard */
+.indiv-lb-panel {
+    margin-top: 20px;
+}
+
 /* Badges */
 .award-badge {
     padding: 10px;
@@ -164,6 +169,8 @@ hr {
     width: 60%;
     align: left;
 }
+
+
 
 /* Mobile */
 @media (max-width: 576px) {
