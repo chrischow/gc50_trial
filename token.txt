@@ -1,4 +1,0 @@
-Token: 3fe472fc8fa0a530a807e517634c386812979f27
-Spreadsheet: 
-
-https://chrischow.github.io/gc50_trial/pull-spreadsheet/?key=&worksheet=[name of the worksheet]&token=[your GitHub personal access token]&org=[your GitHub name]&repo=[the name of the repository]&branch=master
