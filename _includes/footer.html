@@ -2,8 +2,54 @@
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js" integrity="sha512-s+xg36jbIujB2S2VKfpGmlC3T5V2TF3lY48DX7u2r9XzGzgPsa6wTpOQA7J9iffvdeBN0q9tKzRxVxw1JviZPg==" crossorigin="anonymous"></script>
 <script>
     $(window).ready(function(){
         $('#main').animate({opacity: 1}, 700);
     });
+
+    {% assign entries = site.data.MileageEntries %}
+    {% assign entries = entries | sort:"Unit" %}
+    
+    {% for item in entries %}
+        console.log("{{ item.Name }}");
+    {% endfor %}
+
+    // Create bar chart
+    var indiv_chart = document.getElementById('indiv-lb').getContext("2d");
+    var myChart = new Chart(indiv_chart, {
+        type: 'bar',
+        data: {
+            labels: [
+                {% for item in entries %}
+                    "{{ item.Name }}",
+                {% endfor %}
+            ],
+            datasets: [{
+                borderColor: "#27DDCB",
+                backgroundColor: "rgba(39,221,203, 0.4)",
+                fill: true,
+                lineTension: 0.1,
+                data: [
+                    {% for item in entries %}
+                        "{{ item.Total }}",
+                    {% endfor %}
+                ]
+            }]
+        },
+        options: {
+            legend: {
+                display: false
+            },
+            tooltips: {
+                callbacks: {
+                    label: function(tooltipItem, data){
+                        return "Mileage: " + tooltipItem.yLabel + ' km';
+                    }
+                }
+            }
+        }  
+    });
+
+
 </script>

@@ -37,6 +37,7 @@ title: GC50 Virtual Sport Challenge
         <h2 class="page-section-header text-center">Leaderboard</h2>
         <h3 class="page-section-subheader text-center">Unit</h3>
         Graph with unit mileage
+        
         <h3 class="page-section-subheader text-center">Individual</h3>
         List of top individuals
         {% assign entries = site.data.MileageEntries %}
@@ -44,13 +45,13 @@ title: GC50 Virtual Sport Challenge
         
         <ul>
             {% for entry in entries %}
-                {% if entry.Name != "" %}
-                    <li><strong>{{ entry.Name }} ({{ entry.Unit }}):</strong> {{ entry['MileageClockedKM'] }}</li>
-                {% endif %}
+                <!-- {% if entry.Name != "" %} -->
+                <li><strong>{{ entry.Name }} ({{ entry.Unit }}):</strong> {{ entry.Total }}</li>
+                <!-- {% endif %} -->
             {% endfor %}
         </ul>
         
-        
+        <canvas id="indiv-lb" width="500" height="500"></canvas>
     </div>
 </section>
 
