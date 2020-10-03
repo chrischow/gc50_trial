@@ -12,5 +12,5 @@ github_username:  chrischow
 plugins:
 - jekyll-feed
 
-  sass:
-      sass_dir: css
+sass:
+    sass_dir: css

@@ -1,15 +1,126 @@
+/* Colours:
+Dark: #0b0c10
+Secondary: #1f2833
+Main Text: #66fcf1
+Secondary Text: #45a29e
+Grey: #c5c6c7
+Alt Accent: #ee4c7c
+
+ */
+
+.bg-primary {
+    background-color: #0b0c10!important;
+}
+
+.bg-dark {
+    background-color: #0b0c10!important;
+}
+
+.bg-secondary {
+    background-color: #66fcf1!important;
+}
+
+.bg-grey {
+    background-color: #e5e6e7!important;
+}
+
+.bg-footer {
+    background-color: #1f2833!important;
+}
+
+.bg-pink {
+    background-color: #ee4c7c!important;
+}
+
+.text-alt {
+    color: #1f2833;
+}
+
 body {
-    font-family: Work Sans;
+    font-family: Lato, Work Sans;
+    font-size: 20px;
+}
+
+/* Navbar */
+a.navbar-brand {
+    font-family: Poppins;
+    font-weight: 300;
+    transition: 0.3s;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link {
+    font-family: Poppins;
+    font-weight: 200;
+    text-transform: uppercase;
+    font-size: 1.0rem;
+    letter-spacing: 0.2rem;
+    transition: 0.3s;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #66fcf1;
+    transition: 0.3s;
 }
 
 /* Panels */
 .masthead {
-    padding-top: calc(6rem + 74px);
-    padding-bottom: 6rem;
-    background-color: #0b074a;
-    color: white;
+    padding-top: calc(5rem + 74px);
+    padding-bottom: 5rem;
+    color: #66fcf1;
+}
+
+.masthead-header {
+    font-family: Montserrat;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 4.3rem;
+}
+
+.masthead-text {
+    color: #ee4c7c;
 }
 
 .page-section {
     padding: 6rem 0;
+    color: #1f2833;
+}
+
+.footer {
+    padding: 3rem 0;
+}
+
+.page-section-header {
+    font-family: News Cycle, Lato;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2.9rem;
+    letter-spacing: 0.2rem;
+}
+
+/* Clock */
+#clockdiv{
+    font-family: Oxanium;
+    color: #ee4c7c;
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    font-size: 4.0rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+#clockdiv > div{
+    padding-left: 4px;
+    padding-right: 4px;
+    display: inline-block;
+}
+
+#clockdiv div > span{
+    padding-left: 4px;
+    padding-right: 4px;
+    display: inline-block;
+}
+
+.smalltext{
+    font-size: 1.0rem;
 }
