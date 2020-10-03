@@ -1,3 +1,15 @@
 body {
     font-family: Work Sans;
 }
+
+/* Panels */
+.masthead {
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-color: #0b074a;
+    color: white;
+}
+
+.page-section {
+    padding: 6rem 0;
+}
