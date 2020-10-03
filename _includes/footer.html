@@ -8,13 +8,16 @@
         $('#main').animate({opacity: 1}, 700);
     });
 
-    // Individual Leaderboard
+    // Chart defaults
+    Chart.defaults.global.defaultFontFamily = "Lato";
+
+    // Unit Leaderboard
     {% assign unit_entries = (site.data.unitMileage) %}
     var unit_labels = []
     var unit_data = []
     
     {% for item in unit_entries limit:10 %}
-        unit_labels.push("{{ item.Name }}");
+        unit_labels.push("{{ item.Unit }}");
         unit_data.push({{ item.Total }});
     {% endfor %}
 
@@ -26,8 +29,8 @@
             labels: unit_labels,
             datasets: [{
                 borderWidth: 2,
-                borderColor: "#ee4c7c",
-                backgroundColor: "rgba(238, 76, 124, 0.4)",
+                borderColor: "#27DDCB",
+                backgroundColor: "rgba(39,221,203, 0.4)",
                 fill: true,
                 lineTension: 0.1,
                 data: unit_data
