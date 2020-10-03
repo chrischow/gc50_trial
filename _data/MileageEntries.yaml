@@ -1,51 +1,3 @@
-- Name: Apple
-  Unit: '165'
-  Vocation: ADSS
-  Type Of Exercise: Swim
-  Mileage Clocked (KM): '3'
-  Walk: '0'
-  Run: '0'
-  Actual Cycle: '0'
-  Actual Swim: '3'
-  Cycle: '0'
-  Swim: '18'
-  Total: '18'
-- Name: Ben
-  Unit: '202'
-  Vocation: AOSX
-  Type Of Exercise: Run
-  Mileage Clocked (KM): '2'
-  Walk: '0'
-  Run: '2'
-  Actual Cycle: '0'
-  Actual Swim: '0'
-  Cycle: '0'
-  Swim: '0'
-  Total: '2'
-- Name: Chanel
-  Unit: '200'
-  Vocation: AWO
-  Type Of Exercise: Cycle
-  Mileage Clocked (KM): '10'
-  Walk: '0'
-  Run: '0'
-  Actual Cycle: '10'
-  Actual Swim: '0'
-  Cycle: '2.5'
-  Swim: '0'
-  Total: '2.5'
-- Name: Dan
-  Unit: '819'
-  Vocation: AFE
-  Type Of Exercise: Walk
-  Mileage Clocked (KM): '5'
-  Walk: '5'
-  Run: '0'
-  Actual Cycle: '0'
-  Actual Swim: '0'
-  Cycle: '0'
-  Swim: '0'
-  Total: '5'
 - Name: Eve
   Unit: '809'
   Vocation: AFE
@@ -58,6 +10,18 @@
   Cycle: '0'
   Swim: '0'
   Total: '50'
+- Name: Apple
+  Unit: '165'
+  Vocation: ADSS
+  Type Of Exercise: Swim
+  Mileage Clocked (KM): '3'
+  Walk: '0'
+  Run: '0'
+  Actual Cycle: '0'
+  Actual Swim: '3'
+  Cycle: '0'
+  Swim: '18'
+  Total: '18'
 - Name: Frank
   Unit: '163'
   Vocation: ADSS
@@ -82,3 +46,39 @@
   Cycle: '0'
   Swim: '6'
   Total: '6'
+- Name: Dan
+  Unit: '819'
+  Vocation: AFE
+  Type Of Exercise: Walk
+  Mileage Clocked (KM): '5'
+  Walk: '5'
+  Run: '0'
+  Actual Cycle: '0'
+  Actual Swim: '0'
+  Cycle: '0'
+  Swim: '0'
+  Total: '5'
+- Name: Chanel
+  Unit: '200'
+  Vocation: AWO
+  Type Of Exercise: Cycle
+  Mileage Clocked (KM): '10'
+  Walk: '0'
+  Run: '0'
+  Actual Cycle: '10'
+  Actual Swim: '0'
+  Cycle: '2.5'
+  Swim: '0'
+  Total: '2.5'
+- Name: Ben
+  Unit: '202'
+  Vocation: AOSX
+  Type Of Exercise: Run
+  Mileage Clocked (KM): '2'
+  Walk: '0'
+  Run: '2'
+  Actual Cycle: '0'
+  Actual Swim: '0'
+  Cycle: '0'
+  Swim: '0'
+  Total: '2'
