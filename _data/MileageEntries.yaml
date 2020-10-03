@@ -50,14 +50,14 @@
   Unit: '809'
   Vocation: AFE
   Type Of Exercise: Run
-  Mileage Clocked (KM): '50000'
+  Mileage Clocked (KM): '50'
   Walk: '0'
-  Run: '50000'
+  Run: '50'
   Actual Cycle: '0'
   Actual Swim: '0'
   Cycle: '0'
   Swim: '0'
-  Total: '50000'
+  Total: '50'
 - Name: Frank
   Unit: '163'
   Vocation: ADSS
