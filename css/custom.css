@@ -97,6 +97,11 @@ a.navbar-brand {
     letter-spacing: 0.2rem;
 }
 
+/* Badges */
+.award-badge {
+    padding: 10px;
+}
+
 /* Clock */
 #clockdiv{
     font-family: Oxanium;
