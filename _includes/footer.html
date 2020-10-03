@@ -22,10 +22,6 @@
     console.log(indiv_labels);
     console.log(indiv_data);
 
-    {% for item in entries limit:3 reversed %}
-       console.log("{{ item.Name }}");
-    {% endfor %}
-
     // Create bar chart
     var indiv_chart = document.getElementById('indiv-lb').getContext("2d");
     var myChart = new Chart(indiv_chart, {
