@@ -17,10 +17,10 @@
         type: 'bar',
         data: {
             labels: [
-                {% for item in entries | reverse %}
+                {% for item in entries limit:10 %}
                     "{{ item.Name }}",
                 {% endfor %}
-            ].slice(0,10),
+            ],
             datasets: [{
                 borderWidth: 2,
                 borderColor: "#ee4c7c",
@@ -28,10 +28,10 @@
                 fill: true,
                 lineTension: 0.1,
                 data: [
-                    {% for item in entries | reverse %}
+                    {% for item in entries limit:10 %}
                         "{{ item.Total }}",
                     {% endfor %}
-                ].slice(0,10)
+                ]
             }]
         },
         options: {
