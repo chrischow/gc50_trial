@@ -46,6 +46,19 @@
                         return "Mileage: " + tooltipItem.yLabel + ' km';
                     }
                 }
+            },
+            scales: {
+                xAxes: [{
+                    gridLines: {
+                        color: "rgba(0,0,0,0)"
+                    }
+                }],
+                yAxes: [{
+                    scaleLabel: {
+                        display: true,
+                        labelString: "Mileage (KM)"
+                    }
+                }]
             }
         }  
     });
@@ -85,8 +98,21 @@
                         return "Mileage: " + tooltipItem.yLabel + ' km';
                     }
                 }
-            }
-        }  
+            },
+            scales: {
+                xAxes: [{
+                    gridLines: {
+                        color: "rgba(0,0,0,0)"
+                    }
+                }],
+                yAxes: [{
+                    scaleLabel: {
+                        display: true,
+                        labelString: "Mileage (KM)"
+                    }
+                }]
+            },
+        }
     });
 
 
