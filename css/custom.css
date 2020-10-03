@@ -9,11 +9,11 @@ Alt Accent: #ee4c7c
  */
 
 .bg-primary {
-    background-color: #0b0c10!important;
+    background-color: #1f2833!important;
 }
 
 .bg-dark {
-    background-color: #0b0c10!important;
+    background-color: #1f2833!important;
 }
 
 .bg-secondary {
@@ -53,6 +53,10 @@ a.navbar-brand {
     transition: 0.3s;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: #e5e6e7;
+}
+
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link {
     font-family: Poppins;
     font-weight: 200;
@@ -76,6 +80,17 @@ a.navbar-brand {
     color: #66fcf1;
 }
 
+#masthead {
+    background-image: url('../uploads/masthead_img_colorised.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
 .masthead-header {
     font-family: Montserrat;
     font-weight: 800;
@@ -93,7 +108,7 @@ a.navbar-brand {
 }
 
 .footer {
-    padding-top: 3rem;
+    padding-top: 2rem;
     padding-bottom: 0.5rem;
     padding-left: 0;
     padding-right: 0;
