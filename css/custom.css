@@ -100,9 +100,23 @@ a.navbar-brand {
     margin-bottom: 40px;
 }
 
+.page-section-subheader {
+    font-family: News Cycle, Lato;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2.4rem;
+    letter-spacing: 0.2rem;
+    margin-bottom: 20px;
+    color: #39424D;
+}
+
 /* Badges */
 .award-badge {
     padding: 10px;
+}
+
+.award-badge > img {
+    width: 175px;
 }
 
 /* Clock */
@@ -131,4 +145,62 @@ a.navbar-brand {
 
 .smalltext{
     font-size: 1.0rem;
+}
+
+/* Footer */
+.footer-col {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+
+    body {
+        font-size: 16px;
+    }
+    
+    /* Navbar */
+    .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    /* Panels */
+    .masthead {
+        padding-top: calc(5rem + 50px);
+        padding-bottom: 5rem;
+        color: #66fcf1;
+    }
+    
+    .masthead-header {
+        font-size: 3.0rem;
+    }
+
+    .page-section-header {
+
+        font-size: 2.5rem;
+        margin-bottom: 30px;
+    }
+    
+    .page-section-subheader {
+        font-size: 2.0rem;
+        letter-spacing: 0.2rem;
+        margin-bottom: 15px;
+    }
+    
+    /* Badges */
+    .award-badge {
+        padding: 10px;
+    }
+
+    .award-badge > img {
+        width: 125px;
+    }
+    
+    /* Clock */
+    #clockdiv{
+        font-size: 2.7rem;
+    }
+
 }

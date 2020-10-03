@@ -9,11 +9,7 @@
     });
 
     {% assign entries = site.data.MileageEntries %}
-    {% assign entries = entries | sort:"Unit" %}
-    
-    {% for item in entries %}
-        console.log("{{ item.Name }}");
-    {% endfor %}
+    {% assign entries = entries | sort:"Total" | reverse %}
 
     // Create bar chart
     var indiv_chart = document.getElementById('indiv-lb').getContext("2d");
@@ -24,17 +20,18 @@
                 {% for item in entries %}
                     "{{ item.Name }}",
                 {% endfor %}
-            ],
+            ].slice(0,10),
             datasets: [{
-                borderColor: "#27DDCB",
-                backgroundColor: "rgba(39,221,203, 0.4)",
+                borderWidth: 2,
+                borderColor: "#ee4c7c",
+                backgroundColor: "rgba(238, 76, 124, 0.4)",
                 fill: true,
                 lineTension: 0.1,
                 data: [
                     {% for item in entries %}
                         "{{ item.Total }}",
                     {% endfor %}
-                ]
+                ].slice(0,10)
             }]
         },
         options: {

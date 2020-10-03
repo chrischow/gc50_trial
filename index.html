@@ -32,64 +32,60 @@ title: GC50 Virtual Sport Challenge
 </section>
 
 <!-- Leaderboard -->
-<section id="leaderboard" class="leaderboard page-section bg-grey">
+<section id="leaderboard" class="leaderboard page-section">
     <div class="container">
-        <h2 class="page-section-header text-center">Leaderboard</h2>
-        <h3 class="page-section-subheader text-center">Unit</h3>
-        Graph with unit mileage
-        
-        <h3 class="page-section-subheader text-center">Individual</h3>
-        List of top individuals
-        {% assign entries = site.data.MileageEntries %}
-        {% assign entries = entries | sort:"Unit" %}
-        
-        <ul>
-            {% for entry in entries %}
-                <!-- {% if entry.Name != "" %} -->
-                <li><strong>{{ entry.Name }} ({{ entry.Unit }}):</strong> {{ entry.Total }}</li>
-                <!-- {% endif %} -->
-            {% endfor %}
-        </ul>
-        
-        <canvas id="indiv-lb" width="500" height="500"></canvas>
+        <div class="row justify-content-center">
+            <div class="col-11">
+                <h2 class="page-section-header text-center">Leaderboard</h2>
+                <h3 class="page-section-subheader text-center">Unit</h3>
+                Graph with unit mileage
+                
+                <h3 class="page-section-subheader text-center">Individual</h3>
+                <canvas id="indiv-lb" width="500" height="300"></canvas>
+            </div>
+        </div>
     </div>
 </section>
 
 <!-- Digital Badges -->
 <section id="badges" class="badges page-section bg-secondary">
     <div class="container text-alt">
-        <h2 class="page-section-header text-center">Digital Badges</h2>
-        Badges that flip when clicked to reveal the people who won them.
-        <div class="row justify-contents-center text-center">
-            <div class="award-badge col-6 col-md-4 col-md-2">
-                <img src="uploads/badge1.png" width="175">
-                <br>
-                Badge 1
-            </div>
-            <div class="award-badge col-6 col-md-4 col-md-2">
-                <img src="uploads/badge2.png" width="175">
-                <br>
-                Badge 2
-            </div>
-            <div class="award-badge col-6 col-md-4 col-md-2">
-                <img src="uploads/badge3.png" width="175">
-                <br>
-                Badge 3
-            </div>
-            <div class="award-badge col-6 col-md-4 col-md-2">
-                <img src="uploads/badge4.png" width="175">
-                <br>
-                Badge 4
-            </div>
-            <div class="award-badge col-6 col-md-4 col-md-2">
-                <img src="uploads/badge5.png" width="175">
-                <br>
-                Badge 5
-            </div>
-            <div class="award-badge col-6 col-md-4 col-md-2">
-                <img src="uploads/badge6.png" width="175">
-                <br>
-                Badge 6
+        <div class="row justify-content-center">
+            <div class="col-11">
+                <h2 class="page-section-header text-center">Digital Badges</h2>
+                Badges that flip when clicked to reveal the people who won them.
+                <div class="row justify-contents-center text-center">
+                    <div class="award-badge col-6 col-md-4 col-md-2">
+                        <img src="uploads/badge1.png" width="175">
+                        <br>
+                        Badge 1
+                    </div>
+                    <div class="award-badge col-6 col-md-4 col-md-2">
+                        <img src="uploads/badge2.png">
+                        <br>
+                        Badge 2
+                    </div>
+                    <div class="award-badge col-6 col-md-4 col-md-2">
+                        <img src="uploads/badge3.png">
+                        <br>
+                        Badge 3
+                    </div>
+                    <div class="award-badge col-6 col-md-4 col-md-2">
+                        <img src="uploads/badge4.png">
+                        <br>
+                        Badge 4
+                    </div>
+                    <div class="award-badge col-6 col-md-4 col-md-2">
+                        <img src="uploads/badge5.png">
+                        <br>
+                        Badge 5
+                    </div>
+                    <div class="award-badge col-6 col-md-4 col-md-2">
+                        <img src="uploads/badge6.png">
+                        <br>
+                        Badge 6
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -98,38 +94,51 @@ title: GC50 Virtual Sport Challenge
 <!-- Snapshots -->
 <section id="pics" class="pics page-section">
     <div class="container">
-        <h2 class="page-section-header text-center">Snapshots</h2>
-        Carousel of random pictures uploaded to GH    
+        <div class="row justify-content-center">
+            <div class="col-11">
+                <h2 class="page-section-header text-center">Snapshots</h2>
+                Carousel of random pictures uploaded to GH  
+            </div>
+        </div>
+          
     </div>
 </section>
 
 <!-- FB Feed -->
 <section id="fb-feed" class="fb-feed page-section bg-pink">
     <div class="container text-white">
-        <h2 class="page-section-header text-center">Join us on Facebook!</h2>
-        Facebook feed
+        <div class="row justify-content-center">
+            <div class="col-11">
+                <h2 class="page-section-header text-center">Join us on Facebook!</h2>
+                Facebook feed
+            </div>
+        </div>
     </div>
 </section>
 
 <!-- Submit Your Activity -->
 <section id="activity" class="activity page-section bg-secondary">
     <div class="container text-alt">
-        <h2 class="page-section-header text-center">Clock Your Mileage</h2>
-        Link to Google Forms; contact for help
+        <div class="row justify-content-center">
+            <div class="col-11">
+                <h2 class="page-section-header text-center">Clock Your Mileage</h2>
+                Link to Google Forms; contact for help
+            </div>
+        </div>
     </div>
 </section>
 
 <!-- Footer -->
 <footer id="footer" class="footer bg-footer">
     <div class="container text-white">
-        <div class="row text-center justify-content-between">
-            <div class="col-12 col-md-4">
+        <div class="row text-center justify-content-center">
+            <div class="footer-col col-10 col-md-4">
                 <h5>About</h5>
             </div>
-            <div class="col-12 col-md-4">
+            <div class="footer-col col-10 col-md-4">
                 <h5>Contact Us</h5>
             </div>
-            <div class="col-12 col-md-4">
+            <div class="footer-col col-10 col-md-4">
                 <h5>Credits</h5>
             </div>
         </div>
