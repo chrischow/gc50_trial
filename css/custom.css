@@ -161,7 +161,7 @@ a.navbar-brand {
 .footer-text {
     font-family: Poppins;
     font-weight: 200;
-    font-size: 1.0rem;
+    font-size: 0.95rem;
 }
 
 hr {
@@ -222,4 +222,10 @@ hr {
         font-size: 2.7rem;
     }
 
+    /* Footer */
+    .footer-text {
+        font-family: Poppins;
+        font-weight: 200;
+        font-size: 0.90rem;
+    }
 }
