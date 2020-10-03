@@ -85,10 +85,12 @@
         initializeClock('clockdiv', deadline);
 
         // Gooss
+        window.googleDocCallback = function () { return true; };
+
         gooss.data(
             {
                 Mileage: {
-                    url: "https://docs.google.com/spreadsheets/d/1CcJY0IFV5lQc5EM5fb9VvgWD1Qe3sRFsRlqSEBwjeHI",
+                    url: "https://docs.google.com/spreadsheets/d/1CcJY0IFV5lQc5EM5fb9VvgWD1Qe3sRFsRlqSEBwjeHI&callback=googleDocCallback",
                     index: 0
                 }
             },
