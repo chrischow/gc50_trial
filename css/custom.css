@@ -162,7 +162,7 @@ a.navbar-brand {
 }
 
 .award-badge > img {
-    width: 175px;
+    width: 225px;
 }
 
 .badge-title {
@@ -180,10 +180,13 @@ a.navbar-brand {
     /* font-weight: bold; */
     color: #39424D;
     font-size: 0.95rem;
+    transition: 0.3s;
 }
 
 .badge-text:hover {
-    color: #1B37DB;
+    color: #2dd2fa;
+    text-decoration: none;
+    transition: 0.3s;
 }
 
 .modal-title {
@@ -308,11 +311,20 @@ a.footer-link:hover {
     }
 
     .badge-title {
-        font-size: 1.0rem;
+        font-size: 1.2rem;
     }
     
     .badge-text {
-        font-size: 0.85rem;
+        font-size: 0.95rem;
+    }
+
+    .modal-title {
+        font-size: 1.2rem;
+        letter-spacing: 0.1rem;
+    }
+    
+    .modal-body {
+        font-size: 1.0rem;
     }
     
     /* Clock */
@@ -385,13 +397,22 @@ a.footer-link:hover {
     }
 
     .badge-title {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
         letter-spacing: 0.1rem;
     }
     
     .badge-text {
-        font-size: 0.75rem;
+        font-size: 0.65rem;
+        letter-spacing: 0.05rem;
+    }
+
+    .modal-title {
+        font-size: 1.0rem;
         letter-spacing: 0.1rem;
+    }
+    
+    .modal-body {
+        font-size: 0.9rem;
     }
     
     /* Clock */
