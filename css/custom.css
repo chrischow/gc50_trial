@@ -134,6 +134,10 @@ a.navbar-brand {
 }
 
 /* Leaderboard */
+.subcomm-lb-panel {
+    margin-top: 20px;
+}
+
 .indiv-lb-panel {
     margin-top: 20px;
 }

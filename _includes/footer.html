@@ -15,31 +15,31 @@
     if (screen.width > 576) {
         Chart.defaults.global.defaultFontSize = 16;
         var datalabel_fontsize = 14;
-        $("#unit-lb").attr("height", "300");
+        $("#subcomm-lb").attr("height", "300");
         $("#indiv-lb").attr("height", "300");
     } else {
         Chart.defaults.global.defaultFontSize = 12;
         var datalabel_fontsize = 10;
-        $("#unit-lb").attr("height", "500");
+        $("#subcomm-lb").attr("height", "500");
         $("#indiv-lb").attr("height", "500");
     };
 
-    // Unit Leaderboard
-    {% assign unit_entries = (site.data.unitMileage) %}
-    var unit_labels = []
-    var unit_data = []
+    // Sub-community Leaderboard
+    {% assign subcomm_entries = (site.data.subcommMileage) %}
+    var subcomm_labels = []
+    var subcomm_data = []
     
-    {% for item in unit_entries limit:10 %}
-        unit_labels.push("{{ item.Unit }}");
-        unit_data.push({{ item.Total }});
+    {% for item in subcomm_entries limit:10 %}
+        subcomm_labels.push("{{ item.Vocation }}");
+        subcomm_data.push({{ item.Total }});
     {% endfor %}
 
     // Create bar chart
-    var unit_chart = document.getElementById('unit-lb').getContext("2d");
-    var unitChart = new Chart(unit_chart, {
+    var subcomm_chart = document.getElementById('subcomm-lb').getContext("2d");
+    var subcommChart = new Chart(subcomm_chart, {
         type: 'horizontalBar',
         data: {
-            labels: unit_labels,
+            labels: subcomm_labels,
             datasets: [{
                 borderWidth: 2,
                 borderColor: "transparent",
@@ -47,7 +47,7 @@
                 hoverBackgroundColor: "rgba(39,221,203, 0.80)",
                 fill: true,
                 lineTension: 0.1,
-                data: unit_data
+                data: subcomm_data
             }]
         },
         options: {
