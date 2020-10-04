@@ -19,6 +19,7 @@
         $("#subcomm-lb").attr("height", "200");
         $("#indiv-lb").attr("height", "200");
 
+        var progressRingSize = 500;
         var progressRingFontSize = "3.0rem News Cycle";
     } else {
         Chart.defaults.global.defaultFontSize = 12;
@@ -26,6 +27,7 @@
         $("#subcomm-lb").attr("height", "300");
         $("#indiv-lb").attr("height", "500");
 
+        var progressRingSize = 300;
         var progressRingFontSize = "2.2rem News Cycle";
     };
 
@@ -33,7 +35,7 @@
     {% assign commProgress = site.data.commMileage[0].Total %}
     var comm_progress = $('#comm-progress').circleProgress({
         value: {{ commProgress }} / 50000,     // Completion here
-        size: 300,
+        size: progressRingSize,
         startAngle: - Math.PI / 2,
         fill: {
             gradient: ['#1B37DB', '#66fcf1']

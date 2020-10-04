@@ -249,6 +249,11 @@ a.footer-link:hover {
         font-size: 2.4rem;
     }
 
+    .page-section {
+        padding: 4rem 0;
+        color: #1f2833;
+    }
+
     .page-section-header {
 
         font-size: 2.0rem;
