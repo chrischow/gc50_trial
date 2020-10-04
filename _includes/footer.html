@@ -13,7 +13,25 @@
     // Chart defaults
     Chart.defaults.global.defaultFontFamily = "News Cycle";
 
-    if (screen.width > 576) {
+    if (screen.width <= 576) {
+        Chart.defaults.global.defaultFontSize = 12;
+        var datalabel_fontsize = 10;
+        $("#subcomm-lb").attr("height", "500");
+        $("#indiv-lb").attr("height", "500");
+
+        var progressRingSize = 250;
+        var progressRingFontSize = "2.2rem News Cycle";
+
+    } else if (screen.width <= 768) {
+        Chart.defaults.global.defaultFontSize = 14;
+        var datalabel_fontsize = 12;
+        $("#subcomm-lb").attr("height", "350");
+        $("#indiv-lb").attr("height", "350");
+
+        var progressRingSize = 300;
+        var progressRingFontSize = "2.6rem News Cycle";
+        
+    } else {
         Chart.defaults.global.defaultFontSize = 16;
         var datalabel_fontsize = 14;
         $("#subcomm-lb").attr("height", "200");
@@ -21,14 +39,6 @@
 
         var progressRingSize = 500;
         var progressRingFontSize = "3.0rem News Cycle";
-    } else {
-        Chart.defaults.global.defaultFontSize = 12;
-        var datalabel_fontsize = 10;
-        $("#subcomm-lb").attr("height", "300");
-        $("#indiv-lb").attr("height", "500");
-
-        var progressRingSize = 300;
-        var progressRingFontSize = "2.2rem News Cycle";
     };
 
     // Community 50,000km Progress Circle
