@@ -11,4 +11,5 @@ This is the official webpage for the GC50 Virtual Sports Challenge.
 * Participants submit activity via Google Forms anytime they complete it. They can submit as many entries as they wish.
 * Entries are saved into a Google Sheet (`Raw`).
 * Is there a plan to archive data to reduce the load on Google Sheets? There could potentially be thousands of entries.
-* Overall scores are tabulated in dedicated sheets `individualMileage` and `unitMileage`.
+* Overall scores are tabulated in dedicated sheets `individualMileage` and `unitMileage` using pivot tables.
+* Pivot tables are automatically refreshed (verify).
