@@ -4,11 +4,12 @@
 {% for badge_name in badge_names %}
 
     {% assign badge_list = badges | where_exp:"item","item.badge == badge_name and item.name != ''" | sort:"name" %}
-    <div class="award-badge col-6 col-md-4 col-md-2">
+    {% assign badge_list_name = badges | where:"badge",badge_name %}
+    <div class="award-badge col-6">
         <img src="uploads/{{ badge_name }}.png" width="175">
         <br>
         <span class="badge-title">
-            Placeholder
+            {{ badge_list_name[0].badgename }}
         </span>
         <br>
         <a href="" class="badge-text" data-toggle="modal" data-target="#{{ badge_name }}">
@@ -22,7 +23,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title" id="{{ badge_name }}Label">
-                        Placeholder
+                        {{ badge_list_name[0].badgename }} Badge
                     </h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
