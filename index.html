@@ -36,15 +36,19 @@ title: GC50 Virtual Sport Challenge
         <div class="row justify-content-center">
             <div class="col-11">
                 <h2 class="page-section-header text-center">Mileage Leaderboard</h2>
-                <div class="community-lb-panel">
-                    
+                <div class="community-lb-panel text-center">
+                    <h3 class="page-section-subheader text-center">Community</h3>
+                    <div id='comm-progress' class="progress-circle text-center"></div>
+                    <span class="lb-text">
+                        {{ site.data.commMileage[0].Total }} of 50,000km attained!
+                    </span>
                 </div>
                 <div class="subcomm-lb-panel">
                     <h3 class="page-section-subheader text-center">Sub-Community</h3>
-                    <canvas id="subcomm-lb" width="500" height="300"></canvas>
+                    <canvas id="subcomm-lb" width="500" height="200"></canvas>
                 </div>
                 <div class="indiv-lb-panel">
-                    <h3 class="page-section-subheader text-center">Individuals</h3>
+                    <h3 class="page-section-subheader text-center">Solo</h3>
                     <canvas id="indiv-lb" width="500" height="300"></canvas>
                 </div>
             </div>
@@ -154,8 +158,7 @@ title: GC50 Virtual Sport Challenge
                 <h5>Credits</h5>
                 <hr align="left">
                 <p class='footer-text'>
-                    Brought to you by the <strong>GC50 Virtual Sport Challenge Committee</strong> 
-                    and the <strong>RSAF Data Office</strong>.
+                    Brought to you by the <strong>GC50 Virtual Sport Challenge Committee</strong>.
                 </p>
             </div>
         </div>

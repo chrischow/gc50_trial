@@ -4,6 +4,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js" integrity="sha512-s+xg36jbIujB2S2VKfpGmlC3T5V2TF3lY48DX7u2r9XzGzgPsa6wTpOQA7J9iffvdeBN0q9tKzRxVxw1JviZPg==" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0"></script>
+<script src="{{ site.baseurl }}/assets/circle-progress.min.js"></script>
 <script>
     $(window).ready(function(){
         $('#main').animate({opacity: 1}, 700);
@@ -15,14 +16,46 @@
     if (screen.width > 576) {
         Chart.defaults.global.defaultFontSize = 16;
         var datalabel_fontsize = 14;
-        $("#subcomm-lb").attr("height", "300");
-        $("#indiv-lb").attr("height", "300");
+        $("#subcomm-lb").attr("height", "200");
+        $("#indiv-lb").attr("height", "200");
+
+        var progressRingFontSize = "3.0rem News Cycle";
     } else {
         Chart.defaults.global.defaultFontSize = 12;
         var datalabel_fontsize = 10;
-        $("#subcomm-lb").attr("height", "500");
+        $("#subcomm-lb").attr("height", "300");
         $("#indiv-lb").attr("height", "500");
+
+        var progressRingFontSize = "2.2rem News Cycle";
     };
+
+    // Community 50,000km Progress Circle
+    {% assign commProgress = site.data.commMileage[0].Total %}
+    var comm_progress = $('#comm-progress').circleProgress({
+        value: {{ commProgress }} / 50000,     // Completion here
+        size: 300,
+        startAngle: - Math.PI / 2,
+        fill: {
+            gradient: ['#1B37DB', '#66fcf1']
+        }
+    });
+    
+    comm_progress.on('circle-animation-progress', function(e, v) {
+        var obj = $(this).data('circle-progress'),
+            ctx = obj.ctx,
+            s = obj.size,
+            sv = ({{ commProgress }} / 500 * v).toFixed() + "%",
+            fill = obj.arcFill;
+            // fill = "#007bff"
+
+        ctx.save();
+        ctx.font = progressRingFontSize;
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillStyle = fill;
+        ctx.fillText(sv, s / 2, s / 2);
+        ctx.restore();
+    });
 
     // Sub-community Leaderboard
     {% assign subcomm_entries = (site.data.subcommMileage) %}
