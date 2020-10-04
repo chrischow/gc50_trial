@@ -1,0 +1,55 @@
+{% assign badge_names = "badge1,badge2,badge3,badge4,badge5,badge6,badge7,badge8" | split:"," %}
+{% assign badges = site.data.badges | sort:"badge" %}
+
+{% for badge_name in badge_names %}
+
+    {% assign badge_list = badges | where:"badge",badge_name | sort:"name" %}
+    {% assign badge_list_name = badges | where:"badge",badge_name %}
+    <div class="award-badge col-6">
+        <img src="uploads/{{ badge_name }}.png" width="175">
+        <br>
+        <span class="badge-title">
+            {{ badge_list_name[0].badgename }}
+        </span>
+        <br>
+        <a href="" class="badge-text" data-toggle="modal" data-target="#{{ badge_name }}">
+            {% assign n_unlocked = badge_list | size | minus:1 %}
+            {{ n_unlocked }} unlocked
+        </a>
+    </div>
+
+    <div class="modal fade" id="{{ badge_name }}" tabindex="-1" role="dialog" aria-labelledby="{{ badge_name }}Label" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="{{ badge_name }}Label">
+                        {{ badge_list_name[0].badgename }} Badge
+                    </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    {% if n_unlocked > 0 %}
+                        <div class="row">
+                            {% for entry in badge_list %}
+                                {% if entry.name.size > 0 %}
+                                    <div class="col-6">
+                                        {{ entry.name }}
+                                    </div>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        <div class="text-center">
+                            This badge has not been unlocked by anyone yet.
+                        </div>
+                    {% endif %}
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
