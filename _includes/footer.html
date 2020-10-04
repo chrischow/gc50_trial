@@ -45,10 +45,12 @@
     {% assign commProgress = site.data.commMileage[0].Total %}
     var comm_progress = $('#comm-progress').circleProgress({
         value: {{ commProgress }} / 50000,     // Completion here
+        //value: 0.70,
         size: progressRingSize,
         startAngle: - Math.PI / 2,
         fill: {
-            gradient: ['#1B37DB', '#66fcf1']
+            //gradient: ['#1B37DB', '#66fcf1']
+            color: '#090637'
         }
     });
     
