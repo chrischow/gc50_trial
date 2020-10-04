@@ -1,54 +1,76 @@
 - badge: badge1
+  badgename: Sharpshooter
   name: ''
   remarks: leave name blank
 - badge: badge2
+  badgename: Photographer
   name: ''
   remarks: leave name blank
 - badge: badge3
+  badgename: Influencer
   name: ''
   remarks: leave name blank
 - badge: badge4
+  badgename: Top 10 of the Week
   name: ''
   remarks: leave name blank
 - badge: badge5
+  badgename: Motivator
   name: ''
   remarks: leave name blank
 - badge: badge6
+  badgename: Builder
   name: ''
   remarks: leave name blank
 - badge: badge7
+  badgename: Mixed Team
+  name: ''
+  remarks: leave name blank
+- badge: badge8
+  badgename: Runner
   name: ''
   remarks: leave name blank
 - badge: badge1
+  badgename: Sharpshooter
   name: Person1
   remarks: ''
 - badge: badge2
+  badgename: Photographer
   name: PersonA
   remarks: ''
 - badge: badge2
+  badgename: Photographer
   name: PersonB
   remarks: ''
 - badge: badge2
+  badgename: Photographer
   name: PersonC
   remarks: ''
 - badge: badge3
+  badgename: Influencer
   name: Person1
   remarks: ''
 - badge: badge3
+  badgename: Influencer
   name: Person2
   remarks: ''
 - badge: badge3
+  badgename: Influencer
   name: Person3
   remarks: ''
 - badge: badge3
+  badgename: Influencer
   name: Person4
   remarks: ''
 - badge: badge3
+  badgename: Influencer
   name: Person5
   remarks: ''
 - badge: badge3
+  badgename: Influencer
   name: Person6
   remarks: ''
 - badge: badge3
+  badgename: Influencer
   name: Person7
   remarks: ''
