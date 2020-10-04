@@ -148,6 +148,14 @@ a.navbar-brand {
     margin-top: 20px;
 }
 
+.lb-text {
+    font-family: News Cycle;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+    color: #39424d;
+}
+
 /* Badges */
 .award-badge {
     padding: 10px;
@@ -157,12 +165,37 @@ a.navbar-brand {
     width: 175px;
 }
 
-.lb-text {
+.badge-title {
     font-family: News Cycle;
     text-transform: uppercase;
-    font-size: 1.5rem;
+    font-weight: bold;
+    font-size: 1.2rem;
     letter-spacing: 0.2rem;
-    col;or: #39424d;
+    color: #1f2833;
+}
+
+.badge-text {
+    font-family: Poppins;
+    text-transform: uppercase;
+    /* font-weight: bold; */
+    color: #39424D;
+    font-size: 0.95rem;
+}
+
+.badge-text:hover {
+    color: #1B37DB;
+}
+
+.modal-title {
+    font-family: News Cycle;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.4rem;
+    letter-spacing: 0.2rem;
+}
+
+.modal-body {
+    font-size: 1.0rem;
 }
 
 /* Clock */
