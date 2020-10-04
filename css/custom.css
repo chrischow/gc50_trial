@@ -224,6 +224,68 @@ a.footer-link:hover {
     transition: 0.3s;
 }
 
+/* Mobile - Horizontal */
+@media (max-width: 768px) {
+
+    body {
+        font-size: 18px;
+    }
+    
+    /* Panels */
+    .masthead {
+        padding-top: calc(5rem + 30px);
+        padding-bottom: 4rem;
+        color: #66fcf1;
+    }
+    
+    .masthead-header {
+        font-size: 2.8rem;
+    }
+
+    .page-section {
+        padding: 4rem 0;
+        color: #1f2833;
+    }
+
+    .page-section-header {
+
+        font-size: 2.2rem;
+        margin-bottom: 30px;
+    }
+    
+    .page-section-subheader {
+        font-size: 1.7rem;
+        letter-spacing: 0.2rem;
+        margin-bottom: 15px;
+    }
+    
+    /* Leaderboard */
+    .lb-text {
+        font-size: 1.5rem;
+        letter-spacing: 0.2rem;
+    }
+
+    /* Badges */
+    .award-badge {
+        padding: 10px;
+    }
+
+    .award-badge > img {
+        width: 125px;
+    }
+    
+    /* Clock */
+    #clockdiv{
+        font-size: 1.6rem;
+    }
+
+    /* Footer */
+    .footer-text {
+        font-family: Poppins;
+        font-weight: 200;
+        font-size: 0.95rem;
+    }
+}
 
 /* Mobile */
 @media (max-width: 576px) {
@@ -291,68 +353,5 @@ a.footer-link:hover {
         font-family: Poppins;
         font-weight: 200;
         font-size: 0.90rem;
-    }
-}
-
-/* Mobile - Horizontal */
-@media (max-width: 768px) {
-
-    body {
-        font-size: 18px;
-    }
-    
-    /* Panels */
-    .masthead {
-        padding-top: calc(5rem + 30px);
-        padding-bottom: 4rem;
-        color: #66fcf1;
-    }
-    
-    .masthead-header {
-        font-size: 2.8rem;
-    }
-
-    .page-section {
-        padding: 4rem 0;
-        color: #1f2833;
-    }
-
-    .page-section-header {
-
-        font-size: 2.2rem;
-        margin-bottom: 30px;
-    }
-    
-    .page-section-subheader {
-        font-size: 1.7rem;
-        letter-spacing: 0.2rem;
-        margin-bottom: 15px;
-    }
-    
-    /* Leaderboard */
-    .lb-text {
-        font-size: 1.5rem;
-        letter-spacing: 0.2rem;
-    }
-
-    /* Badges */
-    .award-badge {
-        padding: 10px;
-    }
-
-    .award-badge > img {
-        width: 125px;
-    }
-    
-    /* Clock */
-    #clockdiv{
-        font-size: 1.6rem;
-    }
-
-    /* Footer */
-    .footer-text {
-        font-family: Poppins;
-        font-weight: 200;
-        font-size: 0.95rem;
     }
 }
