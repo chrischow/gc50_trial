@@ -1,0 +1,54 @@
+- badge: badge1
+  name: ''
+  remarks: leave name blank
+- badge: badge2
+  name: ''
+  remarks: leave name blank
+- badge: badge3
+  name: ''
+  remarks: leave name blank
+- badge: badge4
+  name: ''
+  remarks: leave name blank
+- badge: badge5
+  name: ''
+  remarks: leave name blank
+- badge: badge6
+  name: ''
+  remarks: leave name blank
+- badge: badge7
+  name: ''
+  remarks: leave name blank
+- badge: badge1
+  name: Person1
+  remarks: ''
+- badge: badge2
+  name: PersonA
+  remarks: ''
+- badge: badge2
+  name: PersonB
+  remarks: ''
+- badge: badge2
+  name: PersonC
+  remarks: ''
+- badge: badge3
+  name: Person1
+  remarks: ''
+- badge: badge3
+  name: Person2
+  remarks: ''
+- badge: badge3
+  name: Person3
+  remarks: ''
+- badge: badge3
+  name: Person4
+  remarks: ''
+- badge: badge3
+  name: Person5
+  remarks: ''
+- badge: badge3
+  name: Person6
+  remarks: ''
+- badge: badge3
+  name: Person7
+  remarks: ''
