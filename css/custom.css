@@ -81,7 +81,7 @@ a.navbar-brand {
 }
 
 #masthead {
-    background-image: url('../uploads/masthead_img_colorised.png');
+    background-image: url('../assets/site/masthead_img_colorised.png');
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -304,7 +304,7 @@ a.footer-link:hover {
 
 /* The Team */
 #committee-top {
-    background-image: url('../uploads/team_img_colorised.png');
+    background-image: url('../assets/site/team_img_colorised.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

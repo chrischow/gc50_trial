@@ -6,7 +6,7 @@
     {% assign badge_list = badges | where:"badge",badge_name | sort:"name" %}
     {% assign badge_list_name = badges | where:"badge",badge_name %}
     <div class="award-badge col-6">
-        <img src="uploads/{{ badge_name }}.png">
+        <img src="assets/badges/{{ badge_name }}.png">
         <br>
         <span class="badge-title">
             {{ badge_list_name[0].badgename }}
