@@ -35,7 +35,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgba(31,40,51, 0.8);
 }
 
 .slide-box {
@@ -63,7 +63,6 @@
 .slide-img {
   width: 100%;
   /* max-height: 100%; */
-  /* object-fit: cover */
   -khtml-user-select: none;
   -o-user-select: none;
   -moz-user-select: none;
@@ -71,9 +70,9 @@
   user-select: none;
 }
 
-/* img.slide-img {
+img.slide-img {
   object-fit: cover;
-} */
+}
 
 .slide-video {
   width: 100%;

@@ -294,7 +294,7 @@ $(() => {
     sliderModal.style.display = 'block';
 
     function modalSmall(size) {
-      sliderContainer.style.height = (phoneScreenModal.matches) ? '50vh' : '90vh';
+      sliderContainer.style.height = (phoneScreenModal.matches) ? '70vh' : '90vh';
     }
 
     function modalLarge(size) {
