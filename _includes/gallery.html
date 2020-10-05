@@ -1,0 +1,57 @@
+<!-- Get image files -->
+<div class="slider-container">
+    <div class="slider-carousel">
+        <div class="slider">
+            {% for image in site.static_files %}
+                {% if image.path contains 'assets/gallery' %}
+                    <div class="slide-panel">
+                        <img class="slide-img" src="{{ site.baseurl }}{{ image.path }}" alt="">
+                        <!-- <div class="slide-box">
+                            <h2 class="slide-text">Slide 1</h2>
+                        </div> -->
+                        <div class="slide-overlay"></div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+  
+        <div class="slider-controls">
+            <span class="slider-arrow prev-slide">
+                <i class="material-icons">
+                    keyboard_arrow_left
+                </i>
+            </span>
+            <span class="slider-arrow next-slide">
+                <i class="material-icons">
+                    keyboard_arrow_right
+                </i>
+            </span>
+            <div class="slideshow-toggle">
+                <i class="material-icons play-slideshow">
+                    play_arrow
+                </i>
+                <i class="material-icons pause-slideshow">
+                    pause
+                </i>
+            </div>
+            <ul class="slide-selector">
+                {% assign img_counter = 0 %}
+                {% for image in site.static_files %}
+                    {% if image.path contains 'assets/gallery' %}
+                        {% assign img_counter = img_counter | plus: 1 %}
+                        {% if img_counter == 1 %}
+                            <li class="slide-selected"></li>
+                        {% else %}
+                            <li></li>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="slider-modal">
+    <span class="slider-close">&times;</span>
+    <div class="modal-slide"></div>
+</div>

@@ -6,53 +6,14 @@ title: GC50 Virtual Sport Challenge
 <!-- Masthead -->
 <section id="masthead" class="masthead text-center">
     <div class="container">
-        <h1 class="masthead-header">GC50 Virtual Sport<br>Challenge</h1>
-        <div class="masthead-text">
-            <div id="clockdiv">
-                <div>
-                    <span class="days"></span>
-                    <div class="smalltext">Days</div>
-                </div>
-                <div>
-                    <span class="hours"></span>
-                    <div class="smalltext">Hours</div>
-                </div>
-                <div>
-                    <span class="minutes"></span>
-                    <div class="smalltext">Minutes</div>
-                </div>
-                <div>
-                    <span class="seconds"></span>
-                    <div class="smalltext">Seconds</div>
-                </div>
-            </div>
-        </div>
+        {% include masthead.html %}
     </div>
 </section>
 
 <!-- Leaderboard -->
 <section id="leaderboard" class="leaderboard page-section">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-11">
-                <h2 class="page-section-header text-center">Mileage Leaderboard</h2>
-                <div class="community-lb-panel text-center">
-                    <h3 class="page-section-subheader text-center">GC50 Community</h3>
-                    <div id='comm-progress' class="progress-circle text-center"></div>
-                    <span class="lb-text">
-                        {{ site.data.commMileage[0].Total }} of 50,000km attained!
-                    </span>
-                </div>
-                <div class="subcomm-lb-panel">
-                    <h3 class="page-section-subheader text-center">Sub-Community</h3>
-                    <canvas id="subcomm-lb" width="500" height="200"></canvas>
-                </div>
-                <div class="indiv-lb-panel">
-                    <h3 class="page-section-subheader text-center">Solo</h3>
-                    <canvas id="indiv-lb" width="500" height="300"></canvas>
-                </div>
-            </div>
-        </div>
+        {% include leaderboard.html %}
     </div>
 </section>
 
@@ -74,7 +35,7 @@ title: GC50 Virtual Sport Challenge
         <div class="row justify-content-center">
             <div class="col-11 text-center">
                 <h2 class="page-section-header text-center">Digital Badges</h2>
-                Status of badges: total unlocked and a pop-up with the names of those who unlocked the badge.
+                Collect badges for your activity!
                 <div class="row justify-contents-center text-center">
                     {% include badges.html %}
                 </div>
@@ -89,7 +50,7 @@ title: GC50 Virtual Sport Challenge
         <div class="row justify-content-center">
             <div class="col-11 text-center">
                 <h2 class="page-section-header">Snapshots</h2>
-                Carousel of random pictures uploaded to GH  
+                {% include gallery.html %}
             </div>
         </div>
           
