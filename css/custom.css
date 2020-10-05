@@ -237,6 +237,36 @@ a.navbar-brand {
 }
 
 /* Snapshots */
+.carousel-inner {
+    height: 500px!important;
+}
+
+.carousel-item {
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.carousel-item img {
+    position: absolute;
+    width: 100%;
+    vertical-align: bottom;
+}
+
+/* Lightbox */
+#lightboxOverlay { 
+    position: fixed !important; 
+    top: 0; 
+    left: 0; 
+    height: 100% !important; 
+    width: 100% !important; 
+}
+
+#lightbox { 
+    position: fixed !important; 
+    top: 50% !important; 
+    transform: translateY(-50%); 
+}
 
 /* Footer */
 .footer-col {
@@ -267,6 +297,74 @@ a.footer-link:hover {
     color: #66fcf1;
     text-decoration: none;
     transition: 0.3s;
+}
+
+/* The Team */
+#committee-top {
+    background-image: url('../uploads/team_img_colorised.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.committee-top {
+    padding-top: calc(10rem + 74px);
+    padding-bottom: 10rem;
+    color: #66fcf1;
+}
+
+.thumbnail {
+    border-radius: 50%;
+    width: 225px;
+    height: 225px;
+    object-fit: cover;
+    filter: drop-shadow(1px 3px 5px rgba(33, 33, 33, 0.6));
+    transition: 0.3s;
+    margin-bottom: 15px;
+}
+
+.thumbnail:hover {
+    filter: drop-shadow(5px 8px 16px rgba(33, 33, 33, 0.6));
+    transition: 0.3s;
+}
+
+.thumb-pink {
+    border: 10px solid #ee4c7c;
+}
+
+.thumb-dark {
+    border: 10px solid #090637;
+}
+
+.thumb-green {
+    border: 10px solid #27ddcb;
+}
+
+.thumb-light {
+    border: 10px solid #1f2833;
+}
+
+.member {
+    margin: 30px 0;
+}
+
+.member-name {
+    font-family: News Cycle;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.7rem;
+    letter-spacing: 0.2rem;
+    color: #1f2833;
+}
+
+.member-desig {
+    font-family: News Cycle;
+    color: #858E99;
+    font-size: 1.2rem;
 }
 
 /* Mobile - Horizontal */
@@ -339,6 +437,11 @@ a.footer-link:hover {
     /* Clock */
     #clockdiv{
         font-size: 1.6rem;
+    }
+
+    /* Snapshots */
+    .carousel-inner {
+        height: 300px!important;
     }
 
     /* Footer */
@@ -427,6 +530,11 @@ a.footer-link:hover {
     /* Clock */
     #clockdiv{
         font-size: 1.4rem;
+    }
+
+    /* Snapshots */
+    .carousel-inner {
+        height: 300px!important;
     }
 
     /* Footer */
