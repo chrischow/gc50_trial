@@ -237,6 +237,10 @@ a.navbar-brand {
 }
 
 /* Snapshots */
+#carouselIndicators {
+    box-shadow: 5px 8px 16px rgba(33, 33, 33, 0.2);
+}
+
 .carousel-inner {
     height: 500px!important;
 }
@@ -311,8 +315,8 @@ a.footer-link:hover {
 }
 
 .committee-top {
-    padding-top: calc(10rem + 74px);
-    padding-bottom: 10rem;
+    padding-top: calc(12rem + 74px);
+    padding-bottom: 12rem;
     color: #66fcf1;
 }
 
@@ -324,6 +328,7 @@ a.footer-link:hover {
     filter: drop-shadow(1px 3px 5px rgba(33, 33, 33, 0.6));
     transition: 0.3s;
     margin-bottom: 15px;
+    border-width: 10px;
 }
 
 .thumbnail:hover {
@@ -332,19 +337,28 @@ a.footer-link:hover {
 }
 
 .thumb-pink {
-    border: 10px solid #ee4c7c;
+    border-style: solid;
+    border-color: #ee4c7c;
 }
 
 .thumb-dark {
-    border: 10px solid #090637;
+    border-style: solid;
+    border-color: #1f2833;
+}
+
+.thumb-blue {
+    border-style: solid;
+    border-color: #3C396A;
 }
 
 .thumb-green {
-    border: 10px solid #27ddcb;
+    border-style: solid;
+    border-color: #00AA98;
 }
 
 .thumb-light {
-    border: 10px solid #1f2833;
+    border-style: solid;
+    border-color: #39424D;
 }
 
 .member {
@@ -449,6 +463,26 @@ a.footer-link:hover {
         font-weight: 200;
         font-size: 0.95rem;
     }
+
+    /* Committee */
+    .thumbnail {
+        width: 200px;
+        height: 200px;
+        border-width: 9px;
+    }
+
+    .member-name {
+        font-size: 1.5rem;
+        letter-spacing: 0.2rem;
+    }
+    
+    .member-desig {
+        font-size: 1.1rem;
+    }
+
+    .member {
+        margin: 20px 0;
+    }
 }
 
 /* Mobile */
@@ -476,7 +510,7 @@ a.footer-link:hover {
     }
 
     .page-section {
-        padding: 4rem 0;
+        padding: 3rem 0;
         color: #1f2833;
     }
 
@@ -541,5 +575,25 @@ a.footer-link:hover {
         font-family: Poppins;
         font-weight: 200;
         font-size: 0.90rem;
+    }
+
+    /* Committee */
+    .thumbnail {
+        width: 150px;
+        height: 150px;
+        border-width: 7px;
+    }
+
+    .member-name {
+        font-size: 1.3rem;
+        letter-spacing: 0.2rem;
+    }
+    
+    .member-desig {
+        font-size: 1.0rem;
+    }
+
+    .member {
+        margin: 15px 0;
     }
 }
