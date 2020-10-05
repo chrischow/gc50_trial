@@ -239,9 +239,9 @@
 
 /* Small Tablet (Slider) */
 @media only screen and (max-width: 843px) {
-  .slider-controls {
+  /* .slider-controls {
     display: none;
-  }
+  } */
 }
 
 /* Tablet (Slider) */
@@ -267,7 +267,7 @@
     font-weight: 600;
   }
 
-  .slider-controls {
+  /* .slider-controls {
     display: none;
-  }
+  } */
 }
