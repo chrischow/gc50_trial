@@ -17,11 +17,18 @@
         {% assign img_counter = 0 %}
         {% for image in site.static_files %}
             {% if image.path contains 'assets/gallery' %}
-                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="gallery">
                     {% if img_counter == 0 %}
-                        <div class="carousel-item active" style="background-image: url({{ site.baseurl }}{{ image.path }});"></div>
+                        <div class="carousel-item active" style="background-image: url({{ site.baseurl }}{{ image.path }});">
+                            <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="gallery">
+                                <div class="carousel-item-link"></div>
+                            </a>
+                        </div>
                     {% else %}
-                        <div class="carousel-item" style="background-image: url({{ site.baseurl }}{{ image.path }});"></div>
+                        <div class="carousel-item" style="background-image: url({{ site.baseurl }}{{ image.path }});">
+                            <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="gallery">
+                                <div class="carousel-item-link"></div>
+                            </a>
+                        </div>
                     {% endif %}
                     {% assign img_counter = img_counter | plus: 1 %}
                 </a>
@@ -30,11 +37,11 @@
     </div>
 
     <!-- Carousel controls -->
-    <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
+    <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev" style="z-index: 100;">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
     </a>
-    <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
+    <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next" style="z-index: 100;">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
