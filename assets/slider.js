@@ -95,7 +95,7 @@ $(() => {
     slideDirection = -1;
 
     sliderCarousel.style.justifyContent = 'flex-start';
-    slider.style.transform = 'translate(-20%)';
+    // slider.style.transform = 'translate(-20%)';
     slider.style.transform = `translate(-${(100 / numSlides)}%)`;
   }
 
