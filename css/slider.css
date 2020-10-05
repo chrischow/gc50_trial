@@ -71,9 +71,9 @@
   user-select: none;
 }
 
-img.slide-img {
+/* img.slide-img {
   object-fit: cover;
-}
+} */
 
 .slide-video {
   width: 100%;
