@@ -397,6 +397,13 @@ a.footer-link:hover {
     transition: 0.3s;
 }
 
+.info-head {
+    padding-top: calc(9rem + 74px);
+    padding-bottom: 9rem;
+    background-color: rgba(31,40,51, 0.94);
+    color: #66fcf1;
+}
+
 /* Mobile - Horizontal */
 @media (max-width: 768px) {
 
@@ -406,7 +413,7 @@ a.footer-link:hover {
     
     /* Panels */
     .masthead {
-        padding-top: calc(5rem + 30px);
+        padding-top: calc(5rem + 40px);
         padding-bottom: 5rem;
         color: #66fcf1;
     }
@@ -499,6 +506,12 @@ a.footer-link:hover {
 
     .member {
         margin: 20px 0;
+    }
+
+    /* Info Pages */
+    .info-head {
+        padding-top: calc(7rem + 50px);
+        padding-bottom: 7rem;
     }
 }
 
@@ -612,5 +625,11 @@ a.footer-link:hover {
 
     .member {
         margin: 15px 0;
+    }
+
+    /* Info Pages */
+    .info-head {
+        padding-top: calc(7rem + 50px);
+        padding-bottom: 7rem;
     }
 }

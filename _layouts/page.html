@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+    
+    {% include head.html %}
+    
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
+            <a class="navbar-brand" href="{{ site.baseurl }}/">
+                GC50
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/leaderboard">Leaderboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/rules">Rules</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ site.baseurl }}/the_team">Credits</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class='spacer'></div>
+        <div id='main'>
+
+            <!-- Default header -->
+            <section id="info-head" class="info-head">
+                <div class="container text-center">
+                    <div class="row justify-content-center">
+                        <div class="col-11">
+                            <h1 class="masthead-header">{{ page.title }}</h1>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            {{ content }}
+        </div>
+
+        {% include footer.html %}
+
+    </body>
+</html>
