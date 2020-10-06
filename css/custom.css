@@ -407,20 +407,25 @@ a.footer-link:hover {
 
 .btn-qa {
     height: 3.0rem;
-    background-color: #3C396A;
-    font-size: 1.2rem;
-    color: #d9d9d9;
+    background-color: #ee4c7c;
+    color: #e9e9e9;
     box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
     transition: 0.3s;
+    font-family: News Cycle;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    letter-spacing: 0.1rem;
 }
 
 .btn-qa:hover{
+    background-color: #D53363;
     color: white;
     transition: 0.3s;
 }
 
 .card {
     font-size: 1.0rem;
+    color: #39424d;
     transition: 0.3s;
 }
 
