@@ -64,8 +64,8 @@ a.navbar-brand {
     font-size: 1.0rem;
     letter-spacing: 0.2rem;
     transition: 0.3s;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
@@ -397,11 +397,36 @@ a.footer-link:hover {
     transition: 0.3s;
 }
 
+/* Rules and FAQ */
 .info-head {
     padding-top: calc(9rem + 74px);
     padding-bottom: 9rem;
     background-color: rgba(31,40,51, 0.94);
     color: #66fcf1;
+}
+
+.btn-qa {
+    height: 3.0rem;
+    background-color: #3C396A;
+    font-size: 1.2rem;
+    color: #d9d9d9;
+    box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
+    transition: 0.3s;
+}
+
+.btn-qa:hover{
+    color: white;
+    transition: 0.3s;
+}
+
+.card {
+    font-size: 1.0rem;
+    transition: 0.3s;
+}
+
+.card:hover{
+    box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
+    transition: 0.3s;
 }
 
 /* Mobile - Horizontal */
