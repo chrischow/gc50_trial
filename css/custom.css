@@ -271,6 +271,40 @@ a.navbar-brand {
     transform: translateY(-50%); 
 }
 
+/* Social */
+img.fb-icon {
+    width: 120px;
+    transition: 0.3s;
+    filter: saturate(0.7) contrast(3) hue-rotate(19deg) brightness(1.05);
+}
+
+img.fb-icon:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+/* Clock Mileage */
+img.sheets-icon {
+    width: 120px;
+    transition: 0.3s;
+    filter: saturate(3);
+}
+
+img.sheets-icon:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+/* .saturate { filter: saturate(3); }
+.grayscale { filter: grayscale(100%); }
+.contrast { filter: contrast(160%); }
+.brightness { filter: brightness(0.25); }
+.blur { filter: blur(3px); }
+.invert { filter: invert(100%); }
+.sepia { filter: sepia(100%); }
+.huerotate { filter: hue-rotate(180deg); }
+.rss.opacity { filter: opacity(50%); } */
+
 /* Footer */
 .footer-col {
     padding-top: 10px;
@@ -432,6 +466,10 @@ a.footer-link:hover {
 .card:hover{
     box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
     transition: 0.3s;
+}
+
+.question {
+    margin-bottom: 20px;
 }
 
 /* Mobile - Horizontal */
