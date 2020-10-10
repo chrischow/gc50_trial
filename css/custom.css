@@ -377,7 +377,8 @@ a.footer-link:hover {
 
 .thumb-dark {
     border-style: solid;
-    border-color: #1f2833;
+    /* border-color: #1f2833; */
+    border-color: #000029;
 }
 
 .thumb-blue {
@@ -421,7 +422,7 @@ a.footer-link:hover {
     transition: 0.3s;
 }
 
-.member > img:hover + h4.member-name {
+/* .member > img:hover + h4.member-name {
     color: #00005C;
     transition: 0.3s;
 }
@@ -429,7 +430,7 @@ a.footer-link:hover {
 .member > img:hover ~ span.member-desig {
     color: #1B37DB;
     transition: 0.3s;
-}
+} */
 
 /* Rules and FAQ */
 .info-head {
