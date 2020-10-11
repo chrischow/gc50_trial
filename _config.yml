@@ -1,14 +1,14 @@
 # GC50 Website Trial
 
-title: GC50 Virtual Sport Challenge (Trial)
+title: GC50 Virtual Challenge
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  GC50 Virtual Sport Challenge
+  GC50 Virtual Challenge
 baseurl: "/gc50_trial" # the subpath of your site, e.g. /blog
-url: "https://chrischow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gc50vc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  chrischow
-github_repo: gc50_trial
+github_username:  gc50vc
+github_repo: ''
 
 plugins:
 - jekyll-feed
