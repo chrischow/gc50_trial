@@ -208,6 +208,15 @@ a.navbar-brand {
     letter-spacing: 0.2rem;
 }
 
+.modal-subtitle {
+    font-family: News Cycle;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    color: #39424d;
+}
+
 .modal-body {
     font-size: 1.0rem;
 }
@@ -565,6 +574,10 @@ table {
         font-size: 1.2rem;
         letter-spacing: 0.1rem;
     }
+
+    .modal-subtitle {
+        font-size: 1.1rem;
+    }
     
     .modal-body {
         font-size: 1.0rem;
@@ -683,6 +696,10 @@ table {
     .modal-title {
         font-size: 1.0rem;
         letter-spacing: 0.1rem;
+    }
+
+    .modal-subtitle {
+        font-size: 0.95rem;
     }
     
     .modal-body {
