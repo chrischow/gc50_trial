@@ -335,8 +335,19 @@ hr {
 }
 
 a.footer-link:hover {
-    color: #66fcf1;
+    color: #ee4c7c;
     text-decoration: none;
+    transition: 0.3s;
+}
+
+/* Rules */
+a {
+    color: #ee4c7c;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #D53363;
     transition: 0.3s;
 }
 
