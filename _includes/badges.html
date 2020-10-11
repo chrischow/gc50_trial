@@ -31,7 +31,8 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <span class="modal-subtitle">{{ badge_list.first.definition }}</span>
+                    <p class="modal-subtitle text-left">{{ badge_list.first.definition }}</p>
+                    <br>
                     {% if n_unlocked > 0 %}
                         <div class="row">
                             {% for entry in badge_list %}

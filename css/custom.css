@@ -481,18 +481,28 @@ table {
 
 .btn-qa {
     /* height: 3.0rem; */
-    background-color: #ee4c7c;
+    /* background-color: #ee4c7c; */
+    background-color: #39424d;
     color: #e9e9e9;
     box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
     transition: 0.3s;
     font-family: News Cycle;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-size: 1.3rem;
     letter-spacing: 0.1rem;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .btn-qa:hover{
-    background-color: #D53363;
+    background-color: #ee4c7c;
+    color: white;
+    transition: 0.3s;
+}
+
+button.btn-qa[aria-expanded="true"]  {
+    background-color: #ee4c7c;
     color: white;
     transition: 0.3s;
 }
@@ -598,6 +608,22 @@ table {
         font-family: Poppins;
         font-weight: 200;
         font-size: 0.95rem;
+    }
+
+    /* Rules */
+    table {
+        font-size: 0.9rem;
+    }
+
+    .btn-qa {
+        font-size: 1.1rem;
+        letter-spacing: 0.1rem;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .card {
+        font-size: 0.9rem;
     }
 
     /* Committee */
