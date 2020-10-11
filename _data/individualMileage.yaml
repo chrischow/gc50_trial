@@ -1,206 +1,300 @@
-- Name: Live Data
-  Total: '2000'
-- Name: Andrea Ayers
-  Total: '1117'
-- Name: Kenneth Rogers
+- FBID: heidi_caldwell123
+  Total: '697'
+  Name: H. Caldwell
+- FBID: kenneth_rogers123
   Total: '290'
-- Name: Lori Pham
+  Name: K. Rogers
+- FBID: lori_pham123
   Total: '286'
-- Name: Kelsey Pacheco
+  Name: L. Pham
+- FBID: kelsey_pacheco123
   Total: '254'
-- Name: Sydney Parsons
+  Name: K. Pacheco
+- FBID: sydney_parsons123
   Total: '240'
-- Name: Arthur Kelly
+  Name: S. Parsons
+- FBID: arthur_kelly123
   Total: '230'
-- Name: Jennifer Robbins
+  Name: A. Kelly
+- FBID: jennifer_robbins123
   Total: '222'
-- Name: Morgan Woods
+  Name: J. Robbins
+- FBID: morgan_woods123
   Total: '216'
-- Name: Christopher Perry
+  Name: M. Woods
+- FBID: christopher_perry123
   Total: '205'
-- Name: Melinda Little
+  Name: C. Perry
+- FBID: melinda_little123
   Total: '204'
-- Name: Heidi Caldwell
-  Total: '197'
-- Name: Rick Rodriguez
+  Name: M. Little
+- FBID: rick_rodriguez123
   Total: '195'
-- Name: Aaron Graham
+  Name: R. Rodriguez
+- FBID: aaron_graham123
   Total: '193'
-- Name: Jerome Whitehead
+  Name: A. Graham
+- FBID: jerome_whitehead123
   Total: '189'
-- Name: Angel Ho
+  Name: J. Whitehead
+- FBID: angel_ho123
   Total: '188'
-- Name: Brian Lambert
+  Name: A. Ho
+- FBID: brian_lambert123
   Total: '185'
-- Name: Kyle Jones
+  Name: B. Lambert
+- FBID: kyle_jones123
   Total: '179'
-- Name: Ian Townsend
+  Name: K. Jones
+- FBID: ian_townsend123
   Total: '179'
-- Name: Sean Mcdonald
+  Name: I. Townsend
+- FBID: sean_mcdonald123
   Total: '176'
-- Name: Brandon Ramos
+  Name: S. Mcdonald
+- FBID: brandon_ramos123
   Total: '169'
-- Name: Tanya Lamb
+  Name: B. Ramos
+- FBID: tanya_lamb123
   Total: '167'
-- Name: William Brown
+  Name: T. Lamb
+- FBID: william_brown123
   Total: '165'
-- Name: Barbara Baker
+  Name: W. Brown
+- FBID: barbara_baker123
   Total: '164'
-- Name: Zachary Thomas
+  Name: B. Baker
+- FBID: zachary_thomas123
   Total: '160'
-- Name: Paula Scott
+  Name: Z. Thomas
+- FBID: paula_scott123
   Total: '154'
-- Name: Tammy Franco
+  Name: P. Scott
+- FBID: tammy_franco123
   Total: '152'
-- Name: Deborah Gonzales
+  Name: T. Franco
+- FBID: deborah_gonzales123
   Total: '147'
-- Name: Catherine Smith
+  Name: D. Gonzales
+- FBID: catherine_smith123
   Total: '146'
-- Name: Patricia Roberts
+  Name: C. Smith
+- FBID: patricia_roberts123
   Total: '142'
-- Name: Danielle Vaughn
+  Name: P. Roberts
+- FBID: danielle_vaughn123
   Total: '141'
-- Name: Shawn Brown
+  Name: D. Vaughn
+- FBID: shawn_brown123
   Total: '139'
-- Name: Cynthia Webb
+  Name: S. Brown
+- FBID: cynthia_webb123
   Total: '134'
-- Name: Vicki Flores
+  Name: C. Webb
+- FBID: vicki_flores123
   Total: '133'
-- Name: Jessica Carter
+  Name: V. Flores
+- FBID: jessica_carter123
   Total: '129'
-- Name: David Johnson
+  Name: J. Carter
+- FBID: david_johnson123
   Total: '129'
-- Name: Steven Johnson
+  Name: D. Johnson
+- FBID: steven_johnson123
   Total: '128'
-- Name: Todd Cross
+  Name: S. Johnson
+- FBID: todd_cross123
   Total: '128'
-- Name: David Bell
+  Name: T. Cross
+- FBID: david_bell123
   Total: '127'
-- Name: Evan Peterson
+  Name: D. Bell
+- FBID: evan_peterson123
   Total: '126'
-- Name: Susan Hill
+  Name: E. Peterson
+- FBID: susan_hill123
   Total: '124'
-- Name: Erica Raymond
+  Name: S. Hill
+- FBID: erica_raymond123
   Total: '121'
-- Name: Rachel Webb
+  Name: E. Raymond
+- FBID: rachel_webb123
   Total: '118'
-- Name: James Mays
+  Name: R. Webb
+- FBID: andrea_ayers123
   Total: '117'
-- Name: Lisa Simpson
+  Name: A. Ayers
+- FBID: james_mays123
+  Total: '117'
+  Name: J. Mays
+- FBID: lisa_simpson123
   Total: '116'
-- Name: Jonathan Calderon
+  Name: L. Simpson
+- FBID: jonathan_calderon123
   Total: '114'
-- Name: Mary Jackson
+  Name: J. Calderon
+- FBID: mary_jackson123
   Total: '114'
-- Name: Julie Lam
+  Name: M. Jackson
+- FBID: julie_lam123
   Total: '110'
-- Name: Jeffrey Smith
+  Name: J. Lam
+- FBID: jeffrey_smith123
   Total: '110'
-- Name: Amanda Taylor
+  Name: J. Smith
+- FBID: amanda_taylor123
   Total: '110'
-- Name: Paul Rogers
+  Name: A. Taylor
+- FBID: paul_rogers123
   Total: '110'
-- Name: Evelyn Christian
+  Name: P. Rogers
+- FBID: evelyn_christian123
   Total: '109'
-- Name: James Jones
+  Name: E. Christian
+- FBID: james_jones123
   Total: '109'
-- Name: Jade Johnson
+  Name: J. Jones
+- FBID: jade_johnson123
   Total: '108'
-- Name: Cameron Proctor
+  Name: J. Johnson
+- FBID: cameron_proctor123
   Total: '107'
-- Name: Angel Benson
+  Name: C. Proctor
+- FBID: angel_benson123
   Total: '105'
-- Name: Shelby Robertson
+  Name: A. Benson
+- FBID: shelby_robertson123
   Total: '101'
-- Name: Mark Villanueva
+  Name: S. Robertson
+- FBID: mark_villanueva123
   Total: '96'
-- Name: Jonathan Harris
+  Name: M. Villanueva
+- FBID: jonathan_harris123
   Total: '96'
-- Name: Steven Peterson
+  Name: J. Harris
+- FBID: steven_peterson123
   Total: '96'
-- Name: William Wallace
+  Name: S. Peterson
+- FBID: william_wallace123
   Total: '94'
-- Name: Catherine Wilkins
+  Name: W. Wallace
+- FBID: catherine_wilkins123
   Total: '92'
-- Name: Kimberly Thomas
+  Name: C. Wilkins
+- FBID: kimberly_thomas123
   Total: '92'
-- Name: Robert Clark
+  Name: K. Thomas
+- FBID: robert_clark123
   Total: '91'
-- Name: Pamela Graham
+  Name: R. Clark
+- FBID: pamela_graham123
   Total: '90'
-- Name: Lawrence Crawford
+  Name: P. Graham
+- FBID: lawrence_crawford123
   Total: '87'
-- Name: Antonio Taylor
+  Name: L. Crawford
+- FBID: antonio_taylor123
   Total: '87'
-- Name: Mark Booker
+  Name: A. Taylor
+- FBID: mark_booker123
   Total: '86'
-- Name: Danny Mason
+  Name: M. Booker
+- FBID: danny_mason123
   Total: '86'
-- Name: Anthony Warren
+  Name: D. Mason
+- FBID: anthony_warren123
   Total: '85'
-- Name: Ryan Mack
+  Name: A. Warren
+- FBID: ryan_mack123
   Total: '84'
-- Name: Jeffrey Fisher
+  Name: R. Mack
+- FBID: jeffrey_fisher123
   Total: '84'
-- Name: James Rodriguez
+  Name: J. Fisher
+- FBID: james_rodriguez123
   Total: '84'
-- Name: Harold Perez
+  Name: J. Rodriguez
+- FBID: harold_perez123
   Total: '82'
-- Name: Laura Tucker
+  Name: H. Perez
+- FBID: laura_tucker123
   Total: '79'
-- Name: Stephanie Walker
+  Name: L. Tucker
+- FBID: stephanie_walker123
   Total: '77'
-- Name: Paul Hoover
+  Name: S. Walker
+- FBID: paul_hoover123
   Total: '76'
-- Name: Johnny Lee
+  Name: P. Hoover
+- FBID: johnny_lee123
   Total: '75'
-- Name: Wendy Maynard
+  Name: J. Lee
+- FBID: wendy_maynard123
   Total: '75'
-- Name: Michael Brown
+  Name: W. Maynard
+- FBID: michael_brown123
   Total: '74'
-- Name: Tracey Nguyen
+  Name: M. Brown
+- FBID: tracey_nguyen123
   Total: '73'
-- Name: Misty Stout
+  Name: T. Nguyen
+- FBID: misty_stout123
   Total: '73'
-- Name: Justin Richardson
+  Name: M. Stout
+- FBID: justin_richardson123
   Total: '73'
-- Name: Matthew Payne
+  Name: J. Richardson
+- FBID: matthew_payne123
   Total: '71'
-- Name: Brandon Russell
+  Name: M. Payne
+- FBID: brandon_russell123
   Total: '70'
-- Name: Stefanie Tucker
+  Name: B. Russell
+- FBID: stefanie_tucker123
   Total: '69'
-- Name: William Baker
+  Name: S. Tucker
+- FBID: william_baker123
   Total: '65'
-- Name: Charles Tyler
+  Name: W. Baker
+- FBID: charles_tyler123
   Total: '60'
-- Name: Thomas Berry
+  Name: C. Tyler
+- FBID: thomas_berry123
   Total: '58'
-- Name: James Hammond
+  Name: T. Berry
+- FBID: james_hammond123
   Total: '54'
-- Name: Stephanie Lee DDS
+  Name: J. Hammond
+- FBID: stephanie_lee_dds123
   Total: '50'
-- Name: Veronica Barnett
+  Name: S. Lee
+- FBID: veronica_barnett123
   Total: '49'
-- Name: Craig Gonzalez
+  Name: V. Barnett
+- FBID: craig_gonzalez123
   Total: '42'
-- Name: Jonathan Gardner
+  Name: C. Gonzalez
+- FBID: jonathan_gardner123
   Total: '40'
-- Name: Rick Johnson
+  Name: J. Gardner
+- FBID: rick_johnson123
   Total: '35'
-- Name: Hannah Pitts
+  Name: R. Johnson
+- FBID: hannah_pitts123
   Total: '32'
-- Name: Barbara Williams
+  Name: H. Pitts
+- FBID: barbara_williams123
   Total: '27'
-- Name: Diana Lee
+  Name: B. Williams
+- FBID: diana_lee123
   Total: '26'
-- Name: Jacqueline Young
+  Name: D. Lee
+- FBID: jacqueline_young123
   Total: '26'
-- Name: Brandon Fuller
+  Name: J. Young
+- FBID: brandon_fuller123
   Total: '20'
-- Name: Lee g
-  Total: '11'
-- Name: George Cook
+  Name: B. Fuller
+- FBID: george_cook123
   Total: '10'
-- Name: TW
-  Total: '3'
+  Name: G. Cook
