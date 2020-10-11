@@ -371,8 +371,11 @@ ul > li {
 }
 
 table {
-    padding-bottom: 10px;
     font-size: 1.0rem;
+}
+
+.table-container {
+    margin-bottom: 20px;
 }
 
 /* The Team */
