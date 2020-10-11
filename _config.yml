@@ -16,7 +16,7 @@ plugins:
 sass:
     sass_dir: css
 
-integration_spreadsheet_key: 1CcJY0IFV5lQc5EM5fb9VvgWD1Qe3sRFsRlqSEBwjeHI
+integration_spreadsheet_key: 1P_eKRABIs7vQG0-p7Z8ElE_EpCOJl3bEJ8gUH5ScEHU
 
 defaults:
   - scope:
