@@ -1,76 +1,2292 @@
-- badge: badge1
-  badgename: Sharpshooter
+- timestamp: ''
   name: ''
-  remarks: leave name blank
-- badge: badge2
-  badgename: Photographer
+  alias: ''
+  badge: Baby Steps
+- timestamp: ''
   name: ''
-  remarks: leave name blank
-- badge: badge3
-  badgename: Influencer
+  alias: ''
+  badge: Half Ironman
+- timestamp: ''
   name: ''
-  remarks: leave name blank
-- badge: badge4
-  badgename: Top 10 of the Week
+  alias: ''
+  badge: Ironman
+- timestamp: ''
   name: ''
-  remarks: leave name blank
-- badge: badge5
-  badgename: Motivator
+  alias: ''
+  badge: ONE PUNCHHHHH
+- timestamp: ''
   name: ''
-  remarks: leave name blank
-- badge: badge6
-  badgename: Builder
+  alias: ''
+  badge: Mount Everest
+- timestamp: ''
   name: ''
-  remarks: leave name blank
-- badge: badge7
-  badgename: Mixed Team
+  alias: ''
+  badge: Marathon
+- timestamp: ''
   name: ''
-  remarks: leave name blank
-- badge: badge8
-  badgename: Runner
+  alias: ''
+  badge: Run For Your Life
+- timestamp: ''
   name: ''
-  remarks: leave name blank
-- badge: badge1
-  badgename: Sharpshooter
-  name: Person1
-  remarks: ''
-- badge: badge2
-  badgename: Photographer
-  name: PersonA
-  remarks: ''
-- badge: badge2
-  badgename: Photographer
-  name: PersonB
-  remarks: ''
-- badge: badge2
-  badgename: Photographer
-  name: PersonC
-  remarks: ''
-- badge: badge3
-  badgename: Influencer
-  name: Person1
-  remarks: ''
-- badge: badge3
-  badgename: Influencer
-  name: Person2
-  remarks: ''
-- badge: badge3
-  badgename: Influencer
-  name: Person3
-  remarks: ''
-- badge: badge3
-  badgename: Influencer
-  name: Person4
-  remarks: ''
-- badge: badge3
-  badgename: Influencer
-  name: Person5
-  remarks: ''
-- badge: badge3
-  badgename: Influencer
-  name: Person6
-  remarks: ''
-- badge: badge3
-  badgename: Influencer
-  name: Person7
-  remarks: ''
+  alias: ''
+  badge: Buns of Steel
+- timestamp: ''
+  name: ''
+  alias: ''
+  badge: Cycopath
+- timestamp: ''
+  name: ''
+  alias: ''
+  badge: Tour de Singapore
+- timestamp: ''
+  name: ''
+  alias: ''
+  badge: Frogman
+- timestamp: ''
+  name: ''
+  alias: ''
+  badge: Sailfish
+- timestamp: ''
+  name: ''
+  alias: ''
+  badge: Iron Lungs
+- timestamp: '09/10/2020 19:34:37'
+  name: Lee g
+  alias: Lee g
+  badge: Baby Steps
+- timestamp: '20/10/2020 00:14'
+  name: Patricia Roberts
+  alias: P. Roberts
+  badge: Baby Steps
+- timestamp: '20/10/2020 04:23'
+  name: Danielle Vaughn
+  alias: D. Vaughn
+  badge: Baby Steps
+- timestamp: '20/10/2020 10:21'
+  name: Sydney Parsons
+  alias: S. Parsons
+  badge: Baby Steps
+- timestamp: '20/10/2020 10:54'
+  name: Heidi Caldwell
+  alias: H. Caldwell
+  badge: Baby Steps
+- timestamp: '20/10/2020 14:03'
+  name: Jessica Carter
+  alias: J. Carter
+  badge: Baby Steps
+- timestamp: '20/10/2020 14:56'
+  name: Todd Cross
+  alias: T. Cross
+  badge: Baby Steps
+- timestamp: '20/10/2020 16:00'
+  name: Arthur Kelly
+  alias: A. Kelly
+  badge: Baby Steps
+- timestamp: '21/10/2020 02:33'
+  name: Rick Rodriguez
+  alias: R. Rodriguez
+  badge: Baby Steps
+- timestamp: '21/10/2020 03:47'
+  name: Tammy Franco
+  alias: T. Franco
+  badge: Baby Steps
+- timestamp: '21/10/2020 13:07'
+  name: Sean Mcdonald
+  alias: S. Mcdonald
+  badge: Baby Steps
+- timestamp: '21/10/2020 15:11'
+  name: Angel Ho
+  alias: A. Ho
+  badge: Baby Steps
+- timestamp: '21/10/2020 17:50'
+  name: Amanda Taylor
+  alias: A. Taylor
+  badge: Baby Steps
+- timestamp: '21/10/2020 23:00'
+  name: Rick Johnson
+  alias: R. Johnson
+  badge: Baby Steps
+- timestamp: '22/10/2020 01:10'
+  name: Anthony Warren
+  alias: A. Warren
+  badge: Baby Steps
+- timestamp: '22/10/2020 02:48'
+  name: Misty Stout
+  alias: M. Stout
+  badge: Baby Steps
+- timestamp: '22/10/2020 06:53'
+  name: Catherine Wilkins
+  alias: C. Wilkins
+  badge: Baby Steps
+- timestamp: '22/10/2020 09:19'
+  name: Steven Johnson
+  alias: S. Johnson
+  badge: Baby Steps
+- timestamp: '22/10/2020 10:06'
+  name: Robert Clark
+  alias: R. Clark
+  badge: Baby Steps
+- timestamp: '22/10/2020 17:54'
+  name: Erica Raymond
+  alias: E. Raymond
+  badge: Baby Steps
+- timestamp: '23/10/2020 02:15'
+  name: Charles Tyler
+  alias: C. Tyler
+  badge: Baby Steps
+- timestamp: '23/10/2020 03:16'
+  name: Stephanie Walker
+  alias: S. Walker
+  badge: Baby Steps
+- timestamp: '23/10/2020 05:12'
+  name: Brandon Russell
+  alias: B. Russell
+  badge: Baby Steps
+- timestamp: '23/10/2020 07:13'
+  name: James Jones
+  alias: J. Jones
+  badge: Baby Steps
+- timestamp: '23/10/2020 14:53'
+  name: Matthew Payne
+  alias: M. Payne
+  badge: Baby Steps
+- timestamp: '23/10/2020 17:30'
+  name: Shelby Robertson
+  alias: S. Robertson
+  badge: Baby Steps
+- timestamp: '23/10/2020 23:00'
+  name: Barbara Williams
+  alias: B. Williams
+  badge: Baby Steps
+- timestamp: '23/10/2020 23:58'
+  name: Lori Pham
+  alias: L. Pham
+  badge: Baby Steps
+- timestamp: '24/10/2020 02:18'
+  name: Mark Booker
+  alias: M. Booker
+  badge: Baby Steps
+- timestamp: '24/10/2020 03:37'
+  name: Steven Peterson
+  alias: S. Peterson
+  badge: Baby Steps
+- timestamp: '24/10/2020 04:44'
+  name: Evelyn Christian
+  alias: E. Christian
+  badge: Baby Steps
+- timestamp: '24/10/2020 08:08'
+  name: Jonathan Gardner
+  alias: J. Gardner
+  badge: Baby Steps
+- timestamp: '24/10/2020 13:32'
+  name: Angel Benson
+  alias: A. Benson
+  badge: Baby Steps
+- timestamp: '24/10/2020 17:13'
+  name: Julie Lam
+  alias: J. Lam
+  badge: Baby Steps
+- timestamp: '25/10/2020 01:17'
+  name: Cynthia Webb
+  alias: C. Webb
+  badge: Baby Steps
+- timestamp: '25/10/2020 10:35'
+  name: Shawn Brown
+  alias: S. Brown
+  badge: Baby Steps
+- timestamp: '25/10/2020 10:52'
+  name: Pamela Graham
+  alias: P. Graham
+  badge: Baby Steps
+- timestamp: '25/10/2020 13:41'
+  name: Michael Brown
+  alias: M. Brown
+  badge: Baby Steps
+- timestamp: '25/10/2020 15:47'
+  name: Danny Mason
+  alias: D. Mason
+  badge: Baby Steps
+- timestamp: '25/10/2020 19:08'
+  name: Paul Hoover
+  alias: P. Hoover
+  badge: Baby Steps
+- timestamp: '25/10/2020 21:57'
+  name: Zachary Thomas
+  alias: Z. Thomas
+  badge: Baby Steps
+- timestamp: '26/10/2020 00:17'
+  name: Paula Scott
+  alias: P. Scott
+  badge: Baby Steps
+- timestamp: '26/10/2020 00:40'
+  name: James Mays
+  alias: J. Mays
+  badge: Baby Steps
+- timestamp: '26/10/2020 01:09'
+  name: David Johnson
+  alias: D. Johnson
+  badge: Baby Steps
+- timestamp: '26/10/2020 02:47'
+  name: Christopher Perry
+  alias: C. Perry
+  badge: Baby Steps
+- timestamp: '26/10/2020 04:28'
+  name: Kimberly Thomas
+  alias: K. Thomas
+  badge: Baby Steps
+- timestamp: '26/10/2020 05:09'
+  name: William Wallace
+  alias: W. Wallace
+  badge: Baby Steps
+- timestamp: '26/10/2020 13:03'
+  name: Cameron Proctor
+  alias: C. Proctor
+  badge: Baby Steps
+- timestamp: '26/10/2020 22:32'
+  name: Kyle Jones
+  alias: K. Jones
+  badge: Baby Steps
+- timestamp: '26/10/2020 22:57'
+  name: William Brown
+  alias: W. Brown
+  badge: Baby Steps
+- timestamp: '27/10/2020 00:54'
+  name: Stephanie Lee DDS
+  alias: S. Lee
+  badge: Baby Steps
+- timestamp: '27/10/2020 01:29'
+  name: Deborah Gonzales
+  alias: D. Gonzales
+  badge: Baby Steps
+- timestamp: '27/10/2020 03:36'
+  name: Justin Richardson
+  alias: J. Richardson
+  badge: Baby Steps
+- timestamp: '27/10/2020 15:00'
+  name: Craig Gonzalez
+  alias: C. Gonzalez
+  badge: Baby Steps
+- timestamp: '27/10/2020 16:30'
+  name: Johnny Lee
+  alias: J. Lee
+  badge: Baby Steps
+- timestamp: '27/10/2020 23:17'
+  name: Tracey Nguyen
+  alias: T. Nguyen
+  badge: Baby Steps
+- timestamp: '28/10/2020 00:13'
+  name: Kenneth Rogers
+  alias: K. Rogers
+  badge: Baby Steps
+- timestamp: '28/10/2020 01:15'
+  name: Melinda Little
+  alias: M. Little
+  badge: Baby Steps
+- timestamp: '28/10/2020 06:07'
+  name: Wendy Maynard
+  alias: W. Maynard
+  badge: Baby Steps
+- timestamp: '28/10/2020 06:08'
+  name: Catherine Smith
+  alias: C. Smith
+  badge: Baby Steps
+- timestamp: '28/10/2020 06:23'
+  name: Kelsey Pacheco
+  alias: K. Pacheco
+  badge: Baby Steps
+- timestamp: '28/10/2020 07:12'
+  name: Evan Peterson
+  alias: E. Peterson
+  badge: Baby Steps
+- timestamp: '28/10/2020 09:16'
+  name: Ian Townsend
+  alias: I. Townsend
+  badge: Baby Steps
+- timestamp: '28/10/2020 11:38'
+  name: Jennifer Robbins
+  alias: J. Robbins
+  badge: Baby Steps
+- timestamp: '28/10/2020 14:37'
+  name: Jeffrey Fisher
+  alias: J. Fisher
+  badge: Baby Steps
+- timestamp: '29/10/2020 07:25'
+  name: Stefanie Tucker
+  alias: S. Tucker
+  badge: Baby Steps
+- timestamp: '29/10/2020 09:55'
+  name: William Baker
+  alias: W. Baker
+  badge: Baby Steps
+- timestamp: '29/10/2020 15:27'
+  name: Mary Jackson
+  alias: M. Jackson
+  badge: Baby Steps
+- timestamp: '29/10/2020 16:52'
+  name: Laura Tucker
+  alias: L. Tucker
+  badge: Baby Steps
+- timestamp: '29/10/2020 17:34'
+  name: Jonathan Calderon
+  alias: J. Calderon
+  badge: Baby Steps
+- timestamp: '30/10/2020 00:17'
+  name: Susan Hill
+  alias: S. Hill
+  badge: Baby Steps
+- timestamp: '30/10/2020 04:37'
+  name: Brandon Ramos
+  alias: B. Ramos
+  badge: Baby Steps
+- timestamp: '30/10/2020 05:54'
+  name: Lisa Simpson
+  alias: L. Simpson
+  badge: Baby Steps
+- timestamp: '30/10/2020 11:06'
+  name: Jeffrey Smith
+  alias: J. Smith
+  badge: Baby Steps
+- timestamp: '30/10/2020 23:55'
+  name: Mark Villanueva
+  alias: M. Villanueva
+  badge: Baby Steps
+- timestamp: '31/10/2020 01:00'
+  name: Jade Johnson
+  alias: J. Johnson
+  badge: Baby Steps
+- timestamp: '31/10/2020 21:18'
+  name: James Hammond
+  alias: J. Hammond
+  badge: Baby Steps
+- timestamp: '31/10/2020 22:59'
+  name: Morgan Woods
+  alias: M. Woods
+  badge: Baby Steps
+- timestamp: '31/10/2020 23:09'
+  name: Jacqueline Young
+  alias: J. Young
+  badge: Baby Steps
+- timestamp: '01/11/2020 5:27'
+  name: James Rodriguez
+  alias: J. Rodriguez
+  badge: Baby Steps
+- timestamp: '01/11/2020 9:19'
+  name: Diana Lee
+  alias: D. Lee
+  badge: Baby Steps
+- timestamp: '01/11/2020 14:11'
+  name: Aaron Graham
+  alias: A. Graham
+  badge: Baby Steps
+- timestamp: '02/11/2020 2:32'
+  name: Jerome Whitehead
+  alias: J. Whitehead
+  badge: Baby Steps
+- timestamp: '02/11/2020 4:48'
+  name: Thomas Berry
+  alias: T. Berry
+  badge: Baby Steps
+- timestamp: '02/11/2020 5:23'
+  name: Tanya Lamb
+  alias: T. Lamb
+  badge: Baby Steps
+- timestamp: '02/11/2020 7:46'
+  name: Paul Rogers
+  alias: P. Rogers
+  badge: Baby Steps
+- timestamp: '03/11/2020 10:36'
+  name: Lawrence Crawford
+  alias: L. Crawford
+  badge: Baby Steps
+- timestamp: '04/11/2020 7:10'
+  name: Barbara Baker
+  alias: B. Baker
+  badge: Baby Steps
+- timestamp: '04/11/2020 8:04'
+  name: Brian Lambert
+  alias: B. Lambert
+  badge: Baby Steps
+- timestamp: '04/11/2020 8:21'
+  name: Rachel Webb
+  alias: R. Webb
+  badge: Baby Steps
+- timestamp: '05/11/2020 11:53'
+  name: Veronica Barnett
+  alias: V. Barnett
+  badge: Baby Steps
+- timestamp: '06/11/2020 23:55'
+  name: Andrea Ayers
+  alias: A. Ayers
+  badge: Baby Steps
+- timestamp: '07/11/2020 17:06'
+  name: Ryan Mack
+  alias: R. Mack
+  badge: Baby Steps
+- timestamp: '07/11/2020 22:33'
+  name: Antonio Taylor
+  alias: A. Taylor
+  badge: Baby Steps
+- timestamp: '08/11/2020 4:22'
+  name: David Bell
+  alias: D. Bell
+  badge: Baby Steps
+- timestamp: '08/11/2020 11:25'
+  name: Brandon Fuller
+  alias: B. Fuller
+  badge: Baby Steps
+- timestamp: '10/11/2020 4:35'
+  name: Vicki Flores
+  alias: V. Flores
+  badge: Baby Steps
+- timestamp: '13/11/2020 00:30'
+  name: Harold Perez
+  alias: H. Perez
+  badge: Baby Steps
+- timestamp: '14/11/2020 21:09'
+  name: Hannah Pitts
+  alias: H. Pitts
+  badge: Baby Steps
+- timestamp: '16/11/2020 18:26'
+  name: Jonathan Harris
+  alias: J. Harris
+  badge: Baby Steps
+- timestamp: '27/11/2020 01:10'
+  name: George Cook
+  alias: G. Cook
+  badge: Baby Steps
+- timestamp: '25/10/2020 03:55'
+  name: Jessica Carter
+  alias: J. Carter
+  badge: Half Ironman
+- timestamp: '25/10/2020 18:08'
+  name: Erica Raymond
+  alias: E. Raymond
+  badge: Half Ironman
+- timestamp: '25/10/2020 21:53'
+  name: Paul Hoover
+  alias: P. Hoover
+  badge: Half Ironman
+- timestamp: '26/10/2020 00:40'
+  name: James Mays
+  alias: J. Mays
+  badge: Half Ironman
+- timestamp: '26/10/2020 00:48'
+  name: Tammy Franco
+  alias: T. Franco
+  badge: Half Ironman
+- timestamp: '26/10/2020 06:38'
+  name: Shawn Brown
+  alias: S. Brown
+  badge: Half Ironman
+- timestamp: '26/10/2020 12:43'
+  name: Amanda Taylor
+  alias: A. Taylor
+  badge: Half Ironman
+- timestamp: '27/10/2020 08:54'
+  name: William Wallace
+  alias: W. Wallace
+  badge: Half Ironman
+- timestamp: '28/10/2020 10:32'
+  name: Christopher Perry
+  alias: C. Perry
+  badge: Half Ironman
+- timestamp: '28/10/2020 21:27'
+  name: Pamela Graham
+  alias: P. Graham
+  badge: Half Ironman
+- timestamp: '28/10/2020 23:36'
+  name: Deborah Gonzales
+  alias: D. Gonzales
+  badge: Half Ironman
+- timestamp: '29/10/2020 05:04'
+  name: Sydney Parsons
+  alias: S. Parsons
+  badge: Half Ironman
+- timestamp: '29/10/2020 13:58'
+  name: Lori Pham
+  alias: L. Pham
+  badge: Half Ironman
+- timestamp: '31/10/2020 01:00'
+  name: Jade Johnson
+  alias: J. Johnson
+  badge: Half Ironman
+- timestamp: '31/10/2020 07:46'
+  name: Kelsey Pacheco
+  alias: K. Pacheco
+  badge: Half Ironman
+- timestamp: '31/10/2020 12:42'
+  name: William Brown
+  alias: W. Brown
+  badge: Half Ironman
+- timestamp: '31/10/2020 13:13'
+  name: Robert Clark
+  alias: R. Clark
+  badge: Half Ironman
+- timestamp: '01/11/2020 1:40'
+  name: Shelby Robertson
+  alias: S. Robertson
+  badge: Half Ironman
+- timestamp: '01/11/2020 6:57'
+  name: Kenneth Rogers
+  alias: K. Rogers
+  badge: Half Ironman
+- timestamp: '01/11/2020 18:33'
+  name: Heidi Caldwell
+  alias: H. Caldwell
+  badge: Half Ironman
+- timestamp: '01/11/2020 23:46'
+  name: Paula Scott
+  alias: P. Scott
+  badge: Half Ironman
+- timestamp: '02/11/2020 2:32'
+  name: Jerome Whitehead
+  alias: J. Whitehead
+  badge: Half Ironman
+- timestamp: '02/11/2020 5:16'
+  name: Patricia Roberts
+  alias: P. Roberts
+  badge: Half Ironman
+- timestamp: '03/11/2020 11:20'
+  name: James Jones
+  alias: J. Jones
+  badge: Half Ironman
+- timestamp: '04/11/2020 5:44'
+  name: Jennifer Robbins
+  alias: J. Robbins
+  badge: Half Ironman
+- timestamp: '04/11/2020 7:31'
+  name: Paul Rogers
+  alias: P. Rogers
+  badge: Half Ironman
+- timestamp: '04/11/2020 8:39'
+  name: Arthur Kelly
+  alias: A. Kelly
+  badge: Half Ironman
+- timestamp: '04/11/2020 21:41'
+  name: Mark Villanueva
+  alias: M. Villanueva
+  badge: Half Ironman
+- timestamp: '04/11/2020 22:51'
+  name: Angel Ho
+  alias: A. Ho
+  badge: Half Ironman
+- timestamp: '04/11/2020 22:59'
+  name: Danielle Vaughn
+  alias: D. Vaughn
+  badge: Half Ironman
+- timestamp: '05/11/2020 0:18'
+  name: Rick Rodriguez
+  alias: R. Rodriguez
+  badge: Half Ironman
+- timestamp: '05/11/2020 11:04'
+  name: Melinda Little
+  alias: M. Little
+  badge: Half Ironman
+- timestamp: '05/11/2020 13:57'
+  name: Cynthia Webb
+  alias: C. Webb
+  badge: Half Ironman
+- timestamp: '05/11/2020 14:17'
+  name: Evelyn Christian
+  alias: E. Christian
+  badge: Half Ironman
+- timestamp: '05/11/2020 18:44'
+  name: Jeffrey Smith
+  alias: J. Smith
+  badge: Half Ironman
+- timestamp: '06/11/2020 14:54'
+  name: Matthew Payne
+  alias: M. Payne
+  badge: Half Ironman
+- timestamp: '07/11/2020 1:11'
+  name: Lisa Simpson
+  alias: L. Simpson
+  badge: Half Ironman
+- timestamp: '07/11/2020 7:45'
+  name: Jonathan Calderon
+  alias: J. Calderon
+  badge: Half Ironman
+- timestamp: '07/11/2020 19:46'
+  name: Sean Mcdonald
+  alias: S. Mcdonald
+  badge: Half Ironman
+- timestamp: '07/11/2020 23:05'
+  name: Jeffrey Fisher
+  alias: J. Fisher
+  badge: Half Ironman
+- timestamp: '08/11/2020 2:58'
+  name: Brandon Ramos
+  alias: B. Ramos
+  badge: Half Ironman
+- timestamp: '08/11/2020 3:22'
+  name: Aaron Graham
+  alias: A. Graham
+  badge: Half Ironman
+- timestamp: '09/11/2020 0:04'
+  name: Angel Benson
+  alias: A. Benson
+  badge: Half Ironman
+- timestamp: '09/11/2020 12:22'
+  name: Morgan Woods
+  alias: M. Woods
+  badge: Half Ironman
+- timestamp: '10/11/2020 17:27'
+  name: Andrea Ayers
+  alias: A. Ayers
+  badge: Half Ironman
+- timestamp: '10/11/2020 17:34'
+  name: Kyle Jones
+  alias: K. Jones
+  badge: Half Ironman
+- timestamp: '11/11/2020 12:11'
+  name: Johnny Lee
+  alias: J. Lee
+  badge: Half Ironman
+- timestamp: '11/11/2020 14:15'
+  name: Barbara Baker
+  alias: B. Baker
+  badge: Half Ironman
+- timestamp: '11/11/2020 22:05'
+  name: Brandon Russell
+  alias: B. Russell
+  badge: Half Ironman
+- timestamp: '12/11/2020 0:54'
+  name: Cameron Proctor
+  alias: C. Proctor
+  badge: Half Ironman
+- timestamp: '12/11/2020 4:39'
+  name: Vicki Flores
+  alias: V. Flores
+  badge: Half Ironman
+- timestamp: '12/11/2020 8:39'
+  name: Susan Hill
+  alias: S. Hill
+  badge: Half Ironman
+- timestamp: '12/11/2020 18:39'
+  name: Brian Lambert
+  alias: B. Lambert
+  badge: Half Ironman
+- timestamp: '13/11/2020 01:11'
+  name: David Johnson
+  alias: D. Johnson
+  badge: Half Ironman
+- timestamp: '13/11/2020 02:49'
+  name: Laura Tucker
+  alias: L. Tucker
+  badge: Half Ironman
+- timestamp: '13/11/2020 04:34'
+  name: Stephanie Walker
+  alias: S. Walker
+  badge: Half Ironman
+- timestamp: '13/11/2020 07:23'
+  name: Catherine Wilkins
+  alias: C. Wilkins
+  badge: Half Ironman
+- timestamp: '14/11/2020 23:59'
+  name: Antonio Taylor
+  alias: A. Taylor
+  badge: Half Ironman
+- timestamp: '15/11/2020 01:23'
+  name: Julie Lam
+  alias: J. Lam
+  badge: Half Ironman
+- timestamp: '15/11/2020 02:02'
+  name: Catherine Smith
+  alias: C. Smith
+  badge: Half Ironman
+- timestamp: '15/11/2020 17:58'
+  name: Misty Stout
+  alias: M. Stout
+  badge: Half Ironman
+- timestamp: '15/11/2020 19:40'
+  name: Steven Johnson
+  alias: S. Johnson
+  badge: Half Ironman
+- timestamp: '16/11/2020 15:57'
+  name: Evan Peterson
+  alias: E. Peterson
+  badge: Half Ironman
+- timestamp: '16/11/2020 21:59'
+  name: Steven Peterson
+  alias: S. Peterson
+  badge: Half Ironman
+- timestamp: '16/11/2020 23:59'
+  name: Zachary Thomas
+  alias: Z. Thomas
+  badge: Half Ironman
+- timestamp: '17/11/2020 02:09'
+  name: James Rodriguez
+  alias: J. Rodriguez
+  badge: Half Ironman
+- timestamp: '17/11/2020 04:06'
+  name: Lawrence Crawford
+  alias: L. Crawford
+  badge: Half Ironman
+- timestamp: '18/11/2020 03:04'
+  name: Tanya Lamb
+  alias: T. Lamb
+  badge: Half Ironman
+- timestamp: '18/11/2020 07:51'
+  name: David Bell
+  alias: D. Bell
+  badge: Half Ironman
+- timestamp: '18/11/2020 17:08'
+  name: Todd Cross
+  alias: T. Cross
+  badge: Half Ironman
+- timestamp: '18/11/2020 19:53'
+  name: Harold Perez
+  alias: H. Perez
+  badge: Half Ironman
+- timestamp: '19/11/2020 12:14'
+  name: Mary Jackson
+  alias: M. Jackson
+  badge: Half Ironman
+- timestamp: '19/11/2020 18:26'
+  name: Justin Richardson
+  alias: J. Richardson
+  badge: Half Ironman
+- timestamp: '21/11/2020 07:27'
+  name: Jonathan Harris
+  alias: J. Harris
+  badge: Half Ironman
+- timestamp: '21/11/2020 12:48'
+  name: Tracey Nguyen
+  alias: T. Nguyen
+  badge: Half Ironman
+- timestamp: '21/11/2020 22:06'
+  name: Ian Townsend
+  alias: I. Townsend
+  badge: Half Ironman
+- timestamp: '23/11/2020 03:21'
+  name: Kimberly Thomas
+  alias: K. Thomas
+  badge: Half Ironman
+- timestamp: '23/11/2020 15:33'
+  name: Mark Booker
+  alias: M. Booker
+  badge: Half Ironman
+- timestamp: '23/11/2020 22:46'
+  name: Ryan Mack
+  alias: R. Mack
+  badge: Half Ironman
+- timestamp: '25/11/2020 13:08'
+  name: William Baker
+  alias: W. Baker
+  badge: Half Ironman
+- timestamp: '27/11/2020 15:32'
+  name: Rachel Webb
+  alias: R. Webb
+  badge: Half Ironman
+- timestamp: '28/11/2020 13:18'
+  name: Stefanie Tucker
+  alias: S. Tucker
+  badge: Half Ironman
+- timestamp: '28/11/2020 16:59'
+  name: Anthony Warren
+  alias: A. Warren
+  badge: Half Ironman
+- timestamp: '28/11/2020 18:08'
+  name: Wendy Maynard
+  alias: W. Maynard
+  badge: Half Ironman
+- timestamp: '29/11/2020 02:14'
+  name: Danny Mason
+  alias: D. Mason
+  badge: Half Ironman
+- timestamp: '30/11/2020 09:27'
+  name: Michael Brown
+  alias: M. Brown
+  badge: Half Ironman
+- timestamp: '02/11/2020 23:41'
+  name: Shawn Brown
+  alias: S. Brown
+  badge: Ironman
+- timestamp: '03/11/2020 18:36'
+  name: Heidi Caldwell
+  alias: H. Caldwell
+  badge: Ironman
+- timestamp: '06/11/2020 14:51'
+  name: Kelsey Pacheco
+  alias: K. Pacheco
+  badge: Ironman
+- timestamp: '07/11/2020 16:26'
+  name: Christopher Perry
+  alias: C. Perry
+  badge: Ironman
+- timestamp: '08/11/2020 14:30'
+  name: Sean Mcdonald
+  alias: S. Mcdonald
+  badge: Ironman
+- timestamp: '10/11/2020 16:10'
+  name: Aaron Graham
+  alias: A. Graham
+  badge: Ironman
+- timestamp: '12/11/2020 10:03'
+  name: Kenneth Rogers
+  alias: K. Rogers
+  badge: Ironman
+- timestamp: '13/11/2020 15:37'
+  name: Rick Rodriguez
+  alias: R. Rodriguez
+  badge: Ironman
+- timestamp: '14/11/2020 03:45'
+  name: Jennifer Robbins
+  alias: J. Robbins
+  badge: Ironman
+- timestamp: '16/11/2020 09:08'
+  name: William Brown
+  alias: W. Brown
+  badge: Ironman
+- timestamp: '17/11/2020 01:08'
+  name: Melinda Little
+  alias: M. Little
+  badge: Ironman
+- timestamp: '17/11/2020 01:39'
+  name: Barbara Baker
+  alias: B. Baker
+  badge: Ironman
+- timestamp: '17/11/2020 03:32'
+  name: Paula Scott
+  alias: P. Scott
+  badge: Ironman
+- timestamp: '18/11/2020 00:06'
+  name: Arthur Kelly
+  alias: A. Kelly
+  badge: Ironman
+- timestamp: '18/11/2020 13:55'
+  name: Morgan Woods
+  alias: M. Woods
+  badge: Ironman
+- timestamp: '18/11/2020 18:38'
+  name: Lori Pham
+  alias: L. Pham
+  badge: Ironman
+- timestamp: '19/11/2020 14:18'
+  name: Brian Lambert
+  alias: B. Lambert
+  badge: Ironman
+- timestamp: '19/11/2020 16:22'
+  name: Catherine Smith
+  alias: C. Smith
+  badge: Ironman
+- timestamp: '19/11/2020 17:49'
+  name: Jerome Whitehead
+  alias: J. Whitehead
+  badge: Ironman
+- timestamp: '20/11/2020 16:09'
+  name: Sydney Parsons
+  alias: S. Parsons
+  badge: Ironman
+- timestamp: '22/11/2020 11:21'
+  name: Cynthia Webb
+  alias: C. Webb
+  badge: Ironman
+- timestamp: '23/11/2020 07:16'
+  name: Patricia Roberts
+  alias: P. Roberts
+  badge: Ironman
+- timestamp: '23/11/2020 21:04'
+  name: Danielle Vaughn
+  alias: D. Vaughn
+  badge: Ironman
+- timestamp: '24/11/2020 14:48'
+  name: Ian Townsend
+  alias: I. Townsend
+  badge: Ironman
+- timestamp: '24/11/2020 20:25'
+  name: Kyle Jones
+  alias: K. Jones
+  badge: Ironman
+- timestamp: '24/11/2020 22:43'
+  name: Tammy Franco
+  alias: T. Franco
+  badge: Ironman
+- timestamp: '25/11/2020 00:32'
+  name: Angel Ho
+  alias: A. Ho
+  badge: Ironman
+- timestamp: '25/11/2020 07:43'
+  name: David Bell
+  alias: D. Bell
+  badge: Ironman
+- timestamp: '26/11/2020 09:13'
+  name: Steven Johnson
+  alias: S. Johnson
+  badge: Ironman
+- timestamp: '27/11/2020 01:33'
+  name: David Johnson
+  alias: D. Johnson
+  badge: Ironman
+- timestamp: '27/11/2020 11:41'
+  name: Jessica Carter
+  alias: J. Carter
+  badge: Ironman
+- timestamp: '27/11/2020 20:31'
+  name: Zachary Thomas
+  alias: Z. Thomas
+  badge: Ironman
+- timestamp: '28/11/2020 04:10'
+  name: Tanya Lamb
+  alias: T. Lamb
+  badge: Ironman
+- timestamp: '28/11/2020 10:03'
+  name: Vicki Flores
+  alias: V. Flores
+  badge: Ironman
+- timestamp: '29/11/2020 02:41'
+  name: Deborah Gonzales
+  alias: D. Gonzales
+  badge: Ironman
+- timestamp: '29/11/2020 11:59'
+  name: Todd Cross
+  alias: T. Cross
+  badge: Ironman
+- timestamp: '29/11/2020 17:33'
+  name: Brandon Ramos
+  alias: B. Ramos
+  badge: Ironman
+- timestamp: '20/10/2020 14:56'
+  name: Todd Cross
+  alias: T. Cross
+  badge: Mount Everest
+- timestamp: '21/10/2020 02:33'
+  name: Rick Rodriguez
+  alias: R. Rodriguez
+  badge: Mount Everest
+- timestamp: '21/10/2020 17:50'
+  name: Amanda Taylor
+  alias: A. Taylor
+  badge: Mount Everest
+- timestamp: '23/10/2020 10:28'
+  name: Stephanie Lee DDS
+  alias: S. Lee
+  badge: Mount Everest
+- timestamp: '23/10/2020 23:00'
+  name: Barbara Williams
+  alias: B. Williams
+  badge: Mount Everest
+- timestamp: '24/10/2020 04:52'
+  name: William Baker
+  alias: W. Baker
+  badge: Mount Everest
+- timestamp: '24/10/2020 07:27'
+  name: Jonathan Gardner
+  alias: J. Gardner
+  badge: Mount Everest
+- timestamp: '25/10/2020 15:47'
+  name: Danny Mason
+  alias: D. Mason
+  badge: Mount Everest
+- timestamp: '25/10/2020 16:31'
+  name: Ryan Mack
+  alias: R. Mack
+  badge: Mount Everest
+- timestamp: '26/10/2020 05:46'
+  name: Heidi Caldwell
+  alias: H. Caldwell
+  badge: Mount Everest
+- timestamp: '26/10/2020 09:19'
+  name: Angel Ho
+  alias: A. Ho
+  badge: Mount Everest
+- timestamp: '26/10/2020 16:09'
+  name: Paul Hoover
+  alias: P. Hoover
+  badge: Mount Everest
+- timestamp: '26/10/2020 19:51'
+  name: Zachary Thomas
+  alias: Z. Thomas
+  badge: Mount Everest
+- timestamp: '27/10/2020 08:36'
+  name: Catherine Wilkins
+  alias: C. Wilkins
+  badge: Mount Everest
+- timestamp: '28/10/2020 00:40'
+  name: Matthew Payne
+  alias: M. Payne
+  badge: Mount Everest
+- timestamp: '28/10/2020 03:47'
+  name: Robert Clark
+  alias: R. Clark
+  badge: Mount Everest
+- timestamp: '28/10/2020 06:07'
+  name: Wendy Maynard
+  alias: W. Maynard
+  badge: Mount Everest
+- timestamp: '28/10/2020 08:48'
+  name: Tracey Nguyen
+  alias: T. Nguyen
+  badge: Mount Everest
+- timestamp: '28/10/2020 09:16'
+  name: Ian Townsend
+  alias: I. Townsend
+  badge: Mount Everest
+- timestamp: '29/10/2020 15:27'
+  name: Mary Jackson
+  alias: M. Jackson
+  badge: Mount Everest
+- timestamp: '29/10/2020 15:37'
+  name: Craig Gonzalez
+  alias: C. Gonzalez
+  badge: Mount Everest
+- timestamp: '30/10/2020 04:37'
+  name: Brandon Ramos
+  alias: B. Ramos
+  badge: Mount Everest
+- timestamp: '30/10/2020 05:54'
+  name: Lisa Simpson
+  alias: L. Simpson
+  badge: Mount Everest
+- timestamp: '31/10/2020 00:43'
+  name: Anthony Warren
+  alias: A. Warren
+  badge: Mount Everest
+- timestamp: '31/10/2020 03:06'
+  name: Mark Booker
+  alias: M. Booker
+  badge: Mount Everest
+- timestamp: '31/10/2020 03:06'
+  name: Stephanie Walker
+  alias: S. Walker
+  badge: Mount Everest
+- timestamp: '31/10/2020 03:36'
+  name: Erica Raymond
+  alias: E. Raymond
+  badge: Mount Everest
+- timestamp: '31/10/2020 08:55'
+  name: Cameron Proctor
+  alias: C. Proctor
+  badge: Mount Everest
+- timestamp: '31/10/2020 14:35'
+  name: Johnny Lee
+  alias: J. Lee
+  badge: Mount Everest
+- timestamp: '31/10/2020 22:59'
+  name: Morgan Woods
+  alias: M. Woods
+  badge: Mount Everest
+- timestamp: '01/11/2020 7:42'
+  name: Pamela Graham
+  alias: P. Graham
+  badge: Mount Everest
+- timestamp: '01/11/2020 21:32'
+  name: Stefanie Tucker
+  alias: S. Tucker
+  badge: Mount Everest
+- timestamp: '02/11/2020 12:37'
+  name: Shawn Brown
+  alias: S. Brown
+  badge: Mount Everest
+- timestamp: '05/11/2020 11:04'
+  name: Melinda Little
+  alias: M. Little
+  badge: Mount Everest
+- timestamp: '05/11/2020 13:57'
+  name: Cynthia Webb
+  alias: C. Webb
+  badge: Mount Everest
+- timestamp: '05/11/2020 18:44'
+  name: Jeffrey Smith
+  alias: J. Smith
+  badge: Mount Everest
+- timestamp: '05/11/2020 20:19'
+  name: Tanya Lamb
+  alias: T. Lamb
+  badge: Mount Everest
+- timestamp: '05/11/2020 23:27'
+  name: Evan Peterson
+  alias: E. Peterson
+  badge: Mount Everest
+- timestamp: '07/11/2020 2:05'
+  name: James Mays
+  alias: J. Mays
+  badge: Mount Everest
+- timestamp: '07/11/2020 4:37'
+  name: Mark Villanueva
+  alias: M. Villanueva
+  badge: Mount Everest
+- timestamp: '07/11/2020 17:38'
+  name: Justin Richardson
+  alias: J. Richardson
+  badge: Mount Everest
+- timestamp: '07/11/2020 22:55'
+  name: Jennifer Robbins
+  alias: J. Robbins
+  badge: Mount Everest
+- timestamp: '08/11/2020 4:08'
+  name: Kyle Jones
+  alias: K. Jones
+  badge: Mount Everest
+- timestamp: '08/11/2020 5:09'
+  name: Sean Mcdonald
+  alias: S. Mcdonald
+  badge: Mount Everest
+- timestamp: '08/11/2020 6:17'
+  name: Jeffrey Fisher
+  alias: J. Fisher
+  badge: Mount Everest
+- timestamp: '08/11/2020 19:59'
+  name: Vicki Flores
+  alias: V. Flores
+  badge: Mount Everest
+- timestamp: '11/11/2020 10:40'
+  name: Lawrence Crawford
+  alias: L. Crawford
+  badge: Mount Everest
+- timestamp: '12/11/2020 1:16'
+  name: Danielle Vaughn
+  alias: D. Vaughn
+  badge: Mount Everest
+- timestamp: '12/11/2020 5:36'
+  name: Jonathan Calderon
+  alias: J. Calderon
+  badge: Mount Everest
+- timestamp: '12/11/2020 11:53'
+  name: Paul Rogers
+  alias: P. Rogers
+  badge: Mount Everest
+- timestamp: '12/11/2020 17:37'
+  name: Jessica Carter
+  alias: J. Carter
+  badge: Mount Everest
+- timestamp: '13/11/2020 07:40'
+  name: Veronica Barnett
+  alias: V. Barnett
+  badge: Mount Everest
+- timestamp: '15/11/2020 08:27'
+  name: Tammy Franco
+  alias: T. Franco
+  badge: Mount Everest
+- timestamp: '15/11/2020 09:36'
+  name: Antonio Taylor
+  alias: A. Taylor
+  badge: Mount Everest
+- timestamp: '15/11/2020 11:47'
+  name: Deborah Gonzales
+  alias: D. Gonzales
+  badge: Mount Everest
+- timestamp: '15/11/2020 17:45'
+  name: Julie Lam
+  alias: J. Lam
+  badge: Mount Everest
+- timestamp: '16/11/2020 09:08'
+  name: William Brown
+  alias: W. Brown
+  badge: Mount Everest
+- timestamp: '16/11/2020 10:28'
+  name: Rachel Webb
+  alias: R. Webb
+  badge: Mount Everest
+- timestamp: '16/11/2020 20:06'
+  name: James Jones
+  alias: J. Jones
+  badge: Mount Everest
+- timestamp: '20/11/2020 12:40'
+  name: Arthur Kelly
+  alias: A. Kelly
+  badge: Mount Everest
+- timestamp: '21/11/2020 09:15'
+  name: Sydney Parsons
+  alias: S. Parsons
+  badge: Mount Everest
+- timestamp: '21/11/2020 15:03'
+  name: Jonathan Harris
+  alias: J. Harris
+  badge: Mount Everest
+- timestamp: '21/11/2020 18:42'
+  name: Hannah Pitts
+  alias: H. Pitts
+  badge: Mount Everest
+- timestamp: '22/11/2020 00:48'
+  name: Angel Benson
+  alias: A. Benson
+  badge: Mount Everest
+- timestamp: '22/11/2020 15:35'
+  name: Jacqueline Young
+  alias: J. Young
+  badge: Mount Everest
+- timestamp: '23/11/2020 07:16'
+  name: Patricia Roberts
+  alias: P. Roberts
+  badge: Mount Everest
+- timestamp: '24/11/2020 19:42'
+  name: Kimberly Thomas
+  alias: K. Thomas
+  badge: Mount Everest
+- timestamp: '25/11/2020 16:29'
+  name: Lori Pham
+  alias: L. Pham
+  badge: Mount Everest
+- timestamp: '26/11/2020 09:13'
+  name: Steven Johnson
+  alias: S. Johnson
+  badge: Mount Everest
+- timestamp: '27/11/2020 01:33'
+  name: David Johnson
+  alias: D. Johnson
+  badge: Mount Everest
+- timestamp: '28/11/2020 11:14'
+  name: Jerome Whitehead
+  alias: J. Whitehead
+  badge: Mount Everest
+- timestamp: '28/11/2020 16:52'
+  name: Kelsey Pacheco
+  alias: K. Pacheco
+  badge: Mount Everest
+- timestamp: '30/11/2020 06:43'
+  name: Paul Rogers
+  alias: P. Rogers
+  badge: Buns of Steel
+- timestamp: '20/10/2020 00:14'
+  name: Patricia Roberts
+  alias: P. Roberts
+  badge: Frogman
+- timestamp: '20/10/2020 04:23'
+  name: Danielle Vaughn
+  alias: D. Vaughn
+  badge: Frogman
+- timestamp: '20/10/2020 10:54'
+  name: Heidi Caldwell
+  alias: H. Caldwell
+  badge: Frogman
+- timestamp: '20/10/2020 14:03'
+  name: Jessica Carter
+  alias: J. Carter
+  badge: Frogman
+- timestamp: '20/10/2020 16:00'
+  name: Arthur Kelly
+  alias: A. Kelly
+  badge: Frogman
+- timestamp: '21/10/2020 03:47'
+  name: Tammy Franco
+  alias: T. Franco
+  badge: Frogman
+- timestamp: '21/10/2020 15:11'
+  name: Angel Ho
+  alias: A. Ho
+  badge: Frogman
+- timestamp: '21/10/2020 23:00'
+  name: Rick Johnson
+  alias: R. Johnson
+  badge: Frogman
+- timestamp: '22/10/2020 01:10'
+  name: Anthony Warren
+  alias: A. Warren
+  badge: Frogman
+- timestamp: '22/10/2020 03:01'
+  name: Sydney Parsons
+  alias: S. Parsons
+  badge: Frogman
+- timestamp: '22/10/2020 06:53'
+  name: Catherine Wilkins
+  alias: C. Wilkins
+  badge: Frogman
+- timestamp: '22/10/2020 10:06'
+  name: Robert Clark
+  alias: R. Clark
+  badge: Frogman
+- timestamp: '22/10/2020 17:54'
+  name: Erica Raymond
+  alias: E. Raymond
+  badge: Frogman
+- timestamp: '23/10/2020 03:16'
+  name: Stephanie Walker
+  alias: S. Walker
+  badge: Frogman
+- timestamp: '23/10/2020 05:12'
+  name: Brandon Russell
+  alias: B. Russell
+  badge: Frogman
+- timestamp: '23/10/2020 07:13'
+  name: James Jones
+  alias: J. Jones
+  badge: Frogman
+- timestamp: '23/10/2020 14:53'
+  name: Matthew Payne
+  alias: M. Payne
+  badge: Frogman
+- timestamp: '23/10/2020 17:30'
+  name: Shelby Robertson
+  alias: S. Robertson
+  badge: Frogman
+- timestamp: '24/10/2020 04:44'
+  name: Evelyn Christian
+  alias: E. Christian
+  badge: Frogman
+- timestamp: '24/10/2020 13:32'
+  name: Angel Benson
+  alias: A. Benson
+  badge: Frogman
+- timestamp: '24/10/2020 17:13'
+  name: Julie Lam
+  alias: J. Lam
+  badge: Frogman
+- timestamp: '25/10/2020 01:17'
+  name: Cynthia Webb
+  alias: C. Webb
+  badge: Frogman
+- timestamp: '25/10/2020 10:35'
+  name: Shawn Brown
+  alias: S. Brown
+  badge: Frogman
+- timestamp: '25/10/2020 10:52'
+  name: Pamela Graham
+  alias: P. Graham
+  badge: Frogman
+- timestamp: '25/10/2020 13:41'
+  name: Michael Brown
+  alias: M. Brown
+  badge: Frogman
+- timestamp: '25/10/2020 21:53'
+  name: Paul Hoover
+  alias: P. Hoover
+  badge: Frogman
+- timestamp: '26/10/2020 00:17'
+  name: Paula Scott
+  alias: P. Scott
+  badge: Frogman
+- timestamp: '26/10/2020 00:40'
+  name: James Mays
+  alias: J. Mays
+  badge: Frogman
+- timestamp: '26/10/2020 01:09'
+  name: David Johnson
+  alias: D. Johnson
+  badge: Frogman
+- timestamp: '26/10/2020 02:47'
+  name: Christopher Perry
+  alias: C. Perry
+  badge: Frogman
+- timestamp: '26/10/2020 05:09'
+  name: William Wallace
+  alias: W. Wallace
+  badge: Frogman
+- timestamp: '26/10/2020 05:23'
+  name: Sean Mcdonald
+  alias: S. Mcdonald
+  badge: Frogman
+- timestamp: '26/10/2020 12:43'
+  name: Amanda Taylor
+  alias: A. Taylor
+  badge: Frogman
+- timestamp: '26/10/2020 22:32'
+  name: Kyle Jones
+  alias: K. Jones
+  badge: Frogman
+- timestamp: '27/10/2020 03:36'
+  name: Justin Richardson
+  alias: J. Richardson
+  badge: Frogman
+- timestamp: '27/10/2020 15:00'
+  name: Craig Gonzalez
+  alias: C. Gonzalez
+  badge: Frogman
+- timestamp: '27/10/2020 23:17'
+  name: Tracey Nguyen
+  alias: T. Nguyen
+  badge: Frogman
+- timestamp: '28/10/2020 00:13'
+  name: Kenneth Rogers
+  alias: K. Rogers
+  badge: Frogman
+- timestamp: '28/10/2020 01:15'
+  name: Melinda Little
+  alias: M. Little
+  badge: Frogman
+- timestamp: '28/10/2020 06:08'
+  name: Catherine Smith
+  alias: C. Smith
+  badge: Frogman
+- timestamp: '28/10/2020 06:23'
+  name: Kelsey Pacheco
+  alias: K. Pacheco
+  badge: Frogman
+- timestamp: '28/10/2020 07:12'
+  name: Evan Peterson
+  alias: E. Peterson
+  badge: Frogman
+- timestamp: '28/10/2020 11:41'
+  name: Misty Stout
+  alias: M. Stout
+  badge: Frogman
+- timestamp: '28/10/2020 14:37'
+  name: Jeffrey Fisher
+  alias: J. Fisher
+  badge: Frogman
+- timestamp: '28/10/2020 23:36'
+  name: Deborah Gonzales
+  alias: D. Gonzales
+  badge: Frogman
+- timestamp: '29/10/2020 13:58'
+  name: Lori Pham
+  alias: L. Pham
+  badge: Frogman
+- timestamp: '29/10/2020 16:52'
+  name: Laura Tucker
+  alias: L. Tucker
+  badge: Frogman
+- timestamp: '30/10/2020 00:17'
+  name: Susan Hill
+  alias: S. Hill
+  badge: Frogman
+- timestamp: '30/10/2020 11:06'
+  name: Jeffrey Smith
+  alias: J. Smith
+  badge: Frogman
+- timestamp: '30/10/2020 23:55'
+  name: Mark Villanueva
+  alias: M. Villanueva
+  badge: Frogman
+- timestamp: '31/10/2020 01:00'
+  name: Jade Johnson
+  alias: J. Johnson
+  badge: Frogman
+- timestamp: '31/10/2020 12:42'
+  name: William Brown
+  alias: W. Brown
+  badge: Frogman
+- timestamp: '31/10/2020 16:00'
+  name: Danny Mason
+  alias: D. Mason
+  badge: Frogman
+- timestamp: '31/10/2020 21:18'
+  name: James Hammond
+  alias: J. Hammond
+  badge: Frogman
+- timestamp: '01/11/2020 5:27'
+  name: James Rodriguez
+  alias: J. Rodriguez
+  badge: Frogman
+- timestamp: '01/11/2020 14:11'
+  name: Aaron Graham
+  alias: A. Graham
+  badge: Frogman
+- timestamp: '01/11/2020 17:42'
+  name: Lisa Simpson
+  alias: L. Simpson
+  badge: Frogman
+- timestamp: '02/11/2020 2:32'
+  name: Jerome Whitehead
+  alias: J. Whitehead
+  badge: Frogman
+- timestamp: '02/11/2020 5:23'
+  name: Tanya Lamb
+  alias: T. Lamb
+  badge: Frogman
+- timestamp: '03/11/2020 16:27'
+  name: Lawrence Crawford
+  alias: L. Crawford
+  badge: Frogman
+- timestamp: '03/11/2020 17:16'
+  name: Ian Townsend
+  alias: I. Townsend
+  badge: Frogman
+- timestamp: '03/11/2020 23:04'
+  name: Jennifer Robbins
+  alias: J. Robbins
+  badge: Frogman
+- timestamp: '04/11/2020 7:10'
+  name: Barbara Baker
+  alias: B. Baker
+  badge: Frogman
+- timestamp: '04/11/2020 7:31'
+  name: Paul Rogers
+  alias: P. Rogers
+  badge: Frogman
+- timestamp: '04/11/2020 8:21'
+  name: Rachel Webb
+  alias: R. Webb
+  badge: Frogman
+- timestamp: '05/11/2020 0:18'
+  name: Rick Rodriguez
+  alias: R. Rodriguez
+  badge: Frogman
+- timestamp: '05/11/2020 3:25'
+  name: Mary Jackson
+  alias: M. Jackson
+  badge: Frogman
+- timestamp: '06/11/2020 23:55'
+  name: Andrea Ayers
+  alias: A. Ayers
+  badge: Frogman
+- timestamp: '07/11/2020 7:45'
+  name: Jonathan Calderon
+  alias: J. Calderon
+  badge: Frogman
+- timestamp: '07/11/2020 17:06'
+  name: Ryan Mack
+  alias: R. Mack
+  badge: Frogman
+- timestamp: '07/11/2020 22:33'
+  name: Antonio Taylor
+  alias: A. Taylor
+  badge: Frogman
+- timestamp: '08/11/2020 2:58'
+  name: Brandon Ramos
+  alias: B. Ramos
+  badge: Frogman
+- timestamp: '09/11/2020 4:37'
+  name: Steven Johnson
+  alias: S. Johnson
+  badge: Frogman
+- timestamp: '09/11/2020 12:22'
+  name: Morgan Woods
+  alias: M. Woods
+  badge: Frogman
+- timestamp: '10/11/2020 4:35'
+  name: Vicki Flores
+  alias: V. Flores
+  badge: Frogman
+- timestamp: '10/11/2020 14:19'
+  name: Brian Lambert
+  alias: B. Lambert
+  badge: Frogman
+- timestamp: '11/11/2020 12:11'
+  name: Johnny Lee
+  alias: J. Lee
+  badge: Frogman
+- timestamp: '12/11/2020 0:54'
+  name: Cameron Proctor
+  alias: C. Proctor
+  badge: Frogman
+- timestamp: '14/11/2020 21:09'
+  name: Hannah Pitts
+  alias: H. Pitts
+  badge: Frogman
+- timestamp: '16/11/2020 09:47'
+  name: Jonathan Gardner
+  alias: J. Gardner
+  badge: Frogman
+- timestamp: '16/11/2020 18:26'
+  name: Jonathan Harris
+  alias: J. Harris
+  badge: Frogman
+- timestamp: '16/11/2020 21:59'
+  name: Steven Peterson
+  alias: S. Peterson
+  badge: Frogman
+- timestamp: '16/11/2020 23:59'
+  name: Zachary Thomas
+  alias: Z. Thomas
+  badge: Frogman
+- timestamp: '17/11/2020 07:34'
+  name: Wendy Maynard
+  alias: W. Maynard
+  badge: Frogman
+- timestamp: '18/11/2020 07:51'
+  name: David Bell
+  alias: D. Bell
+  badge: Frogman
+- timestamp: '18/11/2020 17:08'
+  name: Todd Cross
+  alias: T. Cross
+  badge: Frogman
+- timestamp: '18/11/2020 19:53'
+  name: Harold Perez
+  alias: H. Perez
+  badge: Frogman
+- timestamp: '20/11/2020 02:19'
+  name: Kimberly Thomas
+  alias: K. Thomas
+  badge: Frogman
+- timestamp: '20/11/2020 18:20'
+  name: Thomas Berry
+  alias: T. Berry
+  badge: Frogman
+- timestamp: '22/11/2020 14:00'
+  name: Stephanie Lee DDS
+  alias: S. Lee
+  badge: Frogman
+- timestamp: '23/11/2020 15:33'
+  name: Mark Booker
+  alias: M. Booker
+  badge: Frogman
+- timestamp: '24/11/2020 05:07'
+  name: Charles Tyler
+  alias: C. Tyler
+  badge: Frogman
+- timestamp: '25/11/2020 13:08'
+  name: William Baker
+  alias: W. Baker
+  badge: Frogman
+- timestamp: '20/10/2020 00:14'
+  name: Patricia Roberts
+  alias: P. Roberts
+  badge: Sailfish
+- timestamp: '20/10/2020 04:23'
+  name: Danielle Vaughn
+  alias: D. Vaughn
+  badge: Sailfish
+- timestamp: '20/10/2020 10:54'
+  name: Heidi Caldwell
+  alias: H. Caldwell
+  badge: Sailfish
+- timestamp: '20/10/2020 14:03'
+  name: Jessica Carter
+  alias: J. Carter
+  badge: Sailfish
+- timestamp: '21/10/2020 03:47'
+  name: Tammy Franco
+  alias: T. Franco
+  badge: Sailfish
+- timestamp: '21/10/2020 15:11'
+  name: Angel Ho
+  alias: A. Ho
+  badge: Sailfish
+- timestamp: '22/10/2020 03:01'
+  name: Sydney Parsons
+  alias: S. Parsons
+  badge: Sailfish
+- timestamp: '22/10/2020 10:06'
+  name: Robert Clark
+  alias: R. Clark
+  badge: Sailfish
+- timestamp: '22/10/2020 17:54'
+  name: Erica Raymond
+  alias: E. Raymond
+  badge: Sailfish
+- timestamp: '23/10/2020 05:12'
+  name: Brandon Russell
+  alias: B. Russell
+  badge: Sailfish
+- timestamp: '23/10/2020 14:53'
+  name: Matthew Payne
+  alias: M. Payne
+  badge: Sailfish
+- timestamp: '23/10/2020 17:30'
+  name: Shelby Robertson
+  alias: S. Robertson
+  badge: Sailfish
+- timestamp: '23/10/2020 23:50'
+  name: James Jones
+  alias: J. Jones
+  badge: Sailfish
+- timestamp: '25/10/2020 01:17'
+  name: Cynthia Webb
+  alias: C. Webb
+  badge: Sailfish
+- timestamp: '25/10/2020 10:35'
+  name: Shawn Brown
+  alias: S. Brown
+  badge: Sailfish
+- timestamp: '25/10/2020 10:52'
+  name: Pamela Graham
+  alias: P. Graham
+  badge: Sailfish
+- timestamp: '25/10/2020 21:53'
+  name: Paul Hoover
+  alias: P. Hoover
+  badge: Sailfish
+- timestamp: '26/10/2020 00:17'
+  name: Paula Scott
+  alias: P. Scott
+  badge: Sailfish
+- timestamp: '26/10/2020 00:40'
+  name: James Mays
+  alias: J. Mays
+  badge: Sailfish
+- timestamp: '26/10/2020 02:47'
+  name: Christopher Perry
+  alias: C. Perry
+  badge: Sailfish
+- timestamp: '26/10/2020 05:09'
+  name: William Wallace
+  alias: W. Wallace
+  badge: Sailfish
+- timestamp: '26/10/2020 12:43'
+  name: Amanda Taylor
+  alias: A. Taylor
+  badge: Sailfish
+- timestamp: '26/10/2020 22:32'
+  name: Kyle Jones
+  alias: K. Jones
+  badge: Sailfish
+- timestamp: '27/10/2020 08:58'
+  name: Angel Benson
+  alias: A. Benson
+  badge: Sailfish
+- timestamp: '27/10/2020 23:17'
+  name: Tracey Nguyen
+  alias: T. Nguyen
+  badge: Sailfish
+- timestamp: '28/10/2020 00:13'
+  name: Kenneth Rogers
+  alias: K. Rogers
+  badge: Sailfish
+- timestamp: '28/10/2020 01:15'
+  name: Melinda Little
+  alias: M. Little
+  badge: Sailfish
+- timestamp: '28/10/2020 06:08'
+  name: Catherine Smith
+  alias: C. Smith
+  badge: Sailfish
+- timestamp: '28/10/2020 06:20'
+  name: Arthur Kelly
+  alias: A. Kelly
+  badge: Sailfish
+- timestamp: '28/10/2020 06:23'
+  name: Kelsey Pacheco
+  alias: K. Pacheco
+  badge: Sailfish
+- timestamp: '28/10/2020 07:12'
+  name: Evan Peterson
+  alias: E. Peterson
+  badge: Sailfish
+- timestamp: '28/10/2020 14:37'
+  name: Jeffrey Fisher
+  alias: J. Fisher
+  badge: Sailfish
+- timestamp: '28/10/2020 23:36'
+  name: Deborah Gonzales
+  alias: D. Gonzales
+  badge: Sailfish
+- timestamp: '29/10/2020 13:58'
+  name: Lori Pham
+  alias: L. Pham
+  badge: Sailfish
+- timestamp: '29/10/2020 16:52'
+  name: Laura Tucker
+  alias: L. Tucker
+  badge: Sailfish
+- timestamp: '30/10/2020 00:17'
+  name: Susan Hill
+  alias: S. Hill
+  badge: Sailfish
+- timestamp: '30/10/2020 11:06'
+  name: Jeffrey Smith
+  alias: J. Smith
+  badge: Sailfish
+- timestamp: '30/10/2020 23:55'
+  name: Mark Villanueva
+  alias: M. Villanueva
+  badge: Sailfish
+- timestamp: '31/10/2020 01:00'
+  name: Jade Johnson
+  alias: J. Johnson
+  badge: Sailfish
+- timestamp: '31/10/2020 12:42'
+  name: William Brown
+  alias: W. Brown
+  badge: Sailfish
+- timestamp: '31/10/2020 21:18'
+  name: James Hammond
+  alias: J. Hammond
+  badge: Sailfish
+- timestamp: '01/11/2020 5:27'
+  name: James Rodriguez
+  alias: J. Rodriguez
+  badge: Sailfish
+- timestamp: '01/11/2020 6:33'
+  name: Evelyn Christian
+  alias: E. Christian
+  badge: Sailfish
+- timestamp: '01/11/2020 14:11'
+  name: Aaron Graham
+  alias: A. Graham
+  badge: Sailfish
+- timestamp: '01/11/2020 17:42'
+  name: Lisa Simpson
+  alias: L. Simpson
+  badge: Sailfish
+- timestamp: '02/11/2020 2:32'
+  name: Jerome Whitehead
+  alias: J. Whitehead
+  badge: Sailfish
+- timestamp: '02/11/2020 5:23'
+  name: Tanya Lamb
+  alias: T. Lamb
+  badge: Sailfish
+- timestamp: '03/11/2020 17:16'
+  name: Ian Townsend
+  alias: I. Townsend
+  badge: Sailfish
+- timestamp: '03/11/2020 23:04'
+  name: Jennifer Robbins
+  alias: J. Robbins
+  badge: Sailfish
+- timestamp: '04/11/2020 7:10'
+  name: Barbara Baker
+  alias: B. Baker
+  badge: Sailfish
+- timestamp: '04/11/2020 7:31'
+  name: Paul Rogers
+  alias: P. Rogers
+  badge: Sailfish
+- timestamp: '04/11/2020 8:21'
+  name: Rachel Webb
+  alias: R. Webb
+  badge: Sailfish
+- timestamp: '05/11/2020 0:18'
+  name: Rick Rodriguez
+  alias: R. Rodriguez
+  badge: Sailfish
+- timestamp: '05/11/2020 3:25'
+  name: Mary Jackson
+  alias: M. Jackson
+  badge: Sailfish
+- timestamp: '06/11/2020 23:55'
+  name: Andrea Ayers
+  alias: A. Ayers
+  badge: Sailfish
+- timestamp: '07/11/2020 7:45'
+  name: Jonathan Calderon
+  alias: J. Calderon
+  badge: Sailfish
+- timestamp: '07/11/2020 17:06'
+  name: Ryan Mack
+  alias: R. Mack
+  badge: Sailfish
+- timestamp: '07/11/2020 19:46'
+  name: Sean Mcdonald
+  alias: S. Mcdonald
+  badge: Sailfish
+- timestamp: '07/11/2020 20:40'
+  name: Catherine Wilkins
+  alias: C. Wilkins
+  badge: Sailfish
+- timestamp: '07/11/2020 22:33'
+  name: Antonio Taylor
+  alias: A. Taylor
+  badge: Sailfish
+- timestamp: '08/11/2020 2:58'
+  name: Brandon Ramos
+  alias: B. Ramos
+  badge: Sailfish
+- timestamp: '08/11/2020 21:18'
+  name: Justin Richardson
+  alias: J. Richardson
+  badge: Sailfish
+- timestamp: '09/11/2020 4:37'
+  name: Steven Johnson
+  alias: S. Johnson
+  badge: Sailfish
+- timestamp: '09/11/2020 12:22'
+  name: Morgan Woods
+  alias: M. Woods
+  badge: Sailfish
+- timestamp: '10/11/2020 4:35'
+  name: Vicki Flores
+  alias: V. Flores
+  badge: Sailfish
+- timestamp: '10/11/2020 14:19'
+  name: Brian Lambert
+  alias: B. Lambert
+  badge: Sailfish
+- timestamp: '11/11/2020 12:11'
+  name: Johnny Lee
+  alias: J. Lee
+  badge: Sailfish
+- timestamp: '12/11/2020 0:54'
+  name: Cameron Proctor
+  alias: C. Proctor
+  badge: Sailfish
+- timestamp: '13/11/2020 01:11'
+  name: David Johnson
+  alias: D. Johnson
+  badge: Sailfish
+- timestamp: '15/11/2020 01:23'
+  name: Julie Lam
+  alias: J. Lam
+  badge: Sailfish
+- timestamp: '15/11/2020 17:58'
+  name: Misty Stout
+  alias: M. Stout
+  badge: Sailfish
+- timestamp: '16/11/2020 09:47'
+  name: Jonathan Gardner
+  alias: J. Gardner
+  badge: Sailfish
+- timestamp: '16/11/2020 18:26'
+  name: Jonathan Harris
+  alias: J. Harris
+  badge: Sailfish
+- timestamp: '16/11/2020 21:59'
+  name: Steven Peterson
+  alias: S. Peterson
+  badge: Sailfish
+- timestamp: '16/11/2020 23:59'
+  name: Zachary Thomas
+  alias: Z. Thomas
+  badge: Sailfish
+- timestamp: '17/11/2020 04:06'
+  name: Lawrence Crawford
+  alias: L. Crawford
+  badge: Sailfish
+- timestamp: '17/11/2020 07:34'
+  name: Wendy Maynard
+  alias: W. Maynard
+  badge: Sailfish
+- timestamp: '18/11/2020 07:51'
+  name: David Bell
+  alias: D. Bell
+  badge: Sailfish
+- timestamp: '18/11/2020 17:08'
+  name: Todd Cross
+  alias: T. Cross
+  badge: Sailfish
+- timestamp: '18/11/2020 19:53'
+  name: Harold Perez
+  alias: H. Perez
+  badge: Sailfish
+- timestamp: '20/11/2020 02:19'
+  name: Kimberly Thomas
+  alias: K. Thomas
+  badge: Sailfish
+- timestamp: '20/11/2020 18:20'
+  name: Thomas Berry
+  alias: T. Berry
+  badge: Sailfish
+- timestamp: '22/11/2020 14:00'
+  name: Stephanie Lee DDS
+  alias: S. Lee
+  badge: Sailfish
+- timestamp: '23/11/2020 15:33'
+  name: Mark Booker
+  alias: M. Booker
+  badge: Sailfish
+- timestamp: '24/11/2020 05:07'
+  name: Charles Tyler
+  alias: C. Tyler
+  badge: Sailfish
+- timestamp: '25/11/2020 13:08'
+  name: William Baker
+  alias: W. Baker
+  badge: Sailfish
+- timestamp: '28/11/2020 16:59'
+  name: Anthony Warren
+  alias: A. Warren
+  badge: Sailfish
+- timestamp: '29/11/2020 02:14'
+  name: Danny Mason
+  alias: D. Mason
+  badge: Sailfish
+- timestamp: '30/11/2020 09:27'
+  name: Michael Brown
+  alias: M. Brown
+  badge: Sailfish
+- timestamp: '20/10/2020 00:14'
+  name: Patricia Roberts
+  alias: P. Roberts
+  badge: Iron Lungs
+- timestamp: '20/10/2020 04:23'
+  name: Danielle Vaughn
+  alias: D. Vaughn
+  badge: Iron Lungs
+- timestamp: '20/10/2020 10:54'
+  name: Heidi Caldwell
+  alias: H. Caldwell
+  badge: Iron Lungs
+- timestamp: '20/10/2020 14:03'
+  name: Jessica Carter
+  alias: J. Carter
+  badge: Iron Lungs
+- timestamp: '21/10/2020 03:47'
+  name: Tammy Franco
+  alias: T. Franco
+  badge: Iron Lungs
+- timestamp: '22/10/2020 17:54'
+  name: Erica Raymond
+  alias: E. Raymond
+  badge: Iron Lungs
+- timestamp: '23/10/2020 17:30'
+  name: Shelby Robertson
+  alias: S. Robertson
+  badge: Iron Lungs
+- timestamp: '23/10/2020 23:50'
+  name: James Jones
+  alias: J. Jones
+  badge: Iron Lungs
+- timestamp: '25/10/2020 01:17'
+  name: Cynthia Webb
+  alias: C. Webb
+  badge: Iron Lungs
+- timestamp: '25/10/2020 10:52'
+  name: Pamela Graham
+  alias: P. Graham
+  badge: Iron Lungs
+- timestamp: '25/10/2020 11:40'
+  name: Matthew Payne
+  alias: M. Payne
+  badge: Iron Lungs
+- timestamp: '25/10/2020 21:53'
+  name: Paul Hoover
+  alias: P. Hoover
+  badge: Iron Lungs
+- timestamp: '26/10/2020 00:40'
+  name: James Mays
+  alias: J. Mays
+  badge: Iron Lungs
+- timestamp: '26/10/2020 02:47'
+  name: Christopher Perry
+  alias: C. Perry
+  badge: Iron Lungs
+- timestamp: '26/10/2020 06:38'
+  name: Shawn Brown
+  alias: S. Brown
+  badge: Iron Lungs
+- timestamp: '26/10/2020 12:43'
+  name: Amanda Taylor
+  alias: A. Taylor
+  badge: Iron Lungs
+- timestamp: '26/10/2020 22:32'
+  name: Kyle Jones
+  alias: K. Jones
+  badge: Iron Lungs
+- timestamp: '27/10/2020 08:54'
+  name: William Wallace
+  alias: W. Wallace
+  badge: Iron Lungs
+- timestamp: '28/10/2020 00:13'
+  name: Kenneth Rogers
+  alias: K. Rogers
+  badge: Iron Lungs
+- timestamp: '28/10/2020 01:15'
+  name: Melinda Little
+  alias: M. Little
+  badge: Iron Lungs
+- timestamp: '28/10/2020 06:08'
+  name: Catherine Smith
+  alias: C. Smith
+  badge: Iron Lungs
+- timestamp: '28/10/2020 06:23'
+  name: Kelsey Pacheco
+  alias: K. Pacheco
+  badge: Iron Lungs
+- timestamp: '28/10/2020 14:37'
+  name: Jeffrey Fisher
+  alias: J. Fisher
+  badge: Iron Lungs
+- timestamp: '28/10/2020 23:36'
+  name: Deborah Gonzales
+  alias: D. Gonzales
+  badge: Iron Lungs
+- timestamp: '29/10/2020 05:04'
+  name: Sydney Parsons
+  alias: S. Parsons
+  badge: Iron Lungs
+- timestamp: '29/10/2020 13:58'
+  name: Lori Pham
+  alias: L. Pham
+  badge: Iron Lungs
+- timestamp: '29/10/2020 16:52'
+  name: Laura Tucker
+  alias: L. Tucker
+  badge: Iron Lungs
+- timestamp: '29/10/2020 18:59'
+  name: Brandon Russell
+  alias: B. Russell
+  badge: Iron Lungs
+- timestamp: '30/10/2020 00:17'
+  name: Susan Hill
+  alias: S. Hill
+  badge: Iron Lungs
+- timestamp: '30/10/2020 23:55'
+  name: Mark Villanueva
+  alias: M. Villanueva
+  badge: Iron Lungs
+- timestamp: '31/10/2020 01:00'
+  name: Jade Johnson
+  alias: J. Johnson
+  badge: Iron Lungs
+- timestamp: '31/10/2020 12:42'
+  name: William Brown
+  alias: W. Brown
+  badge: Iron Lungs
+- timestamp: '31/10/2020 13:13'
+  name: Robert Clark
+  alias: R. Clark
+  badge: Iron Lungs
+- timestamp: '01/11/2020 6:33'
+  name: Evelyn Christian
+  alias: E. Christian
+  badge: Iron Lungs
+- timestamp: '01/11/2020 6:58'
+  name: Jeffrey Smith
+  alias: J. Smith
+  badge: Iron Lungs
+- timestamp: '01/11/2020 16:48'
+  name: Angel Benson
+  alias: A. Benson
+  badge: Iron Lungs
+- timestamp: '01/11/2020 23:46'
+  name: Paula Scott
+  alias: P. Scott
+  badge: Iron Lungs
+- timestamp: '02/11/2020 2:32'
+  name: Jerome Whitehead
+  alias: J. Whitehead
+  badge: Iron Lungs
+- timestamp: '02/11/2020 5:23'
+  name: Tanya Lamb
+  alias: T. Lamb
+  badge: Iron Lungs
+- timestamp: '03/11/2020 23:04'
+  name: Jennifer Robbins
+  alias: J. Robbins
+  badge: Iron Lungs
+- timestamp: '04/11/2020 7:31'
+  name: Paul Rogers
+  alias: P. Rogers
+  badge: Iron Lungs
+- timestamp: '04/11/2020 8:39'
+  name: Arthur Kelly
+  alias: A. Kelly
+  badge: Iron Lungs
+- timestamp: '04/11/2020 22:51'
+  name: Angel Ho
+  alias: A. Ho
+  badge: Iron Lungs
+- timestamp: '05/11/2020 0:18'
+  name: Rick Rodriguez
+  alias: R. Rodriguez
+  badge: Iron Lungs
+- timestamp: '06/11/2020 23:55'
+  name: Andrea Ayers
+  alias: A. Ayers
+  badge: Iron Lungs
+- timestamp: '07/11/2020 1:11'
+  name: Lisa Simpson
+  alias: L. Simpson
+  badge: Iron Lungs
+- timestamp: '07/11/2020 7:45'
+  name: Jonathan Calderon
+  alias: J. Calderon
+  badge: Iron Lungs
+- timestamp: '07/11/2020 19:46'
+  name: Sean Mcdonald
+  alias: S. Mcdonald
+  badge: Iron Lungs
+- timestamp: '07/11/2020 20:40'
+  name: Catherine Wilkins
+  alias: C. Wilkins
+  badge: Iron Lungs
+- timestamp: '08/11/2020 2:58'
+  name: Brandon Ramos
+  alias: B. Ramos
+  badge: Iron Lungs
+- timestamp: '08/11/2020 3:22'
+  name: Aaron Graham
+  alias: A. Graham
+  badge: Iron Lungs
+- timestamp: '08/11/2020 21:18'
+  name: Justin Richardson
+  alias: J. Richardson
+  badge: Iron Lungs
+- timestamp: '09/11/2020 4:37'
+  name: Steven Johnson
+  alias: S. Johnson
+  badge: Iron Lungs
+- timestamp: '09/11/2020 12:22'
+  name: Morgan Woods
+  alias: M. Woods
+  badge: Iron Lungs
+- timestamp: '10/11/2020 5:21'
+  name: Barbara Baker
+  alias: B. Baker
+  badge: Iron Lungs
+- timestamp: '10/11/2020 14:19'
+  name: Brian Lambert
+  alias: B. Lambert
+  badge: Iron Lungs
+- timestamp: '11/11/2020 12:11'
+  name: Johnny Lee
+  alias: J. Lee
+  badge: Iron Lungs
+- timestamp: '12/11/2020 0:54'
+  name: Cameron Proctor
+  alias: C. Proctor
+  badge: Iron Lungs
+- timestamp: '12/11/2020 4:39'
+  name: Vicki Flores
+  alias: V. Flores
+  badge: Iron Lungs
+- timestamp: '12/11/2020 14:10'
+  name: Evan Peterson
+  alias: E. Peterson
+  badge: Iron Lungs
+- timestamp: '13/11/2020 01:11'
+  name: David Johnson
+  alias: D. Johnson
+  badge: Iron Lungs
+- timestamp: '14/11/2020 23:59'
+  name: Antonio Taylor
+  alias: A. Taylor
+  badge: Iron Lungs
+- timestamp: '15/11/2020 01:23'
+  name: Julie Lam
+  alias: J. Lam
+  badge: Iron Lungs
+- timestamp: '16/11/2020 18:26'
+  name: Jonathan Harris
+  alias: J. Harris
+  badge: Iron Lungs
+- timestamp: '16/11/2020 21:59'
+  name: Steven Peterson
+  alias: S. Peterson
+  badge: Iron Lungs
+- timestamp: '16/11/2020 23:59'
+  name: Zachary Thomas
+  alias: Z. Thomas
+  badge: Iron Lungs
+- timestamp: '17/11/2020 02:09'
+  name: James Rodriguez
+  alias: J. Rodriguez
+  badge: Iron Lungs
+- timestamp: '17/11/2020 04:06'
+  name: Lawrence Crawford
+  alias: L. Crawford
+  badge: Iron Lungs
+- timestamp: '18/11/2020 07:51'
+  name: David Bell
+  alias: D. Bell
+  badge: Iron Lungs
+- timestamp: '18/11/2020 17:08'
+  name: Todd Cross
+  alias: T. Cross
+  badge: Iron Lungs
+- timestamp: '18/11/2020 19:53'
+  name: Harold Perez
+  alias: H. Perez
+  badge: Iron Lungs
+- timestamp: '20/11/2020 18:20'
+  name: Thomas Berry
+  alias: T. Berry
+  badge: Iron Lungs
+- timestamp: '21/11/2020 12:48'
+  name: Tracey Nguyen
+  alias: T. Nguyen
+  badge: Iron Lungs
+- timestamp: '21/11/2020 22:06'
+  name: Ian Townsend
+  alias: I. Townsend
+  badge: Iron Lungs
+- timestamp: '23/11/2020 03:21'
+  name: Kimberly Thomas
+  alias: K. Thomas
+  badge: Iron Lungs
+- timestamp: '28/11/2020 16:59'
+  name: Anthony Warren
+  alias: A. Warren
+  badge: Iron Lungs
+- timestamp: '28/11/2020 18:08'
+  name: Wendy Maynard
+  alias: W. Maynard
+  badge: Iron Lungs
+- timestamp: '29/11/2020 02:14'
+  name: Danny Mason
+  alias: D. Mason
+  badge: Iron Lungs
+- timestamp: '29/11/2020 16:22'
+  name: Rachel Webb
+  alias: R. Webb
+  badge: Iron Lungs
+- timestamp: '29/11/2020 23:33'
+  name: Mary Jackson
+  alias: M. Jackson
+  badge: Iron Lungs
+- timestamp: '30/11/2020 09:27'
+  name: Michael Brown
+  alias: M. Brown
+  badge: Iron Lungs
