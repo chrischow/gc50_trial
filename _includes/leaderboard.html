@@ -6,7 +6,18 @@
             <h3 class="page-section-subheader text-center">GC Community</h3>
             <div id='comm-progress' class="progress-circle text-center"></div>
             <span class="lb-text">
-                {{ site.data.commMileage[0].Total }} of 50,000km attained!
+                {% assign digits = site.data.commMileage[0].Total | split:'' %}
+                {% assign mileage_formatted = '' %}
+                {% for digit in digits %}
+                    {% assign threeFromEnd = digits.size | minus:forloop.index | modulo: 3 %}
+                    {% if threeFromEnd == 2 and forloop.index != 1 %}
+                        {% assign mileage_formatted = mileage_formatted | append: ',' | append: digit %}
+                    {% else %}
+                        {% assign mileage_formatted = mileage_formatted | append: digit %}
+                    {% endif %}
+                {% endfor %}
+
+                {{ mileage_formatted }} of 50,000 km attained!
             </span>
         </div>
         <div class="subcomm-lb-panel">
