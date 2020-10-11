@@ -1,2300 +1,2875 @@
 - timestamp: ''
-  name: ''
-  alias: ''
+  fbid: ''
   badge: Baby Steps
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who clocked a total of 10 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Half Ironman
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who clocked a total of 63 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Ironman
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who clocked a total of 126 km or more.
+- timestamp: ''
+  fbid: ''
   badge: ONE PUNCHHHHH
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who clocked a total of 500 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Mount Everest
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who ran 8 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Marathon
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who ran 42 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Run For Your Life
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who ran 100 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Buns of Steel
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who cycled 42 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Cycopath
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who cycled 100 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Tour de Singapore
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who cycled 193 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Frogman
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who swam 1.33 km or more.
+- timestamp: ''
+  fbid: ''
   badge: Sailfish
-- timestamp: ''
   name: ''
-  alias: ''
+  definition: Awarded to those who swam 3.5 km or more
+- timestamp: ''
+  fbid: ''
   badge: Iron Lungs
+  name: ''
+  definition: Awarded to those who swam 7 km or more
 - timestamp: '20/10/2020 00:14'
-  name: evelyn_christian123
-  alias: E. Christian
+  fbid: evelyn_christian123
   badge: Baby Steps
+  name: E. Christian
+  definition: ''
 - timestamp: '20/10/2020 10:21'
-  name: arthur_kelly123
-  alias: A. Kelly
+  fbid: arthur_kelly123
   badge: Baby Steps
+  name: A. Kelly
+  definition: ''
 - timestamp: '20/10/2020 10:37'
-  name: catherine_smith123
-  alias: C. Smith
+  fbid: catherine_smith123
   badge: Baby Steps
+  name: C. Smith
+  definition: ''
 - timestamp: '20/10/2020 11:07'
-  name: deborah_gonzales123
-  alias: D. Gonzales
+  fbid: deborah_gonzales123
   badge: Baby Steps
+  name: D. Gonzales
+  definition: ''
 - timestamp: '20/10/2020 15:35'
-  name: wendy_maynard123
-  alias: W. Maynard
+  fbid: wendy_maynard123
   badge: Baby Steps
+  name: W. Maynard
+  definition: ''
 - timestamp: '21/10/2020 15:10'
-  name: lisa_simpson123
-  alias: L. Simpson
+  fbid: lisa_simpson123
   badge: Baby Steps
+  name: L. Simpson
+  definition: ''
 - timestamp: '21/10/2020 15:11'
-  name: angel_ho123
-  alias: A. Ho
+  fbid: angel_ho123
   badge: Baby Steps
+  name: A. Ho
+  definition: ''
 - timestamp: '21/10/2020 21:43'
-  name: charles_tyler123
-  alias: C. Tyler
+  fbid: charles_tyler123
   badge: Baby Steps
+  name: C. Tyler
+  definition: ''
 - timestamp: '21/10/2020 23:00'
-  name: rick_johnson123
-  alias: R. Johnson
+  fbid: rick_johnson123
   badge: Baby Steps
+  name: R. Johnson
+  definition: ''
 - timestamp: '22/10/2020 01:10'
-  name: anthony_warren123
-  alias: A. Warren
+  fbid: anthony_warren123
   badge: Baby Steps
+  name: A. Warren
+  definition: ''
 - timestamp: '22/10/2020 01:16'
-  name: william_wallace123
-  alias: W. Wallace
+  fbid: william_wallace123
   badge: Baby Steps
+  name: W. Wallace
+  definition: ''
 - timestamp: '22/10/2020 04:10'
-  name: tammy_franco123
-  alias: T. Franco
+  fbid: tammy_franco123
   badge: Baby Steps
+  name: T. Franco
+  definition: ''
 - timestamp: '22/10/2020 04:17'
-  name: aaron_graham123
-  alias: A. Graham
+  fbid: aaron_graham123
   badge: Baby Steps
+  name: A. Graham
+  definition: ''
 - timestamp: '22/10/2020 06:53'
-  name: shelby_robertson123
-  alias: S. Robertson
+  fbid: shelby_robertson123
   badge: Baby Steps
+  name: S. Robertson
+  definition: ''
 - timestamp: '22/10/2020 22:14'
-  name: james_jones123
-  alias: J. Jones
+  fbid: james_jones123
   badge: Baby Steps
+  name: J. Jones
+  definition: ''
 - timestamp: '23/10/2020 03:06'
-  name: steven_johnson123
-  alias: S. Johnson
+  fbid: steven_johnson123
   badge: Baby Steps
+  name: S. Johnson
+  definition: ''
 - timestamp: '23/10/2020 03:34'
-  name: sydney_parsons123
-  alias: S. Parsons
+  fbid: sydney_parsons123
   badge: Baby Steps
+  name: S. Parsons
+  definition: ''
 - timestamp: '23/10/2020 07:13'
-  name: todd_cross123
-  alias: T. Cross
+  fbid: todd_cross123
   badge: Baby Steps
+  name: T. Cross
+  definition: ''
 - timestamp: '23/10/2020 11:23'
-  name: ian_townsend123
-  alias: I. Townsend
+  fbid: ian_townsend123
   badge: Baby Steps
+  name: I. Townsend
+  definition: ''
 - timestamp: '23/10/2020 12:09'
-  name: kenneth_rogers123
-  alias: K. Rogers
+  fbid: kenneth_rogers123
   badge: Baby Steps
+  name: K. Rogers
+  definition: ''
 - timestamp: '23/10/2020 14:53'
-  name: ryan_mack123
-  alias: R. Mack
+  fbid: ryan_mack123
   badge: Baby Steps
+  name: R. Mack
+  definition: ''
 - timestamp: '23/10/2020 22:01'
-  name: shawn_brown123
-  alias: S. Brown
+  fbid: shawn_brown123
   badge: Baby Steps
+  name: S. Brown
+  definition: ''
 - timestamp: '24/10/2020 00:47'
-  name: cynthia_webb123
-  alias: C. Webb
+  fbid: cynthia_webb123
   badge: Baby Steps
+  name: C. Webb
+  definition: ''
 - timestamp: '24/10/2020 02:18'
-  name: mark_booker123
-  alias: M. Booker
+  fbid: mark_booker123
   badge: Baby Steps
+  name: M. Booker
+  definition: ''
 - timestamp: '24/10/2020 04:44'
-  name: angel_benson123
-  alias: A. Benson
+  fbid: angel_benson123
   badge: Baby Steps
+  name: A. Benson
+  definition: ''
 - timestamp: '24/10/2020 07:57'
-  name: sean_mcdonald123
-  alias: S. Mcdonald
+  fbid: sean_mcdonald123
   badge: Baby Steps
+  name: S. Mcdonald
+  definition: ''
 - timestamp: '24/10/2020 08:08'
-  name: jessica_carter123
-  alias: J. Carter
+  fbid: jessica_carter123
   badge: Baby Steps
+  name: J. Carter
+  definition: ''
 - timestamp: '24/10/2020 11:28'
-  name: kimberly_thomas123
-  alias: K. Thomas
+  fbid: kimberly_thomas123
   badge: Baby Steps
+  name: K. Thomas
+  definition: ''
 - timestamp: '24/10/2020 17:13'
-  name: cameron_proctor123
-  alias: C. Proctor
+  fbid: cameron_proctor123
   badge: Baby Steps
+  name: C. Proctor
+  definition: ''
 - timestamp: '24/10/2020 17:23'
-  name: harold_perez123
-  alias: H. Perez
+  fbid: harold_perez123
   badge: Baby Steps
+  name: H. Perez
+  definition: ''
 - timestamp: '25/10/2020 01:27'
-  name: jade_johnson123
-  alias: J. Johnson
+  fbid: jade_johnson123
   badge: Baby Steps
+  name: J. Johnson
+  definition: ''
 - timestamp: '25/10/2020 02:33'
-  name: mary_jackson123
-  alias: M. Jackson
+  fbid: mary_jackson123
   badge: Baby Steps
+  name: M. Jackson
+  definition: ''
 - timestamp: '25/10/2020 03:55'
-  name: brian_lambert123
-  alias: B. Lambert
+  fbid: brian_lambert123
   badge: Baby Steps
+  name: B. Lambert
+  definition: ''
 - timestamp: '25/10/2020 10:35'
-  name: matthew_payne123
-  alias: M. Payne
+  fbid: matthew_payne123
   badge: Baby Steps
+  name: M. Payne
+  definition: ''
 - timestamp: '25/10/2020 10:52'
-  name: jonathan_gardner123
-  alias: J. Gardner
+  fbid: jonathan_gardner123
   badge: Baby Steps
+  name: J. Gardner
+  definition: ''
 - timestamp: '25/10/2020 13:53'
-  name: lawrence_crawford123
-  alias: L. Crawford
+  fbid: lawrence_crawford123
   badge: Baby Steps
+  name: L. Crawford
+  definition: ''
 - timestamp: '25/10/2020 14:27'
-  name: erica_raymond123
-  alias: E. Raymond
+  fbid: erica_raymond123
   badge: Baby Steps
+  name: E. Raymond
+  definition: ''
 - timestamp: '25/10/2020 19:08'
-  name: jonathan_harris123
-  alias: J. Harris
+  fbid: jonathan_harris123
   badge: Baby Steps
+  name: J. Harris
+  definition: ''
 - timestamp: '25/10/2020 21:53'
-  name: stephanie_walker123
-  alias: S. Walker
+  fbid: stephanie_walker123
   badge: Baby Steps
+  name: S. Walker
+  definition: ''
 - timestamp: '25/10/2020 21:57'
-  name: zachary_thomas123
-  alias: Z. Thomas
+  fbid: zachary_thomas123
   badge: Baby Steps
+  name: Z. Thomas
+  definition: ''
 - timestamp: '26/10/2020 00:40'
-  name: misty_stout123
-  alias: M. Stout
+  fbid: misty_stout123
   badge: Baby Steps
+  name: M. Stout
+  definition: ''
 - timestamp: '26/10/2020 00:48'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Baby Steps
+  name: H. Caldwell
+  definition: ''
 - timestamp: '26/10/2020 01:09'
-  name: tracey_nguyen123
-  alias: T. Nguyen
+  fbid: tracey_nguyen123
   badge: Baby Steps
+  name: T. Nguyen
+  definition: ''
 - timestamp: '26/10/2020 01:58'
-  name: william_baker123
-  alias: W. Baker
+  fbid: william_baker123
   badge: Baby Steps
+  name: W. Baker
+  definition: ''
 - timestamp: '26/10/2020 03:29'
-  name: lori_pham123
-  alias: L. Pham
+  fbid: lori_pham123
   badge: Baby Steps
+  name: L. Pham
+  definition: ''
 - timestamp: '26/10/2020 05:09'
-  name: paul_rogers123
-  alias: P. Rogers
+  fbid: paul_rogers123
   badge: Baby Steps
+  name: P. Rogers
+  definition: ''
 - timestamp: '26/10/2020 12:43'
-  name: tanya_lamb123
-  alias: T. Lamb
+  fbid: tanya_lamb123
   badge: Baby Steps
+  name: T. Lamb
+  definition: ''
 - timestamp: '27/10/2020 01:29'
-  name: evan_peterson123
-  alias: E. Peterson
+  fbid: evan_peterson123
   badge: Baby Steps
+  name: E. Peterson
+  definition: ''
 - timestamp: '27/10/2020 02:04'
-  name: william_brown123
-  alias: W. Brown
+  fbid: william_brown123
   badge: Baby Steps
+  name: W. Brown
+  definition: ''
 - timestamp: '27/10/2020 05:31'
-  name: rick_rodriguez123
-  alias: R. Rodriguez
+  fbid: rick_rodriguez123
   badge: Baby Steps
+  name: R. Rodriguez
+  definition: ''
 - timestamp: '27/10/2020 08:58'
-  name: justin_richardson123
-  alias: J. Richardson
+  fbid: justin_richardson123
   badge: Baby Steps
+  name: J. Richardson
+  definition: ''
 - timestamp: '27/10/2020 18:42'
-  name: thomas_berry123
-  alias: T. Berry
+  fbid: thomas_berry123
   badge: Baby Steps
+  name: T. Berry
+  definition: ''
 - timestamp: '27/10/2020 23:41'
-  name: christopher_perry123
-  alias: C. Perry
+  fbid: christopher_perry123
   badge: Baby Steps
+  name: C. Perry
+  definition: ''
 - timestamp: '28/10/2020 01:08'
-  name: david_johnson123
-  alias: D. Johnson
+  fbid: david_johnson123
   badge: Baby Steps
+  name: D. Johnson
+  definition: ''
 - timestamp: '28/10/2020 03:32'
-  name: patricia_roberts123
-  alias: P. Roberts
+  fbid: patricia_roberts123
   badge: Baby Steps
+  name: P. Roberts
+  definition: ''
 - timestamp: '28/10/2020 03:47'
-  name: jacqueline_young123
-  alias: J. Young
+  fbid: jacqueline_young123
   badge: Baby Steps
+  name: J. Young
+  definition: ''
 - timestamp: '28/10/2020 08:27'
-  name: amanda_taylor123
-  alias: A. Taylor
+  fbid: amanda_taylor123
   badge: Baby Steps
+  name: A. Taylor
+  definition: ''
 - timestamp: '28/10/2020 11:38'
-  name: mark_villanueva123
-  alias: M. Villanueva
+  fbid: mark_villanueva123
   badge: Baby Steps
+  name: M. Villanueva
+  definition: ''
 - timestamp: '28/10/2020 14:45'
-  name: brandon_ramos123
-  alias: B. Ramos
+  fbid: brandon_ramos123
   badge: Baby Steps
+  name: B. Ramos
+  definition: ''
 - timestamp: '29/10/2020 01:10'
-  name: james_rodriguez123
-  alias: J. Rodriguez
+  fbid: james_rodriguez123
   badge: Baby Steps
+  name: J. Rodriguez
+  definition: ''
 - timestamp: '29/10/2020 05:56'
-  name: catherine_wilkins123
-  alias: C. Wilkins
+  fbid: catherine_wilkins123
   badge: Baby Steps
+  name: C. Wilkins
+  definition: ''
 - timestamp: '29/10/2020 07:25'
-  name: jennifer_robbins123
-  alias: J. Robbins
+  fbid: jennifer_robbins123
   badge: Baby Steps
+  name: J. Robbins
+  definition: ''
 - timestamp: '29/10/2020 08:25'
-  name: barbara_baker123
-  alias: B. Baker
+  fbid: barbara_baker123
   badge: Baby Steps
+  name: B. Baker
+  definition: ''
 - timestamp: '29/10/2020 14:57'
-  name: antonio_taylor123
-  alias: A. Taylor
+  fbid: antonio_taylor123
   badge: Baby Steps
+  name: A. Taylor
+  definition: ''
 - timestamp: '29/10/2020 16:52'
-  name: jerome_whitehead123
-  alias: J. Whitehead
+  fbid: jerome_whitehead123
   badge: Baby Steps
+  name: J. Whitehead
+  definition: ''
 - timestamp: '30/10/2020 00:14'
-  name: danielle_vaughn123
-  alias: D. Vaughn
+  fbid: danielle_vaughn123
   badge: Baby Steps
+  name: D. Vaughn
+  definition: ''
 - timestamp: '30/10/2020 03:25'
-  name: veronica_barnett123
-  alias: V. Barnett
+  fbid: veronica_barnett123
   badge: Baby Steps
+  name: V. Barnett
+  definition: ''
 - timestamp: '30/10/2020 23:55'
-  name: jeffrey_fisher123
-  alias: J. Fisher
+  fbid: jeffrey_fisher123
   badge: Baby Steps
+  name: J. Fisher
+  definition: ''
 - timestamp: '31/10/2020 03:06'
-  name: paul_hoover123
-  alias: P. Hoover
+  fbid: paul_hoover123
   badge: Baby Steps
+  name: P. Hoover
+  definition: ''
 - timestamp: '31/10/2020 13:13'
-  name: james_mays123
-  alias: J. Mays
+  fbid: james_mays123
   badge: Baby Steps
+  name: J. Mays
+  definition: ''
 - timestamp: '31/10/2020 14:35'
-  name: jonathan_calderon123
-  alias: J. Calderon
+  fbid: jonathan_calderon123
   badge: Baby Steps
+  name: J. Calderon
+  definition: ''
 - timestamp: '31/10/2020 16:00'
-  name: jeffrey_smith123
-  alias: J. Smith
+  fbid: jeffrey_smith123
   badge: Baby Steps
+  name: J. Smith
+  definition: ''
 - timestamp: '31/10/2020 17:42'
-  name: morgan_woods123
-  alias: M. Woods
+  fbid: morgan_woods123
   badge: Baby Steps
+  name: M. Woods
+  definition: ''
 - timestamp: '31/10/2020 23:22'
-  name: melinda_little123
-  alias: M. Little
+  fbid: melinda_little123
   badge: Baby Steps
+  name: M. Little
+  definition: ''
 - timestamp: '01/11/2020 6:57'
-  name: james_hammond123
-  alias: J. Hammond
+  fbid: james_hammond123
   badge: Baby Steps
+  name: J. Hammond
+  definition: ''
 - timestamp: '01/11/2020 6:58'
-  name: julie_lam123
-  alias: J. Lam
+  fbid: julie_lam123
   badge: Baby Steps
+  name: J. Lam
+  definition: ''
 - timestamp: '01/11/2020 23:46'
-  name: kyle_jones123
-  alias: K. Jones
+  fbid: kyle_jones123
   badge: Baby Steps
+  name: K. Jones
+  definition: ''
 - timestamp: '02/11/2020 23:19'
-  name: kelsey_pacheco123
-  alias: K. Pacheco
+  fbid: kelsey_pacheco123
   badge: Baby Steps
+  name: K. Pacheco
+  definition: ''
 - timestamp: '03/11/2020 3:07'
-  name: craig_gonzalez123
-  alias: C. Gonzalez
+  fbid: craig_gonzalez123
   badge: Baby Steps
+  name: C. Gonzalez
+  definition: ''
 - timestamp: '04/11/2020 0:09'
-  name: vicki_flores123
-  alias: V. Flores
+  fbid: vicki_flores123
   badge: Baby Steps
+  name: V. Flores
+  definition: ''
 - timestamp: '05/11/2020 3:25'
-  name: david_bell123
-  alias: D. Bell
+  fbid: david_bell123
   badge: Baby Steps
+  name: D. Bell
+  definition: ''
 - timestamp: '06/11/2020 15:23'
-  name: laura_tucker123
-  alias: L. Tucker
+  fbid: laura_tucker123
   badge: Baby Steps
+  name: L. Tucker
+  definition: ''
 - timestamp: '07/11/2020 2:37'
-  name: paula_scott123
-  alias: P. Scott
+  fbid: paula_scott123
   badge: Baby Steps
+  name: P. Scott
+  definition: ''
 - timestamp: '07/11/2020 12:27'
-  name: stefanie_tucker123
-  alias: S. Tucker
+  fbid: stefanie_tucker123
   badge: Baby Steps
+  name: S. Tucker
+  definition: ''
 - timestamp: '07/11/2020 17:06'
-  name: johnny_lee123
-  alias: J. Lee
+  fbid: johnny_lee123
   badge: Baby Steps
+  name: J. Lee
+  definition: ''
 - timestamp: '08/11/2020 3:39'
-  name: stephanie_lee_dds123
-  alias: S. Lee
+  fbid: stephanie_lee_dds123
   badge: Baby Steps
+  name: S. Lee
+  definition: ''
 - timestamp: '08/11/2020 6:17'
-  name: robert_clark123
-  alias: R. Clark
+  fbid: robert_clark123
   badge: Baby Steps
+  name: R. Clark
+  definition: ''
 - timestamp: '08/11/2020 19:59'
-  name: steven_peterson123
-  alias: S. Peterson
+  fbid: steven_peterson123
   badge: Baby Steps
+  name: S. Peterson
+  definition: ''
 - timestamp: '09/11/2020 20:08'
-  name: rachel_webb123
-  alias: R. Webb
+  fbid: rachel_webb123
   badge: Baby Steps
+  name: R. Webb
+  definition: ''
 - timestamp: '12/11/2020 14:10'
-  name: barbara_williams123
-  alias: B. Williams
+  fbid: barbara_williams123
   badge: Baby Steps
+  name: B. Williams
+  definition: ''
 - timestamp: '13/11/2020 04:34'
-  name: andrea_ayers123
-  alias: A. Ayers
+  fbid: andrea_ayers123
   badge: Baby Steps
+  name: A. Ayers
+  definition: ''
 - timestamp: '13/11/2020 20:11'
-  name: susan_hill123
-  alias: S. Hill
+  fbid: susan_hill123
   badge: Baby Steps
+  name: S. Hill
+  definition: ''
 - timestamp: '14/11/2020 21:09'
-  name: hannah_pitts123
-  alias: H. Pitts
+  fbid: hannah_pitts123
   badge: Baby Steps
+  name: H. Pitts
+  definition: ''
 - timestamp: '15/11/2020 01:23'
-  name: danny_mason123
-  alias: D. Mason
+  fbid: danny_mason123
   badge: Baby Steps
+  name: D. Mason
+  definition: ''
 - timestamp: '15/11/2020 04:27'
-  name: pamela_graham123
-  alias: P. Graham
+  fbid: pamela_graham123
   badge: Baby Steps
+  name: P. Graham
+  definition: ''
 - timestamp: '16/11/2020 18:21'
-  name: diana_lee123
-  alias: D. Lee
+  fbid: diana_lee123
   badge: Baby Steps
+  name: D. Lee
+  definition: ''
 - timestamp: '19/11/2020 07:48'
-  name: brandon_russell123
-  alias: B. Russell
+  fbid: brandon_russell123
   badge: Baby Steps
+  name: B. Russell
+  definition: ''
 - timestamp: '21/11/2020 01:30'
-  name: brandon_fuller123
-  alias: B. Fuller
+  fbid: brandon_fuller123
   badge: Baby Steps
+  name: B. Fuller
+  definition: ''
 - timestamp: '24/11/2020 14:22'
-  name: michael_brown123
-  alias: M. Brown
+  fbid: michael_brown123
   badge: Baby Steps
+  name: M. Brown
+  definition: ''
 - timestamp: '29/11/2020 23:33'
-  name: george_cook123
-  alias: G. Cook
+  fbid: george_cook123
   badge: Baby Steps
+  name: G. Cook
+  definition: ''
 - timestamp: '21/10/2020 04:27'
-  name: arthur_kelly123
-  alias: A. Kelly
+  fbid: arthur_kelly123
   badge: Half Ironman
+  name: A. Kelly
+  definition: ''
 - timestamp: '23/10/2020 17:17'
-  name: ian_townsend123
-  alias: I. Townsend
+  fbid: ian_townsend123
   badge: Half Ironman
+  name: I. Townsend
+  definition: ''
 - timestamp: '24/10/2020 17:13'
-  name: cameron_proctor123
-  alias: C. Proctor
+  fbid: cameron_proctor123
   badge: Half Ironman
+  name: C. Proctor
+  definition: ''
 - timestamp: '24/10/2020 20:25'
-  name: jessica_carter123
-  alias: J. Carter
+  fbid: jessica_carter123
   badge: Half Ironman
+  name: J. Carter
+  definition: ''
 - timestamp: '25/10/2020 03:55'
-  name: brian_lambert123
-  alias: B. Lambert
+  fbid: brian_lambert123
   badge: Half Ironman
+  name: B. Lambert
+  definition: ''
 - timestamp: '26/10/2020 06:21'
-  name: erica_raymond123
-  alias: E. Raymond
+  fbid: erica_raymond123
   badge: Half Ironman
+  name: E. Raymond
+  definition: ''
 - timestamp: '26/10/2020 13:03'
-  name: cynthia_webb123
-  alias: C. Webb
+  fbid: cynthia_webb123
   badge: Half Ironman
+  name: C. Webb
+  definition: ''
 - timestamp: '27/10/2020 20:12'
-  name: james_jones123
-  alias: J. Jones
+  fbid: james_jones123
   badge: Half Ironman
+  name: J. Jones
+  definition: ''
 - timestamp: '28/10/2020 06:23'
-  name: steven_johnson123
-  alias: S. Johnson
+  fbid: steven_johnson123
   badge: Half Ironman
+  name: S. Johnson
+  definition: ''
 - timestamp: '28/10/2020 08:48'
-  name: angel_ho123
-  alias: A. Ho
+  fbid: angel_ho123
   badge: Half Ironman
+  name: A. Ho
+  definition: ''
 - timestamp: '28/10/2020 23:36'
-  name: deborah_gonzales123
-  alias: D. Gonzales
+  fbid: deborah_gonzales123
   badge: Half Ironman
+  name: D. Gonzales
+  definition: ''
 - timestamp: '29/10/2020 03:03'
-  name: tammy_franco123
-  alias: T. Franco
+  fbid: tammy_franco123
   badge: Half Ironman
+  name: T. Franco
+  definition: ''
 - timestamp: '29/10/2020 04:19'
-  name: evelyn_christian123
-  alias: E. Christian
+  fbid: evelyn_christian123
   badge: Half Ironman
+  name: E. Christian
+  definition: ''
 - timestamp: '29/10/2020 13:58'
-  name: harold_perez123
-  alias: H. Perez
+  fbid: harold_perez123
   badge: Half Ironman
+  name: H. Perez
+  definition: ''
 - timestamp: '29/10/2020 16:52'
-  name: jerome_whitehead123
-  alias: J. Whitehead
+  fbid: jerome_whitehead123
   badge: Half Ironman
+  name: J. Whitehead
+  definition: ''
 - timestamp: '29/10/2020 22:16'
-  name: amanda_taylor123
-  alias: A. Taylor
+  fbid: amanda_taylor123
   badge: Half Ironman
+  name: A. Taylor
+  definition: ''
 - timestamp: '30/10/2020 04:00'
-  name: brandon_ramos123
-  alias: B. Ramos
+  fbid: brandon_ramos123
   badge: Half Ironman
+  name: B. Ramos
+  definition: ''
 - timestamp: '31/10/2020 03:36'
-  name: aaron_graham123
-  alias: A. Graham
+  fbid: aaron_graham123
   badge: Half Ironman
+  name: A. Graham
+  definition: ''
 - timestamp: '31/10/2020 18:35'
-  name: tanya_lamb123
-  alias: T. Lamb
+  fbid: tanya_lamb123
   badge: Half Ironman
+  name: T. Lamb
+  definition: ''
 - timestamp: '01/11/2020 0:10'
-  name: barbara_baker123
-  alias: B. Baker
+  fbid: barbara_baker123
   badge: Half Ironman
+  name: B. Baker
+  definition: ''
 - timestamp: '02/11/2020 5:23'
-  name: william_wallace123
-  alias: W. Wallace
+  fbid: william_wallace123
   badge: Half Ironman
+  name: W. Wallace
+  definition: ''
 - timestamp: '02/11/2020 7:41'
-  name: catherine_smith123
-  alias: C. Smith
+  fbid: catherine_smith123
   badge: Half Ironman
+  name: C. Smith
+  definition: ''
 - timestamp: '02/11/2020 21:04'
-  name: jeffrey_fisher123
-  alias: J. Fisher
+  fbid: jeffrey_fisher123
   badge: Half Ironman
+  name: J. Fisher
+  definition: ''
 - timestamp: '02/11/2020 22:18'
-  name: antonio_taylor123
-  alias: A. Taylor
+  fbid: antonio_taylor123
   badge: Half Ironman
+  name: A. Taylor
+  definition: ''
 - timestamp: '03/11/2020 18:36'
-  name: evan_peterson123
-  alias: E. Peterson
+  fbid: evan_peterson123
   badge: Half Ironman
+  name: E. Peterson
+  definition: ''
 - timestamp: '04/11/2020 7:10'
-  name: kenneth_rogers123
-  alias: K. Rogers
+  fbid: kenneth_rogers123
   badge: Half Ironman
+  name: K. Rogers
+  definition: ''
 - timestamp: '04/11/2020 7:31'
-  name: zachary_thomas123
-  alias: Z. Thomas
+  fbid: zachary_thomas123
   badge: Half Ironman
+  name: Z. Thomas
+  definition: ''
 - timestamp: '05/11/2020 7:11'
-  name: morgan_woods123
-  alias: M. Woods
+  fbid: morgan_woods123
   badge: Half Ironman
+  name: M. Woods
+  definition: ''
 - timestamp: '05/11/2020 11:04'
-  name: james_mays123
-  alias: J. Mays
+  fbid: james_mays123
   badge: Half Ironman
+  name: J. Mays
+  definition: ''
 - timestamp: '05/11/2020 12:13'
-  name: rick_rodriguez123
-  alias: R. Rodriguez
+  fbid: rick_rodriguez123
   badge: Half Ironman
+  name: R. Rodriguez
+  definition: ''
 - timestamp: '05/11/2020 13:46'
-  name: kelsey_pacheco123
-  alias: K. Pacheco
+  fbid: kelsey_pacheco123
   badge: Half Ironman
+  name: K. Pacheco
+  definition: ''
 - timestamp: '05/11/2020 14:17'
-  name: lori_pham123
-  alias: L. Pham
+  fbid: lori_pham123
   badge: Half Ironman
+  name: L. Pham
+  definition: ''
 - timestamp: '06/11/2020 23:55'
-  name: sean_mcdonald123
-  alias: S. Mcdonald
+  fbid: sean_mcdonald123
   badge: Half Ironman
+  name: S. Mcdonald
+  definition: ''
 - timestamp: '07/11/2020 1:11'
-  name: shawn_brown123
-  alias: S. Brown
+  fbid: shawn_brown123
   badge: Half Ironman
+  name: S. Brown
+  definition: ''
 - timestamp: '07/11/2020 4:37'
-  name: melinda_little123
-  alias: M. Little
+  fbid: melinda_little123
   badge: Half Ironman
+  name: M. Little
+  definition: ''
 - timestamp: '07/11/2020 22:55'
-  name: jennifer_robbins123
-  alias: J. Robbins
+  fbid: jennifer_robbins123
   badge: Half Ironman
+  name: J. Robbins
+  definition: ''
 - timestamp: '08/11/2020 0:33'
-  name: todd_cross123
-  alias: T. Cross
+  fbid: todd_cross123
   badge: Half Ironman
+  name: T. Cross
+  definition: ''
 - timestamp: '08/11/2020 3:22'
-  name: sydney_parsons123
-  alias: S. Parsons
+  fbid: sydney_parsons123
   badge: Half Ironman
+  name: S. Parsons
+  definition: ''
 - timestamp: '08/11/2020 10:42'
-  name: danielle_vaughn123
-  alias: D. Vaughn
+  fbid: danielle_vaughn123
   badge: Half Ironman
+  name: D. Vaughn
+  definition: ''
 - timestamp: '08/11/2020 19:59'
-  name: steven_peterson123
-  alias: S. Peterson
+  fbid: steven_peterson123
   badge: Half Ironman
+  name: S. Peterson
+  definition: ''
 - timestamp: '09/11/2020 20:29'
-  name: christopher_perry123
-  alias: C. Perry
+  fbid: christopher_perry123
   badge: Half Ironman
+  name: C. Perry
+  definition: ''
 - timestamp: '11/11/2020 20:52'
-  name: jonathan_calderon123
-  alias: J. Calderon
+  fbid: jonathan_calderon123
   badge: Half Ironman
+  name: J. Calderon
+  definition: ''
 - timestamp: '11/11/2020 23:27'
-  name: paula_scott123
-  alias: P. Scott
+  fbid: paula_scott123
   badge: Half Ironman
+  name: P. Scott
+  definition: ''
 - timestamp: '12/11/2020 10:03'
-  name: kyle_jones123
-  alias: K. Jones
+  fbid: kyle_jones123
   badge: Half Ironman
+  name: K. Jones
+  definition: ''
 - timestamp: '12/11/2020 11:00'
-  name: vicki_flores123
-  alias: V. Flores
+  fbid: vicki_flores123
   badge: Half Ironman
+  name: V. Flores
+  definition: ''
 - timestamp: '12/11/2020 12:47'
-  name: ryan_mack123
-  alias: R. Mack
+  fbid: ryan_mack123
   badge: Half Ironman
+  name: R. Mack
+  definition: ''
 - timestamp: '12/11/2020 18:39'
-  name: shelby_robertson123
-  alias: S. Robertson
+  fbid: shelby_robertson123
   badge: Half Ironman
+  name: S. Robertson
+  definition: ''
 - timestamp: '12/11/2020 21:56'
-  name: jade_johnson123
-  alias: J. Johnson
+  fbid: jade_johnson123
   badge: Half Ironman
+  name: J. Johnson
+  definition: ''
 - timestamp: '12/11/2020 21:59'
-  name: james_rodriguez123
-  alias: J. Rodriguez
+  fbid: james_rodriguez123
   badge: Half Ironman
+  name: J. Rodriguez
+  definition: ''
 - timestamp: '13/11/2020 02:35'
-  name: mary_jackson123
-  alias: M. Jackson
+  fbid: mary_jackson123
   badge: Half Ironman
+  name: M. Jackson
+  definition: ''
 - timestamp: '13/11/2020 04:34'
-  name: andrea_ayers123
-  alias: A. Ayers
+  fbid: andrea_ayers123
   badge: Half Ironman
+  name: A. Ayers
+  definition: ''
 - timestamp: '13/11/2020 04:57'
-  name: kimberly_thomas123
-  alias: K. Thomas
+  fbid: kimberly_thomas123
   badge: Half Ironman
+  name: K. Thomas
+  definition: ''
 - timestamp: '14/11/2020 21:46'
-  name: paul_rogers123
-  alias: P. Rogers
+  fbid: paul_rogers123
   badge: Half Ironman
+  name: P. Rogers
+  definition: ''
 - timestamp: '15/11/2020 01:15'
-  name: paul_hoover123
-  alias: P. Hoover
+  fbid: paul_hoover123
   badge: Half Ironman
+  name: P. Hoover
+  definition: ''
 - timestamp: '15/11/2020 19:12'
-  name: patricia_roberts123
-  alias: P. Roberts
+  fbid: patricia_roberts123
   badge: Half Ironman
+  name: P. Roberts
+  definition: ''
 - timestamp: '15/11/2020 19:40'
-  name: william_baker123
-  alias: W. Baker
+  fbid: william_baker123
   badge: Half Ironman
+  name: W. Baker
+  definition: ''
 - timestamp: '16/11/2020 09:08'
-  name: angel_benson123
-  alias: A. Benson
+  fbid: angel_benson123
   badge: Half Ironman
+  name: A. Benson
+  definition: ''
 - timestamp: '16/11/2020 09:47'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Half Ironman
+  name: H. Caldwell
+  definition: ''
 - timestamp: '16/11/2020 10:28'
-  name: rachel_webb123
-  alias: R. Webb
+  fbid: rachel_webb123
   badge: Half Ironman
+  name: R. Webb
+  definition: ''
 - timestamp: '16/11/2020 18:26'
-  name: jonathan_harris123
-  alias: J. Harris
+  fbid: jonathan_harris123
   badge: Half Ironman
+  name: J. Harris
+  definition: ''
 - timestamp: '17/11/2020 01:08'
-  name: matthew_payne123
-  alias: M. Payne
+  fbid: matthew_payne123
   badge: Half Ironman
+  name: M. Payne
+  definition: ''
 - timestamp: '17/11/2020 07:34'
-  name: jeffrey_smith123
-  alias: J. Smith
+  fbid: jeffrey_smith123
   badge: Half Ironman
+  name: J. Smith
+  definition: ''
 - timestamp: '17/11/2020 10:16'
-  name: william_brown123
-  alias: W. Brown
+  fbid: william_brown123
   badge: Half Ironman
+  name: W. Brown
+  definition: ''
 - timestamp: '17/11/2020 16:52'
-  name: david_bell123
-  alias: D. Bell
+  fbid: david_bell123
   badge: Half Ironman
+  name: D. Bell
+  definition: ''
 - timestamp: '19/11/2020 20:07'
-  name: anthony_warren123
-  alias: A. Warren
+  fbid: anthony_warren123
   badge: Half Ironman
+  name: A. Warren
+  definition: ''
 - timestamp: '20/11/2020 05:23'
-  name: susan_hill123
-  alias: S. Hill
+  fbid: susan_hill123
   badge: Half Ironman
+  name: S. Hill
+  definition: ''
 - timestamp: '20/11/2020 05:56'
-  name: justin_richardson123
-  alias: J. Richardson
+  fbid: justin_richardson123
   badge: Half Ironman
+  name: J. Richardson
+  definition: ''
 - timestamp: '20/11/2020 06:56'
-  name: pamela_graham123
-  alias: P. Graham
+  fbid: pamela_graham123
   badge: Half Ironman
+  name: P. Graham
+  definition: ''
 - timestamp: '21/11/2020 18:42'
-  name: catherine_wilkins123
-  alias: C. Wilkins
+  fbid: catherine_wilkins123
   badge: Half Ironman
+  name: C. Wilkins
+  definition: ''
 - timestamp: '21/11/2020 22:25'
-  name: tracey_nguyen123
-  alias: T. Nguyen
+  fbid: tracey_nguyen123
   badge: Half Ironman
+  name: T. Nguyen
+  definition: ''
 - timestamp: '22/11/2020 22:24'
-  name: mark_booker123
-  alias: M. Booker
+  fbid: mark_booker123
   badge: Half Ironman
+  name: M. Booker
+  definition: ''
 - timestamp: '23/11/2020 15:12'
-  name: david_johnson123
-  alias: D. Johnson
+  fbid: david_johnson123
   badge: Half Ironman
+  name: D. Johnson
+  definition: ''
 - timestamp: '24/11/2020 02:58'
-  name: robert_clark123
-  alias: R. Clark
+  fbid: robert_clark123
   badge: Half Ironman
+  name: R. Clark
+  definition: ''
 - timestamp: '24/11/2020 06:54'
-  name: danny_mason123
-  alias: D. Mason
+  fbid: danny_mason123
   badge: Half Ironman
+  name: D. Mason
+  definition: ''
 - timestamp: '24/11/2020 15:03'
-  name: lisa_simpson123
-  alias: L. Simpson
+  fbid: lisa_simpson123
   badge: Half Ironman
+  name: L. Simpson
+  definition: ''
 - timestamp: '24/11/2020 19:42'
-  name: johnny_lee123
-  alias: J. Lee
+  fbid: johnny_lee123
   badge: Half Ironman
+  name: J. Lee
+  definition: ''
 - timestamp: '24/11/2020 20:25'
-  name: laura_tucker123
-  alias: L. Tucker
+  fbid: laura_tucker123
   badge: Half Ironman
+  name: L. Tucker
+  definition: ''
 - timestamp: '25/11/2020 05:15'
-  name: misty_stout123
-  alias: M. Stout
+  fbid: misty_stout123
   badge: Half Ironman
+  name: M. Stout
+  definition: ''
 - timestamp: '27/11/2020 01:19'
-  name: julie_lam123
-  alias: J. Lam
+  fbid: julie_lam123
   badge: Half Ironman
+  name: J. Lam
+  definition: ''
 - timestamp: '27/11/2020 02:56'
-  name: lawrence_crawford123
-  alias: L. Crawford
+  fbid: lawrence_crawford123
   badge: Half Ironman
+  name: L. Crawford
+  definition: ''
 - timestamp: '27/11/2020 16:57'
-  name: stephanie_walker123
-  alias: S. Walker
+  fbid: stephanie_walker123
   badge: Half Ironman
+  name: S. Walker
+  definition: ''
 - timestamp: '28/11/2020 06:59'
-  name: wendy_maynard123
-  alias: W. Maynard
+  fbid: wendy_maynard123
   badge: Half Ironman
+  name: W. Maynard
+  definition: ''
 - timestamp: '28/11/2020 10:18'
-  name: stefanie_tucker123
-  alias: S. Tucker
+  fbid: stefanie_tucker123
   badge: Half Ironman
+  name: S. Tucker
+  definition: ''
 - timestamp: '29/11/2020 03:24'
-  name: mark_villanueva123
-  alias: M. Villanueva
+  fbid: mark_villanueva123
   badge: Half Ironman
+  name: M. Villanueva
+  definition: ''
 - timestamp: '29/11/2020 05:09'
-  name: michael_brown123
-  alias: M. Brown
+  fbid: michael_brown123
   badge: Half Ironman
+  name: M. Brown
+  definition: ''
 - timestamp: '29/11/2020 10:52'
-  name: brandon_russell123
-  alias: B. Russell
+  fbid: brandon_russell123
   badge: Half Ironman
+  name: B. Russell
+  definition: ''
 - timestamp: '28/10/2020 06:07'
-  name: arthur_kelly123
-  alias: A. Kelly
+  fbid: arthur_kelly123
   badge: Ironman
+  name: A. Kelly
+  definition: ''
 - timestamp: '03/11/2020 17:16'
-  name: brian_lambert123
-  alias: B. Lambert
+  fbid: brian_lambert123
   badge: Ironman
+  name: B. Lambert
+  definition: ''
 - timestamp: '04/11/2020 8:39'
-  name: kenneth_rogers123
-  alias: K. Rogers
+  fbid: kenneth_rogers123
   badge: Ironman
+  name: K. Rogers
+  definition: ''
 - timestamp: '04/11/2020 22:51'
-  name: ian_townsend123
-  alias: I. Townsend
+  fbid: ian_townsend123
   badge: Ironman
+  name: I. Townsend
+  definition: ''
 - timestamp: '05/11/2020 14:36'
-  name: aaron_graham123
-  alias: A. Graham
+  fbid: aaron_graham123
   badge: Ironman
+  name: A. Graham
+  definition: ''
 - timestamp: '07/11/2020 22:33'
-  name: angel_ho123
-  alias: A. Ho
+  fbid: angel_ho123
   badge: Ironman
+  name: A. Ho
+  definition: ''
 - timestamp: '09/11/2020 8:16'
-  name: barbara_baker123
-  alias: B. Baker
+  fbid: barbara_baker123
   badge: Ironman
+  name: B. Baker
+  definition: ''
 - timestamp: '10/11/2020 3:05'
-  name: sean_mcdonald123
-  alias: S. Mcdonald
+  fbid: sean_mcdonald123
   badge: Ironman
+  name: S. Mcdonald
+  definition: ''
 - timestamp: '10/11/2020 23:44'
-  name: deborah_gonzales123
-  alias: D. Gonzales
+  fbid: deborah_gonzales123
   badge: Ironman
+  name: D. Gonzales
+  definition: ''
 - timestamp: '11/11/2020 2:19'
-  name: jennifer_robbins123
-  alias: J. Robbins
+  fbid: jennifer_robbins123
   badge: Ironman
+  name: J. Robbins
+  definition: ''
 - timestamp: '11/11/2020 4:29'
-  name: brandon_ramos123
-  alias: B. Ramos
+  fbid: brandon_ramos123
   badge: Ironman
+  name: B. Ramos
+  definition: ''
 - timestamp: '11/11/2020 22:16'
-  name: rick_rodriguez123
-  alias: R. Rodriguez
+  fbid: rick_rodriguez123
   badge: Ironman
+  name: R. Rodriguez
+  definition: ''
 - timestamp: '12/11/2020 0:53'
-  name: sydney_parsons123
-  alias: S. Parsons
+  fbid: sydney_parsons123
   badge: Ironman
+  name: S. Parsons
+  definition: ''
 - timestamp: '12/11/2020 10:31'
-  name: kelsey_pacheco123
-  alias: K. Pacheco
+  fbid: kelsey_pacheco123
   badge: Ironman
+  name: K. Pacheco
+  definition: ''
 - timestamp: '12/11/2020 18:35'
-  name: lori_pham123
-  alias: L. Pham
+  fbid: lori_pham123
   badge: Ironman
+  name: L. Pham
+  definition: ''
 - timestamp: '12/11/2020 20:43'
-  name: tammy_franco123
-  alias: T. Franco
+  fbid: tammy_franco123
   badge: Ironman
+  name: T. Franco
+  definition: ''
 - timestamp: '13/11/2020 09:28'
-  name: morgan_woods123
-  alias: M. Woods
+  fbid: morgan_woods123
   badge: Ironman
+  name: M. Woods
+  definition: ''
 - timestamp: '13/11/2020 10:38'
-  name: melinda_little123
-  alias: M. Little
+  fbid: melinda_little123
   badge: Ironman
+  name: M. Little
+  definition: ''
 - timestamp: '14/11/2020 07:08'
-  name: catherine_smith123
-  alias: C. Smith
+  fbid: catherine_smith123
   badge: Ironman
+  name: C. Smith
+  definition: ''
 - timestamp: '14/11/2020 08:17'
-  name: vicki_flores123
-  alias: V. Flores
+  fbid: vicki_flores123
   badge: Ironman
+  name: V. Flores
+  definition: ''
 - timestamp: '16/11/2020 18:00'
-  name: jerome_whitehead123
-  alias: J. Whitehead
+  fbid: jerome_whitehead123
   badge: Ironman
+  name: J. Whitehead
+  definition: ''
 - timestamp: '17/11/2020 03:32'
-  name: paula_scott123
-  alias: P. Scott
+  fbid: paula_scott123
   badge: Ironman
+  name: P. Scott
+  definition: ''
 - timestamp: '20/11/2020 17:08'
-  name: william_brown123
-  alias: W. Brown
+  fbid: william_brown123
   badge: Ironman
+  name: W. Brown
+  definition: ''
 - timestamp: '21/11/2020 03:29'
-  name: kyle_jones123
-  alias: K. Jones
+  fbid: kyle_jones123
   badge: Ironman
+  name: K. Jones
+  definition: ''
 - timestamp: '22/11/2020 15:19'
-  name: christopher_perry123
-  alias: C. Perry
+  fbid: christopher_perry123
   badge: Ironman
+  name: C. Perry
+  definition: ''
 - timestamp: '22/11/2020 20:49'
-  name: patricia_roberts123
-  alias: P. Roberts
+  fbid: patricia_roberts123
   badge: Ironman
+  name: P. Roberts
+  definition: ''
 - timestamp: '23/11/2020 11:30'
-  name: tanya_lamb123
-  alias: T. Lamb
+  fbid: tanya_lamb123
   badge: Ironman
+  name: T. Lamb
+  definition: ''
 - timestamp: '23/11/2020 14:27'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Ironman
+  name: H. Caldwell
+  definition: ''
 - timestamp: '24/11/2020 15:46'
-  name: jessica_carter123
-  alias: J. Carter
+  fbid: jessica_carter123
   badge: Ironman
+  name: J. Carter
+  definition: ''
 - timestamp: '26/11/2020 19:03'
-  name: shawn_brown123
-  alias: S. Brown
+  fbid: shawn_brown123
   badge: Ironman
+  name: S. Brown
+  definition: ''
 - timestamp: '27/11/2020 00:39'
-  name: cynthia_webb123
-  alias: C. Webb
+  fbid: cynthia_webb123
   badge: Ironman
+  name: C. Webb
+  definition: ''
 - timestamp: '27/11/2020 04:49'
-  name: david_bell123
-  alias: D. Bell
+  fbid: david_bell123
   badge: Ironman
+  name: D. Bell
+  definition: ''
 - timestamp: '28/11/2020 01:17'
-  name: zachary_thomas123
-  alias: Z. Thomas
+  fbid: zachary_thomas123
   badge: Ironman
+  name: Z. Thomas
+  definition: ''
 - timestamp: '28/11/2020 17:05'
-  name: david_johnson123
-  alias: D. Johnson
+  fbid: david_johnson123
   badge: Ironman
+  name: D. Johnson
+  definition: ''
 - timestamp: '28/11/2020 23:43'
-  name: todd_cross123
-  alias: T. Cross
+  fbid: todd_cross123
   badge: Ironman
+  name: T. Cross
+  definition: ''
 - timestamp: '29/11/2020 11:05'
-  name: danielle_vaughn123
-  alias: D. Vaughn
+  fbid: danielle_vaughn123
   badge: Ironman
+  name: D. Vaughn
+  definition: ''
 - timestamp: '30/11/2020 17:40'
-  name: steven_johnson123
-  alias: S. Johnson
+  fbid: steven_johnson123
   badge: Ironman
+  name: S. Johnson
+  definition: ''
 - timestamp: '30/11/2020 22:07'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: ONE PUNCHHHHH
+  name: H. Caldwell
+  definition: ''
 - timestamp: '20/10/2020 10:54'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Mount Everest
+  name: H. Caldwell
+  definition: ''
 - timestamp: '21/10/2020 03:47'
-  name: amanda_taylor123
-  alias: A. Taylor
+  fbid: amanda_taylor123
   badge: Mount Everest
+  name: A. Taylor
+  definition: ''
 - timestamp: '23/10/2020 07:13'
-  name: todd_cross123
-  alias: T. Cross
+  fbid: todd_cross123
   badge: Mount Everest
+  name: T. Cross
+  definition: ''
 - timestamp: '23/10/2020 13:50'
-  name: justin_richardson123
-  alias: J. Richardson
+  fbid: justin_richardson123
   badge: Mount Everest
+  name: J. Richardson
+  definition: ''
 - timestamp: '24/10/2020 00:47'
-  name: cynthia_webb123
-  alias: C. Webb
+  fbid: cynthia_webb123
   badge: Mount Everest
+  name: C. Webb
+  definition: ''
 - timestamp: '24/10/2020 07:57'
-  name: sean_mcdonald123
-  alias: S. Mcdonald
+  fbid: sean_mcdonald123
   badge: Mount Everest
+  name: S. Mcdonald
+  definition: ''
 - timestamp: '24/10/2020 13:32'
-  name: stephanie_walker123
-  alias: S. Walker
+  fbid: stephanie_walker123
   badge: Mount Everest
+  name: S. Walker
+  definition: ''
 - timestamp: '25/10/2020 10:35'
-  name: matthew_payne123
-  alias: M. Payne
+  fbid: matthew_payne123
   badge: Mount Everest
+  name: M. Payne
+  definition: ''
 - timestamp: '26/10/2020 06:21'
-  name: erica_raymond123
-  alias: E. Raymond
+  fbid: erica_raymond123
   badge: Mount Everest
+  name: E. Raymond
+  definition: ''
 - timestamp: '27/10/2020 00:35'
-  name: kelsey_pacheco123
-  alias: K. Pacheco
+  fbid: kelsey_pacheco123
   badge: Mount Everest
+  name: K. Pacheco
+  definition: ''
 - timestamp: '27/10/2020 02:04'
-  name: william_brown123
-  alias: W. Brown
+  fbid: william_brown123
   badge: Mount Everest
+  name: W. Brown
+  definition: ''
 - timestamp: '27/10/2020 07:28'
-  name: cameron_proctor123
-  alias: C. Proctor
+  fbid: cameron_proctor123
   badge: Mount Everest
+  name: C. Proctor
+  definition: ''
 - timestamp: '27/10/2020 08:36'
-  name: catherine_wilkins123
-  alias: C. Wilkins
+  fbid: catherine_wilkins123
   badge: Mount Everest
+  name: C. Wilkins
+  definition: ''
 - timestamp: '28/10/2020 00:13'
-  name: vicki_flores123
-  alias: V. Flores
+  fbid: vicki_flores123
   badge: Mount Everest
+  name: V. Flores
+  definition: ''
 - timestamp: '28/10/2020 11:38'
-  name: mark_villanueva123
-  alias: M. Villanueva
+  fbid: mark_villanueva123
   badge: Mount Everest
+  name: M. Villanueva
+  definition: ''
 - timestamp: '30/10/2020 04:38'
-  name: rick_rodriguez123
-  alias: R. Rodriguez
+  fbid: rick_rodriguez123
   badge: Mount Everest
+  name: R. Rodriguez
+  definition: ''
 - timestamp: '31/10/2020 18:35'
-  name: tanya_lamb123
-  alias: T. Lamb
+  fbid: tanya_lamb123
   badge: Mount Everest
+  name: T. Lamb
+  definition: ''
 - timestamp: '01/11/2020 16:48'
-  name: zachary_thomas123
-  alias: Z. Thomas
+  fbid: zachary_thomas123
   badge: Mount Everest
+  name: Z. Thomas
+  definition: ''
 - timestamp: '01/11/2020 23:49'
-  name: jeffrey_smith123
-  alias: J. Smith
+  fbid: jeffrey_smith123
   badge: Mount Everest
+  name: J. Smith
+  definition: ''
 - timestamp: '03/11/2020 5:51'
-  name: evan_peterson123
-  alias: E. Peterson
+  fbid: evan_peterson123
   badge: Mount Everest
+  name: E. Peterson
+  definition: ''
 - timestamp: '04/11/2020 0:05'
-  name: william_baker123
-  alias: W. Baker
+  fbid: william_baker123
   badge: Mount Everest
+  name: W. Baker
+  definition: ''
 - timestamp: '04/11/2020 4:36'
-  name: tracey_nguyen123
-  alias: T. Nguyen
+  fbid: tracey_nguyen123
   badge: Mount Everest
+  name: T. Nguyen
+  definition: ''
 - timestamp: '04/11/2020 8:04'
-  name: patricia_roberts123
-  alias: P. Roberts
+  fbid: patricia_roberts123
   badge: Mount Everest
+  name: P. Roberts
+  definition: ''
 - timestamp: '04/11/2020 8:15'
-  name: jacqueline_young123
-  alias: J. Young
+  fbid: jacqueline_young123
   badge: Mount Everest
+  name: J. Young
+  definition: ''
 - timestamp: '04/11/2020 9:39'
-  name: robert_clark123
-  alias: R. Clark
+  fbid: robert_clark123
   badge: Mount Everest
+  name: R. Clark
+  definition: ''
 - timestamp: '04/11/2020 14:09'
-  name: mark_booker123
-  alias: M. Booker
+  fbid: mark_booker123
   badge: Mount Everest
+  name: M. Booker
+  definition: ''
 - timestamp: '04/11/2020 22:51'
-  name: ian_townsend123
-  alias: I. Townsend
+  fbid: ian_townsend123
   badge: Mount Everest
+  name: I. Townsend
+  definition: ''
 - timestamp: '04/11/2020 22:59'
-  name: kyle_jones123
-  alias: K. Jones
+  fbid: kyle_jones123
   badge: Mount Everest
+  name: K. Jones
+  definition: ''
 - timestamp: '05/11/2020 17:15'
-  name: james_jones123
-  alias: J. Jones
+  fbid: james_jones123
   badge: Mount Everest
+  name: J. Jones
+  definition: ''
 - timestamp: '05/11/2020 22:28'
-  name: lisa_simpson123
-  alias: L. Simpson
+  fbid: lisa_simpson123
   badge: Mount Everest
+  name: L. Simpson
+  definition: ''
 - timestamp: '07/11/2020 0:09'
-  name: stefanie_tucker123
-  alias: S. Tucker
+  fbid: stefanie_tucker123
   badge: Mount Everest
+  name: S. Tucker
+  definition: ''
 - timestamp: '07/11/2020 5:19'
-  name: sydney_parsons123
-  alias: S. Parsons
+  fbid: sydney_parsons123
   badge: Mount Everest
+  name: S. Parsons
+  definition: ''
 - timestamp: '07/11/2020 16:26'
-  name: arthur_kelly123
-  alias: A. Kelly
+  fbid: arthur_kelly123
   badge: Mount Everest
+  name: A. Kelly
+  definition: ''
 - timestamp: '07/11/2020 20:53'
-  name: jonathan_gardner123
-  alias: J. Gardner
+  fbid: jonathan_gardner123
   badge: Mount Everest
+  name: J. Gardner
+  definition: ''
 - timestamp: '07/11/2020 22:55'
-  name: jennifer_robbins123
-  alias: J. Robbins
+  fbid: jennifer_robbins123
   badge: Mount Everest
+  name: J. Robbins
+  definition: ''
 - timestamp: '07/11/2020 23:05'
-  name: jeffrey_fisher123
-  alias: J. Fisher
+  fbid: jeffrey_fisher123
   badge: Mount Everest
+  name: J. Fisher
+  definition: ''
 - timestamp: '08/11/2020 1:52'
-  name: veronica_barnett123
-  alias: V. Barnett
+  fbid: veronica_barnett123
   badge: Mount Everest
+  name: V. Barnett
+  definition: ''
 - timestamp: '08/11/2020 10:42'
-  name: danielle_vaughn123
-  alias: D. Vaughn
+  fbid: danielle_vaughn123
   badge: Mount Everest
+  name: D. Vaughn
+  definition: ''
 - timestamp: '08/11/2020 21:14'
-  name: kimberly_thomas123
-  alias: K. Thomas
+  fbid: kimberly_thomas123
   badge: Mount Everest
+  name: K. Thomas
+  definition: ''
 - timestamp: '09/11/2020 7:32'
-  name: jonathan_calderon123
-  alias: J. Calderon
+  fbid: jonathan_calderon123
   badge: Mount Everest
+  name: J. Calderon
+  definition: ''
 - timestamp: '10/11/2020 1:54'
-  name: tammy_franco123
-  alias: T. Franco
+  fbid: tammy_franco123
   badge: Mount Everest
+  name: T. Franco
+  definition: ''
 - timestamp: '10/11/2020 15:03'
-  name: jonathan_harris123
-  alias: J. Harris
+  fbid: jonathan_harris123
   badge: Mount Everest
+  name: J. Harris
+  definition: ''
 - timestamp: '10/11/2020 23:44'
-  name: deborah_gonzales123
-  alias: D. Gonzales
+  fbid: deborah_gonzales123
   badge: Mount Everest
+  name: D. Gonzales
+  definition: ''
 - timestamp: '11/11/2020 4:29'
-  name: brandon_ramos123
-  alias: B. Ramos
+  fbid: brandon_ramos123
   badge: Mount Everest
+  name: B. Ramos
+  definition: ''
 - timestamp: '11/11/2020 10:40'
-  name: mary_jackson123
-  alias: M. Jackson
+  fbid: mary_jackson123
   badge: Mount Everest
+  name: M. Jackson
+  definition: ''
 - timestamp: '12/11/2020 8:39'
-  name: angel_benson123
-  alias: A. Benson
+  fbid: angel_benson123
   badge: Mount Everest
+  name: A. Benson
+  definition: ''
 - timestamp: '12/11/2020 12:47'
-  name: ryan_mack123
-  alias: R. Mack
+  fbid: ryan_mack123
   badge: Mount Everest
+  name: R. Mack
+  definition: ''
 - timestamp: '12/11/2020 14:10'
-  name: barbara_williams123
-  alias: B. Williams
+  fbid: barbara_williams123
   badge: Mount Everest
+  name: B. Williams
+  definition: ''
 - timestamp: '12/11/2020 17:37'
-  name: jessica_carter123
-  alias: J. Carter
+  fbid: jessica_carter123
   badge: Mount Everest
+  name: J. Carter
+  definition: ''
 - timestamp: '13/11/2020 11:56'
-  name: stephanie_lee_dds123
-  alias: S. Lee
+  fbid: stephanie_lee_dds123
   badge: Mount Everest
+  name: S. Lee
+  definition: ''
 - timestamp: '14/11/2020 01:14'
-  name: antonio_taylor123
-  alias: A. Taylor
+  fbid: antonio_taylor123
   badge: Mount Everest
+  name: A. Taylor
+  definition: ''
 - timestamp: '15/11/2020 01:15'
-  name: paul_hoover123
-  alias: P. Hoover
+  fbid: paul_hoover123
   badge: Mount Everest
+  name: P. Hoover
+  definition: ''
 - timestamp: '15/11/2020 08:27'
-  name: angel_ho123
-  alias: A. Ho
+  fbid: angel_ho123
   badge: Mount Everest
+  name: A. Ho
+  definition: ''
 - timestamp: '15/11/2020 09:36'
-  name: james_mays123
-  alias: J. Mays
+  fbid: james_mays123
   badge: Mount Everest
+  name: J. Mays
+  definition: ''
 - timestamp: '15/11/2020 16:45'
-  name: craig_gonzalez123
-  alias: C. Gonzalez
+  fbid: craig_gonzalez123
   badge: Mount Everest
+  name: C. Gonzalez
+  definition: ''
 - timestamp: '16/11/2020 10:28'
-  name: rachel_webb123
-  alias: R. Webb
+  fbid: rachel_webb123
   badge: Mount Everest
+  name: R. Webb
+  definition: ''
 - timestamp: '17/11/2020 05:14'
-  name: danny_mason123
-  alias: D. Mason
+  fbid: danny_mason123
   badge: Mount Everest
+  name: D. Mason
+  definition: ''
 - timestamp: '19/11/2020 17:40'
-  name: pamela_graham123
-  alias: P. Graham
+  fbid: pamela_graham123
   badge: Mount Everest
+  name: P. Graham
+  definition: ''
 - timestamp: '20/11/2020 10:47'
-  name: johnny_lee123
-  alias: J. Lee
+  fbid: johnny_lee123
   badge: Mount Everest
+  name: J. Lee
+  definition: ''
 - timestamp: '20/11/2020 13:58'
-  name: jerome_whitehead123
-  alias: J. Whitehead
+  fbid: jerome_whitehead123
   badge: Mount Everest
+  name: J. Whitehead
+  definition: ''
 - timestamp: '22/11/2020 20:48'
-  name: shawn_brown123
-  alias: S. Brown
+  fbid: shawn_brown123
   badge: Mount Everest
+  name: S. Brown
+  definition: ''
 - timestamp: '22/11/2020 21:12'
-  name: david_johnson123
-  alias: D. Johnson
+  fbid: david_johnson123
   badge: Mount Everest
+  name: D. Johnson
+  definition: ''
 - timestamp: '23/11/2020 02:30'
-  name: wendy_maynard123
-  alias: W. Maynard
+  fbid: wendy_maynard123
   badge: Mount Everest
+  name: W. Maynard
+  definition: ''
 - timestamp: '24/11/2020 09:59'
-  name: paul_rogers123
-  alias: P. Rogers
+  fbid: paul_rogers123
   badge: Mount Everest
+  name: P. Rogers
+  definition: ''
 - timestamp: '26/11/2020 01:04'
-  name: lawrence_crawford123
-  alias: L. Crawford
+  fbid: lawrence_crawford123
   badge: Mount Everest
+  name: L. Crawford
+  definition: ''
 - timestamp: '27/11/2020 15:32'
-  name: steven_johnson123
-  alias: S. Johnson
+  fbid: steven_johnson123
   badge: Mount Everest
+  name: S. Johnson
+  definition: ''
 - timestamp: '27/11/2020 17:35'
-  name: julie_lam123
-  alias: J. Lam
+  fbid: julie_lam123
   badge: Mount Everest
+  name: J. Lam
+  definition: ''
 - timestamp: '27/11/2020 20:31'
-  name: morgan_woods123
-  alias: M. Woods
+  fbid: morgan_woods123
   badge: Mount Everest
+  name: M. Woods
+  definition: ''
 - timestamp: '28/11/2020 03:57'
-  name: hannah_pitts123
-  alias: H. Pitts
+  fbid: hannah_pitts123
   badge: Mount Everest
+  name: H. Pitts
+  definition: ''
 - timestamp: '29/11/2020 00:50'
-  name: melinda_little123
-  alias: M. Little
+  fbid: melinda_little123
   badge: Mount Everest
+  name: M. Little
+  definition: ''
 - timestamp: '29/11/2020 23:57'
-  name: lori_pham123
-  alias: L. Pham
+  fbid: lori_pham123
   badge: Mount Everest
+  name: L. Pham
+  definition: ''
 - timestamp: '30/11/2020 01:25'
-  name: anthony_warren123
-  alias: A. Warren
+  fbid: anthony_warren123
   badge: Mount Everest
+  name: A. Warren
+  definition: ''
 - timestamp: '30/11/2020 22:07'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Marathon
+  name: H. Caldwell
+  definition: ''
 - timestamp: '30/11/2020 22:07'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Run For Your Life
+  name: H. Caldwell
+  definition: ''
 - timestamp: '27/11/2020 13:23'
-  name: paul_rogers123
-  alias: P. Rogers
+  fbid: paul_rogers123
   badge: Buns of Steel
+  name: P. Rogers
+  definition: ''
 - timestamp: '20/10/2020 00:14'
-  name: evelyn_christian123
-  alias: E. Christian
+  fbid: evelyn_christian123
   badge: Frogman
+  name: E. Christian
+  definition: ''
 - timestamp: '20/10/2020 10:21'
-  name: arthur_kelly123
-  alias: A. Kelly
+  fbid: arthur_kelly123
   badge: Frogman
+  name: A. Kelly
+  definition: ''
 - timestamp: '20/10/2020 11:07'
-  name: deborah_gonzales123
-  alias: D. Gonzales
+  fbid: deborah_gonzales123
   badge: Frogman
+  name: D. Gonzales
+  definition: ''
 - timestamp: '20/10/2020 15:35'
-  name: wendy_maynard123
-  alias: W. Maynard
+  fbid: wendy_maynard123
   badge: Frogman
+  name: W. Maynard
+  definition: ''
 - timestamp: '21/10/2020 15:10'
-  name: lisa_simpson123
-  alias: L. Simpson
+  fbid: lisa_simpson123
   badge: Frogman
+  name: L. Simpson
+  definition: ''
 - timestamp: '21/10/2020 15:11'
-  name: angel_ho123
-  alias: A. Ho
+  fbid: angel_ho123
   badge: Frogman
+  name: A. Ho
+  definition: ''
 - timestamp: '21/10/2020 23:00'
-  name: rick_johnson123
-  alias: R. Johnson
+  fbid: rick_johnson123
   badge: Frogman
+  name: R. Johnson
+  definition: ''
 - timestamp: '22/10/2020 01:10'
-  name: anthony_warren123
-  alias: A. Warren
+  fbid: anthony_warren123
   badge: Frogman
+  name: A. Warren
+  definition: ''
 - timestamp: '22/10/2020 01:16'
-  name: william_wallace123
-  alias: W. Wallace
+  fbid: william_wallace123
   badge: Frogman
+  name: W. Wallace
+  definition: ''
 - timestamp: '22/10/2020 04:10'
-  name: tammy_franco123
-  alias: T. Franco
+  fbid: tammy_franco123
   badge: Frogman
+  name: T. Franco
+  definition: ''
 - timestamp: '22/10/2020 04:17'
-  name: aaron_graham123
-  alias: A. Graham
+  fbid: aaron_graham123
   badge: Frogman
+  name: A. Graham
+  definition: ''
 - timestamp: '22/10/2020 06:53'
-  name: shelby_robertson123
-  alias: S. Robertson
+  fbid: shelby_robertson123
   badge: Frogman
+  name: S. Robertson
+  definition: ''
 - timestamp: '22/10/2020 22:14'
-  name: james_jones123
-  alias: J. Jones
+  fbid: james_jones123
   badge: Frogman
+  name: J. Jones
+  definition: ''
 - timestamp: '23/10/2020 03:06'
-  name: steven_johnson123
-  alias: S. Johnson
+  fbid: steven_johnson123
   badge: Frogman
+  name: S. Johnson
+  definition: ''
 - timestamp: '23/10/2020 11:23'
-  name: ian_townsend123
-  alias: I. Townsend
+  fbid: ian_townsend123
   badge: Frogman
+  name: I. Townsend
+  definition: ''
 - timestamp: '23/10/2020 12:09'
-  name: kenneth_rogers123
-  alias: K. Rogers
+  fbid: kenneth_rogers123
   badge: Frogman
+  name: K. Rogers
+  definition: ''
 - timestamp: '23/10/2020 14:53'
-  name: ryan_mack123
-  alias: R. Mack
+  fbid: ryan_mack123
   badge: Frogman
+  name: R. Mack
+  definition: ''
 - timestamp: '23/10/2020 22:01'
-  name: shawn_brown123
-  alias: S. Brown
+  fbid: shawn_brown123
   badge: Frogman
+  name: S. Brown
+  definition: ''
 - timestamp: '24/10/2020 04:44'
-  name: angel_benson123
-  alias: A. Benson
+  fbid: angel_benson123
   badge: Frogman
+  name: A. Benson
+  definition: ''
 - timestamp: '24/10/2020 08:08'
-  name: jessica_carter123
-  alias: J. Carter
+  fbid: jessica_carter123
   badge: Frogman
+  name: J. Carter
+  definition: ''
 - timestamp: '24/10/2020 11:28'
-  name: kimberly_thomas123
-  alias: K. Thomas
+  fbid: kimberly_thomas123
   badge: Frogman
+  name: K. Thomas
+  definition: ''
 - timestamp: '24/10/2020 17:13'
-  name: cameron_proctor123
-  alias: C. Proctor
+  fbid: cameron_proctor123
   badge: Frogman
+  name: C. Proctor
+  definition: ''
 - timestamp: '24/10/2020 17:23'
-  name: harold_perez123
-  alias: H. Perez
+  fbid: harold_perez123
   badge: Frogman
+  name: H. Perez
+  definition: ''
 - timestamp: '25/10/2020 01:27'
-  name: jade_johnson123
-  alias: J. Johnson
+  fbid: jade_johnson123
   badge: Frogman
+  name: J. Johnson
+  definition: ''
 - timestamp: '25/10/2020 02:33'
-  name: mary_jackson123
-  alias: M. Jackson
+  fbid: mary_jackson123
   badge: Frogman
+  name: M. Jackson
+  definition: ''
 - timestamp: '25/10/2020 03:55'
-  name: brian_lambert123
-  alias: B. Lambert
+  fbid: brian_lambert123
   badge: Frogman
+  name: B. Lambert
+  definition: ''
 - timestamp: '25/10/2020 10:52'
-  name: jonathan_gardner123
-  alias: J. Gardner
+  fbid: jonathan_gardner123
   badge: Frogman
+  name: J. Gardner
+  definition: ''
 - timestamp: '25/10/2020 14:27'
-  name: erica_raymond123
-  alias: E. Raymond
+  fbid: erica_raymond123
   badge: Frogman
+  name: E. Raymond
+  definition: ''
 - timestamp: '26/10/2020 00:17'
-  name: matthew_payne123
-  alias: M. Payne
+  fbid: matthew_payne123
   badge: Frogman
+  name: M. Payne
+  definition: ''
 - timestamp: '26/10/2020 01:09'
-  name: tracey_nguyen123
-  alias: T. Nguyen
+  fbid: tracey_nguyen123
   badge: Frogman
+  name: T. Nguyen
+  definition: ''
 - timestamp: '26/10/2020 12:43'
-  name: tanya_lamb123
-  alias: T. Lamb
+  fbid: tanya_lamb123
   badge: Frogman
+  name: T. Lamb
+  definition: ''
 - timestamp: '26/10/2020 13:03'
-  name: cynthia_webb123
-  alias: C. Webb
+  fbid: cynthia_webb123
   badge: Frogman
+  name: C. Webb
+  definition: ''
 - timestamp: '27/10/2020 01:29'
-  name: evan_peterson123
-  alias: E. Peterson
+  fbid: evan_peterson123
   badge: Frogman
+  name: E. Peterson
+  definition: ''
 - timestamp: '27/10/2020 16:30'
-  name: lori_pham123
-  alias: L. Pham
+  fbid: lori_pham123
   badge: Frogman
+  name: L. Pham
+  definition: ''
 - timestamp: '27/10/2020 18:42'
-  name: thomas_berry123
-  alias: T. Berry
+  fbid: thomas_berry123
   badge: Frogman
+  name: T. Berry
+  definition: ''
 - timestamp: '27/10/2020 23:41'
-  name: christopher_perry123
-  alias: C. Perry
+  fbid: christopher_perry123
   badge: Frogman
+  name: C. Perry
+  definition: ''
 - timestamp: '28/10/2020 14:45'
-  name: brandon_ramos123
-  alias: B. Ramos
+  fbid: brandon_ramos123
   badge: Frogman
+  name: B. Ramos
+  definition: ''
 - timestamp: '29/10/2020 01:10'
-  name: james_rodriguez123
-  alias: J. Rodriguez
+  fbid: james_rodriguez123
   badge: Frogman
+  name: J. Rodriguez
+  definition: ''
 - timestamp: '29/10/2020 07:25'
-  name: jennifer_robbins123
-  alias: J. Robbins
+  fbid: jennifer_robbins123
   badge: Frogman
+  name: J. Robbins
+  definition: ''
 - timestamp: '29/10/2020 08:25'
-  name: barbara_baker123
-  alias: B. Baker
+  fbid: barbara_baker123
   badge: Frogman
+  name: B. Baker
+  definition: ''
 - timestamp: '29/10/2020 14:57'
-  name: antonio_taylor123
-  alias: A. Taylor
+  fbid: antonio_taylor123
   badge: Frogman
+  name: A. Taylor
+  definition: ''
 - timestamp: '29/10/2020 16:52'
-  name: jerome_whitehead123
-  alias: J. Whitehead
+  fbid: jerome_whitehead123
   badge: Frogman
+  name: J. Whitehead
+  definition: ''
 - timestamp: '29/10/2020 22:16'
-  name: amanda_taylor123
-  alias: A. Taylor
+  fbid: amanda_taylor123
   badge: Frogman
+  name: A. Taylor
+  definition: ''
 - timestamp: '30/10/2020 00:14'
-  name: danielle_vaughn123
-  alias: D. Vaughn
+  fbid: danielle_vaughn123
   badge: Frogman
+  name: D. Vaughn
+  definition: ''
 - timestamp: '30/10/2020 08:19'
-  name: sean_mcdonald123
-  alias: S. Mcdonald
+  fbid: sean_mcdonald123
   badge: Frogman
+  name: S. Mcdonald
+  definition: ''
 - timestamp: '31/10/2020 03:06'
-  name: paul_hoover123
-  alias: P. Hoover
+  fbid: paul_hoover123
   badge: Frogman
+  name: P. Hoover
+  definition: ''
 - timestamp: '31/10/2020 16:29'
-  name: jeffrey_smith123
-  alias: J. Smith
+  fbid: jeffrey_smith123
   badge: Frogman
+  name: J. Smith
+  definition: ''
 - timestamp: '31/10/2020 17:42'
-  name: morgan_woods123
-  alias: M. Woods
+  fbid: morgan_woods123
   badge: Frogman
+  name: M. Woods
+  definition: ''
 - timestamp: '31/10/2020 23:22'
-  name: melinda_little123
-  alias: M. Little
+  fbid: melinda_little123
   badge: Frogman
+  name: M. Little
+  definition: ''
 - timestamp: '01/11/2020 6:57'
-  name: james_hammond123
-  alias: J. Hammond
+  fbid: james_hammond123
   badge: Frogman
+  name: J. Hammond
+  definition: ''
 - timestamp: '01/11/2020 6:58'
-  name: julie_lam123
-  alias: J. Lam
+  fbid: julie_lam123
   badge: Frogman
+  name: J. Lam
+  definition: ''
 - timestamp: '01/11/2020 18:21'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Frogman
+  name: H. Caldwell
+  definition: ''
 - timestamp: '01/11/2020 23:46'
-  name: kyle_jones123
-  alias: K. Jones
+  fbid: kyle_jones123
   badge: Frogman
+  name: K. Jones
+  definition: ''
 - timestamp: '02/11/2020 7:41'
-  name: catherine_smith123
-  alias: C. Smith
+  fbid: catherine_smith123
   badge: Frogman
+  name: C. Smith
+  definition: ''
 - timestamp: '02/11/2020 21:04'
-  name: jeffrey_fisher123
-  alias: J. Fisher
+  fbid: jeffrey_fisher123
   badge: Frogman
+  name: J. Fisher
+  definition: ''
 - timestamp: '02/11/2020 23:19'
-  name: kelsey_pacheco123
-  alias: K. Pacheco
+  fbid: kelsey_pacheco123
   badge: Frogman
+  name: K. Pacheco
+  definition: ''
 - timestamp: '02/11/2020 23:45'
-  name: james_mays123
-  alias: J. Mays
+  fbid: james_mays123
   badge: Frogman
+  name: J. Mays
+  definition: ''
 - timestamp: '03/11/2020 3:07'
-  name: craig_gonzalez123
-  alias: C. Gonzalez
+  fbid: craig_gonzalez123
   badge: Frogman
+  name: C. Gonzalez
+  definition: ''
 - timestamp: '03/11/2020 20:06'
-  name: catherine_wilkins123
-  alias: C. Wilkins
+  fbid: catherine_wilkins123
   badge: Frogman
+  name: C. Wilkins
+  definition: ''
 - timestamp: '04/11/2020 7:31'
-  name: zachary_thomas123
-  alias: Z. Thomas
+  fbid: zachary_thomas123
   badge: Frogman
+  name: Z. Thomas
+  definition: ''
 - timestamp: '04/11/2020 21:41'
-  name: mark_booker123
-  alias: M. Booker
+  fbid: mark_booker123
   badge: Frogman
+  name: M. Booker
+  definition: ''
 - timestamp: '05/11/2020 12:13'
-  name: rick_rodriguez123
-  alias: R. Rodriguez
+  fbid: rick_rodriguez123
   badge: Frogman
+  name: R. Rodriguez
+  definition: ''
 - timestamp: '06/11/2020 15:23'
-  name: laura_tucker123
-  alias: L. Tucker
+  fbid: laura_tucker123
   badge: Frogman
+  name: L. Tucker
+  definition: ''
 - timestamp: '08/11/2020 0:33'
-  name: todd_cross123
-  alias: T. Cross
+  fbid: todd_cross123
   badge: Frogman
+  name: T. Cross
+  definition: ''
 - timestamp: '08/11/2020 3:22'
-  name: sydney_parsons123
-  alias: S. Parsons
+  fbid: sydney_parsons123
   badge: Frogman
+  name: S. Parsons
+  definition: ''
 - timestamp: '08/11/2020 4:22'
-  name: william_baker123
-  alias: W. Baker
+  fbid: william_baker123
   badge: Frogman
+  name: W. Baker
+  definition: ''
 - timestamp: '08/11/2020 6:17'
-  name: robert_clark123
-  alias: R. Clark
+  fbid: robert_clark123
   badge: Frogman
+  name: R. Clark
+  definition: ''
 - timestamp: '08/11/2020 7:38'
-  name: mark_villanueva123
-  alias: M. Villanueva
+  fbid: mark_villanueva123
   badge: Frogman
+  name: M. Villanueva
+  definition: ''
 - timestamp: '08/11/2020 14:30'
-  name: jonathan_calderon123
-  alias: J. Calderon
+  fbid: jonathan_calderon123
   badge: Frogman
+  name: J. Calderon
+  definition: ''
 - timestamp: '08/11/2020 19:59'
-  name: steven_peterson123
-  alias: S. Peterson
+  fbid: steven_peterson123
   badge: Frogman
+  name: S. Peterson
+  definition: ''
 - timestamp: '09/11/2020 20:08'
-  name: rachel_webb123
-  alias: R. Webb
+  fbid: rachel_webb123
   badge: Frogman
+  name: R. Webb
+  definition: ''
 - timestamp: '11/11/2020 16:10'
-  name: patricia_roberts123
-  alias: P. Roberts
+  fbid: patricia_roberts123
   badge: Frogman
+  name: P. Roberts
+  definition: ''
 - timestamp: '11/11/2020 23:27'
-  name: paula_scott123
-  alias: P. Scott
+  fbid: paula_scott123
   badge: Frogman
+  name: P. Scott
+  definition: ''
 - timestamp: '12/11/2020 1:16'
-  name: lawrence_crawford123
-  alias: L. Crawford
+  fbid: lawrence_crawford123
   badge: Frogman
+  name: L. Crawford
+  definition: ''
 - timestamp: '12/11/2020 4:39'
-  name: vicki_flores123
-  alias: V. Flores
+  fbid: vicki_flores123
   badge: Frogman
+  name: V. Flores
+  definition: ''
 - timestamp: '12/11/2020 19:10'
-  name: william_brown123
-  alias: W. Brown
+  fbid: william_brown123
   badge: Frogman
+  name: W. Brown
+  definition: ''
 - timestamp: '13/11/2020 04:34'
-  name: andrea_ayers123
-  alias: A. Ayers
+  fbid: andrea_ayers123
   badge: Frogman
+  name: A. Ayers
+  definition: ''
 - timestamp: '13/11/2020 15:37'
-  name: justin_richardson123
-  alias: J. Richardson
+  fbid: justin_richardson123
   badge: Frogman
+  name: J. Richardson
+  definition: ''
 - timestamp: '13/11/2020 20:11'
-  name: susan_hill123
-  alias: S. Hill
+  fbid: susan_hill123
   badge: Frogman
+  name: S. Hill
+  definition: ''
 - timestamp: '14/11/2020 21:09'
-  name: hannah_pitts123
-  alias: H. Pitts
+  fbid: hannah_pitts123
   badge: Frogman
+  name: H. Pitts
+  definition: ''
 - timestamp: '14/11/2020 21:46'
-  name: paul_rogers123
-  alias: P. Rogers
+  fbid: paul_rogers123
   badge: Frogman
+  name: P. Rogers
+  definition: ''
 - timestamp: '15/11/2020 01:23'
-  name: danny_mason123
-  alias: D. Mason
+  fbid: danny_mason123
   badge: Frogman
+  name: D. Mason
+  definition: ''
 - timestamp: '15/11/2020 07:07'
-  name: charles_tyler123
-  alias: C. Tyler
+  fbid: charles_tyler123
   badge: Frogman
+  name: C. Tyler
+  definition: ''
 - timestamp: '15/11/2020 17:58'
-  name: misty_stout123
-  alias: M. Stout
+  fbid: misty_stout123
   badge: Frogman
+  name: M. Stout
+  definition: ''
 - timestamp: '15/11/2020 23:43'
-  name: stephanie_walker123
-  alias: S. Walker
+  fbid: stephanie_walker123
   badge: Frogman
+  name: S. Walker
+  definition: ''
 - timestamp: '16/11/2020 11:09'
-  name: david_johnson123
-  alias: D. Johnson
+  fbid: david_johnson123
   badge: Frogman
+  name: D. Johnson
+  definition: ''
 - timestamp: '16/11/2020 18:26'
-  name: jonathan_harris123
-  alias: J. Harris
+  fbid: jonathan_harris123
   badge: Frogman
+  name: J. Harris
+  definition: ''
 - timestamp: '17/11/2020 05:43'
-  name: johnny_lee123
-  alias: J. Lee
+  fbid: johnny_lee123
   badge: Frogman
+  name: J. Lee
+  definition: ''
 - timestamp: '17/11/2020 16:52'
-  name: david_bell123
-  alias: D. Bell
+  fbid: david_bell123
   badge: Frogman
+  name: D. Bell
+  definition: ''
 - timestamp: '19/11/2020 07:48'
-  name: brandon_russell123
-  alias: B. Russell
+  fbid: brandon_russell123
   badge: Frogman
+  name: B. Russell
+  definition: ''
 - timestamp: '20/11/2020 06:56'
-  name: pamela_graham123
-  alias: P. Graham
+  fbid: pamela_graham123
   badge: Frogman
+  name: P. Graham
+  definition: ''
 - timestamp: '22/11/2020 20:02'
-  name: stephanie_lee_dds123
-  alias: S. Lee
+  fbid: stephanie_lee_dds123
   badge: Frogman
+  name: S. Lee
+  definition: ''
 - timestamp: '24/11/2020 14:22'
-  name: michael_brown123
-  alias: M. Brown
+  fbid: michael_brown123
   badge: Frogman
+  name: M. Brown
+  definition: ''
 - timestamp: '20/10/2020 10:21'
-  name: arthur_kelly123
-  alias: A. Kelly
+  fbid: arthur_kelly123
   badge: Sailfish
+  name: A. Kelly
+  definition: ''
 - timestamp: '20/10/2020 11:07'
-  name: deborah_gonzales123
-  alias: D. Gonzales
+  fbid: deborah_gonzales123
   badge: Sailfish
+  name: D. Gonzales
+  definition: ''
 - timestamp: '20/10/2020 15:35'
-  name: wendy_maynard123
-  alias: W. Maynard
+  fbid: wendy_maynard123
   badge: Sailfish
+  name: W. Maynard
+  definition: ''
 - timestamp: '21/10/2020 15:10'
-  name: lisa_simpson123
-  alias: L. Simpson
+  fbid: lisa_simpson123
   badge: Sailfish
+  name: L. Simpson
+  definition: ''
 - timestamp: '21/10/2020 15:11'
-  name: angel_ho123
-  alias: A. Ho
+  fbid: angel_ho123
   badge: Sailfish
+  name: A. Ho
+  definition: ''
 - timestamp: '22/10/2020 01:16'
-  name: william_wallace123
-  alias: W. Wallace
+  fbid: william_wallace123
   badge: Sailfish
+  name: W. Wallace
+  definition: ''
 - timestamp: '22/10/2020 04:10'
-  name: tammy_franco123
-  alias: T. Franco
+  fbid: tammy_franco123
   badge: Sailfish
+  name: T. Franco
+  definition: ''
 - timestamp: '22/10/2020 04:17'
-  name: aaron_graham123
-  alias: A. Graham
+  fbid: aaron_graham123
   badge: Sailfish
+  name: A. Graham
+  definition: ''
 - timestamp: '22/10/2020 06:53'
-  name: shelby_robertson123
-  alias: S. Robertson
+  fbid: shelby_robertson123
   badge: Sailfish
+  name: S. Robertson
+  definition: ''
 - timestamp: '22/10/2020 22:14'
-  name: james_jones123
-  alias: J. Jones
+  fbid: james_jones123
   badge: Sailfish
+  name: J. Jones
+  definition: ''
 - timestamp: '23/10/2020 03:06'
-  name: steven_johnson123
-  alias: S. Johnson
+  fbid: steven_johnson123
   badge: Sailfish
+  name: S. Johnson
+  definition: ''
 - timestamp: '23/10/2020 11:23'
-  name: ian_townsend123
-  alias: I. Townsend
+  fbid: ian_townsend123
   badge: Sailfish
+  name: I. Townsend
+  definition: ''
 - timestamp: '23/10/2020 12:09'
-  name: kenneth_rogers123
-  alias: K. Rogers
+  fbid: kenneth_rogers123
   badge: Sailfish
+  name: K. Rogers
+  definition: ''
 - timestamp: '23/10/2020 14:53'
-  name: ryan_mack123
-  alias: R. Mack
+  fbid: ryan_mack123
   badge: Sailfish
+  name: R. Mack
+  definition: ''
 - timestamp: '23/10/2020 22:01'
-  name: shawn_brown123
-  alias: S. Brown
+  fbid: shawn_brown123
   badge: Sailfish
+  name: S. Brown
+  definition: ''
 - timestamp: '24/10/2020 04:44'
-  name: angel_benson123
-  alias: A. Benson
+  fbid: angel_benson123
   badge: Sailfish
+  name: A. Benson
+  definition: ''
 - timestamp: '24/10/2020 08:08'
-  name: jessica_carter123
-  alias: J. Carter
+  fbid: jessica_carter123
   badge: Sailfish
+  name: J. Carter
+  definition: ''
 - timestamp: '24/10/2020 11:28'
-  name: kimberly_thomas123
-  alias: K. Thomas
+  fbid: kimberly_thomas123
   badge: Sailfish
+  name: K. Thomas
+  definition: ''
 - timestamp: '24/10/2020 17:13'
-  name: cameron_proctor123
-  alias: C. Proctor
+  fbid: cameron_proctor123
   badge: Sailfish
+  name: C. Proctor
+  definition: ''
 - timestamp: '24/10/2020 17:23'
-  name: harold_perez123
-  alias: H. Perez
+  fbid: harold_perez123
   badge: Sailfish
+  name: H. Perez
+  definition: ''
 - timestamp: '25/10/2020 02:33'
-  name: mary_jackson123
-  alias: M. Jackson
+  fbid: mary_jackson123
   badge: Sailfish
+  name: M. Jackson
+  definition: ''
 - timestamp: '25/10/2020 03:55'
-  name: brian_lambert123
-  alias: B. Lambert
+  fbid: brian_lambert123
   badge: Sailfish
+  name: B. Lambert
+  definition: ''
 - timestamp: '25/10/2020 10:52'
-  name: jonathan_gardner123
-  alias: J. Gardner
+  fbid: jonathan_gardner123
   badge: Sailfish
+  name: J. Gardner
+  definition: ''
 - timestamp: '25/10/2020 14:27'
-  name: erica_raymond123
-  alias: E. Raymond
+  fbid: erica_raymond123
   badge: Sailfish
+  name: E. Raymond
+  definition: ''
 - timestamp: '26/10/2020 01:09'
-  name: tracey_nguyen123
-  alias: T. Nguyen
+  fbid: tracey_nguyen123
   badge: Sailfish
+  name: T. Nguyen
+  definition: ''
 - timestamp: '26/10/2020 12:43'
-  name: tanya_lamb123
-  alias: T. Lamb
+  fbid: tanya_lamb123
   badge: Sailfish
+  name: T. Lamb
+  definition: ''
 - timestamp: '26/10/2020 13:03'
-  name: cynthia_webb123
-  alias: C. Webb
+  fbid: cynthia_webb123
   badge: Sailfish
+  name: C. Webb
+  definition: ''
 - timestamp: '27/10/2020 10:33'
-  name: evelyn_christian123
-  alias: E. Christian
+  fbid: evelyn_christian123
   badge: Sailfish
+  name: E. Christian
+  definition: ''
 - timestamp: '27/10/2020 16:30'
-  name: lori_pham123
-  alias: L. Pham
+  fbid: lori_pham123
   badge: Sailfish
+  name: L. Pham
+  definition: ''
 - timestamp: '27/10/2020 18:42'
-  name: thomas_berry123
-  alias: T. Berry
+  fbid: thomas_berry123
   badge: Sailfish
+  name: T. Berry
+  definition: ''
 - timestamp: '27/10/2020 23:41'
-  name: christopher_perry123
-  alias: C. Perry
+  fbid: christopher_perry123
   badge: Sailfish
+  name: C. Perry
+  definition: ''
 - timestamp: '28/10/2020 14:45'
-  name: brandon_ramos123
-  alias: B. Ramos
+  fbid: brandon_ramos123
   badge: Sailfish
+  name: B. Ramos
+  definition: ''
 - timestamp: '29/10/2020 01:10'
-  name: james_rodriguez123
-  alias: J. Rodriguez
+  fbid: james_rodriguez123
   badge: Sailfish
+  name: J. Rodriguez
+  definition: ''
 - timestamp: '29/10/2020 07:25'
-  name: jennifer_robbins123
-  alias: J. Robbins
+  fbid: jennifer_robbins123
   badge: Sailfish
+  name: J. Robbins
+  definition: ''
 - timestamp: '29/10/2020 08:25'
-  name: barbara_baker123
-  alias: B. Baker
+  fbid: barbara_baker123
   badge: Sailfish
+  name: B. Baker
+  definition: ''
 - timestamp: '29/10/2020 14:57'
-  name: antonio_taylor123
-  alias: A. Taylor
+  fbid: antonio_taylor123
   badge: Sailfish
+  name: A. Taylor
+  definition: ''
 - timestamp: '29/10/2020 16:52'
-  name: jerome_whitehead123
-  alias: J. Whitehead
+  fbid: jerome_whitehead123
   badge: Sailfish
+  name: J. Whitehead
+  definition: ''
 - timestamp: '29/10/2020 22:16'
-  name: amanda_taylor123
-  alias: A. Taylor
+  fbid: amanda_taylor123
   badge: Sailfish
+  name: A. Taylor
+  definition: ''
 - timestamp: '30/10/2020 00:14'
-  name: danielle_vaughn123
-  alias: D. Vaughn
+  fbid: danielle_vaughn123
   badge: Sailfish
+  name: D. Vaughn
+  definition: ''
 - timestamp: '31/10/2020 03:06'
-  name: paul_hoover123
-  alias: P. Hoover
+  fbid: paul_hoover123
   badge: Sailfish
+  name: P. Hoover
+  definition: ''
 - timestamp: '31/10/2020 17:42'
-  name: morgan_woods123
-  alias: M. Woods
+  fbid: morgan_woods123
   badge: Sailfish
+  name: M. Woods
+  definition: ''
 - timestamp: '31/10/2020 23:22'
-  name: melinda_little123
-  alias: M. Little
+  fbid: melinda_little123
   badge: Sailfish
+  name: M. Little
+  definition: ''
 - timestamp: '01/11/2020 6:57'
-  name: james_hammond123
-  alias: J. Hammond
+  fbid: james_hammond123
   badge: Sailfish
+  name: J. Hammond
+  definition: ''
 - timestamp: '01/11/2020 18:21'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Sailfish
+  name: H. Caldwell
+  definition: ''
 - timestamp: '01/11/2020 23:46'
-  name: kyle_jones123
-  alias: K. Jones
+  fbid: kyle_jones123
   badge: Sailfish
+  name: K. Jones
+  definition: ''
 - timestamp: '02/11/2020 7:41'
-  name: catherine_smith123
-  alias: C. Smith
+  fbid: catherine_smith123
   badge: Sailfish
+  name: C. Smith
+  definition: ''
 - timestamp: '02/11/2020 21:04'
-  name: jeffrey_fisher123
-  alias: J. Fisher
+  fbid: jeffrey_fisher123
   badge: Sailfish
+  name: J. Fisher
+  definition: ''
 - timestamp: '02/11/2020 23:19'
-  name: kelsey_pacheco123
-  alias: K. Pacheco
+  fbid: kelsey_pacheco123
   badge: Sailfish
+  name: K. Pacheco
+  definition: ''
 - timestamp: '03/11/2020 18:36'
-  name: evan_peterson123
-  alias: E. Peterson
+  fbid: evan_peterson123
   badge: Sailfish
+  name: E. Peterson
+  definition: ''
 - timestamp: '04/11/2020 7:31'
-  name: zachary_thomas123
-  alias: Z. Thomas
+  fbid: zachary_thomas123
   badge: Sailfish
+  name: Z. Thomas
+  definition: ''
 - timestamp: '04/11/2020 21:41'
-  name: mark_booker123
-  alias: M. Booker
+  fbid: mark_booker123
   badge: Sailfish
+  name: M. Booker
+  definition: ''
 - timestamp: '05/11/2020 11:04'
-  name: james_mays123
-  alias: J. Mays
+  fbid: james_mays123
   badge: Sailfish
+  name: J. Mays
+  definition: ''
 - timestamp: '05/11/2020 12:13'
-  name: rick_rodriguez123
-  alias: R. Rodriguez
+  fbid: rick_rodriguez123
   badge: Sailfish
+  name: R. Rodriguez
+  definition: ''
 - timestamp: '06/11/2020 23:55'
-  name: sean_mcdonald123
-  alias: S. Mcdonald
+  fbid: sean_mcdonald123
   badge: Sailfish
+  name: S. Mcdonald
+  definition: ''
 - timestamp: '08/11/2020 0:33'
-  name: todd_cross123
-  alias: T. Cross
+  fbid: todd_cross123
   badge: Sailfish
+  name: T. Cross
+  definition: ''
 - timestamp: '08/11/2020 3:22'
-  name: sydney_parsons123
-  alias: S. Parsons
+  fbid: sydney_parsons123
   badge: Sailfish
+  name: S. Parsons
+  definition: ''
 - timestamp: '08/11/2020 4:22'
-  name: william_baker123
-  alias: W. Baker
+  fbid: william_baker123
   badge: Sailfish
+  name: W. Baker
+  definition: ''
 - timestamp: '08/11/2020 6:17'
-  name: robert_clark123
-  alias: R. Clark
+  fbid: robert_clark123
   badge: Sailfish
+  name: R. Clark
+  definition: ''
 - timestamp: '08/11/2020 19:59'
-  name: steven_peterson123
-  alias: S. Peterson
+  fbid: steven_peterson123
   badge: Sailfish
+  name: S. Peterson
+  definition: ''
 - timestamp: '09/11/2020 20:08'
-  name: rachel_webb123
-  alias: R. Webb
+  fbid: rachel_webb123
   badge: Sailfish
+  name: R. Webb
+  definition: ''
 - timestamp: '11/11/2020 20:52'
-  name: jonathan_calderon123
-  alias: J. Calderon
+  fbid: jonathan_calderon123
   badge: Sailfish
+  name: J. Calderon
+  definition: ''
 - timestamp: '11/11/2020 23:27'
-  name: paula_scott123
-  alias: P. Scott
+  fbid: paula_scott123
   badge: Sailfish
+  name: P. Scott
+  definition: ''
 - timestamp: '12/11/2020 4:39'
-  name: vicki_flores123
-  alias: V. Flores
+  fbid: vicki_flores123
   badge: Sailfish
+  name: V. Flores
+  definition: ''
 - timestamp: '12/11/2020 21:56'
-  name: jade_johnson123
-  alias: J. Johnson
+  fbid: jade_johnson123
   badge: Sailfish
+  name: J. Johnson
+  definition: ''
 - timestamp: '13/11/2020 04:34'
-  name: andrea_ayers123
-  alias: A. Ayers
+  fbid: andrea_ayers123
   badge: Sailfish
+  name: A. Ayers
+  definition: ''
 - timestamp: '13/11/2020 07:40'
-  name: lawrence_crawford123
-  alias: L. Crawford
+  fbid: lawrence_crawford123
   badge: Sailfish
+  name: L. Crawford
+  definition: ''
 - timestamp: '13/11/2020 15:37'
-  name: justin_richardson123
-  alias: J. Richardson
+  fbid: justin_richardson123
   badge: Sailfish
+  name: J. Richardson
+  definition: ''
 - timestamp: '13/11/2020 20:11'
-  name: susan_hill123
-  alias: S. Hill
+  fbid: susan_hill123
   badge: Sailfish
+  name: S. Hill
+  definition: ''
 - timestamp: '14/11/2020 21:46'
-  name: paul_rogers123
-  alias: P. Rogers
+  fbid: paul_rogers123
   badge: Sailfish
+  name: P. Rogers
+  definition: ''
 - timestamp: '15/11/2020 07:07'
-  name: charles_tyler123
-  alias: C. Tyler
+  fbid: charles_tyler123
   badge: Sailfish
+  name: C. Tyler
+  definition: ''
 - timestamp: '15/11/2020 19:12'
-  name: patricia_roberts123
-  alias: P. Roberts
+  fbid: patricia_roberts123
   badge: Sailfish
+  name: P. Roberts
+  definition: ''
 - timestamp: '16/11/2020 18:26'
-  name: jonathan_harris123
-  alias: J. Harris
+  fbid: jonathan_harris123
   badge: Sailfish
+  name: J. Harris
+  definition: ''
 - timestamp: '17/11/2020 01:08'
-  name: matthew_payne123
-  alias: M. Payne
+  fbid: matthew_payne123
   badge: Sailfish
+  name: M. Payne
+  definition: ''
 - timestamp: '17/11/2020 05:43'
-  name: johnny_lee123
-  alias: J. Lee
+  fbid: johnny_lee123
   badge: Sailfish
+  name: J. Lee
+  definition: ''
 - timestamp: '17/11/2020 10:16'
-  name: william_brown123
-  alias: W. Brown
+  fbid: william_brown123
   badge: Sailfish
+  name: W. Brown
+  definition: ''
 - timestamp: '17/11/2020 16:52'
-  name: david_bell123
-  alias: D. Bell
+  fbid: david_bell123
   badge: Sailfish
+  name: D. Bell
+  definition: ''
 - timestamp: '17/11/2020 21:19'
-  name: catherine_wilkins123
-  alias: C. Wilkins
+  fbid: catherine_wilkins123
   badge: Sailfish
+  name: C. Wilkins
+  definition: ''
 - timestamp: '18/11/2020 17:08'
-  name: david_johnson123
-  alias: D. Johnson
+  fbid: david_johnson123
   badge: Sailfish
+  name: D. Johnson
+  definition: ''
 - timestamp: '19/11/2020 20:07'
-  name: anthony_warren123
-  alias: A. Warren
+  fbid: anthony_warren123
   badge: Sailfish
+  name: A. Warren
+  definition: ''
 - timestamp: '20/11/2020 06:56'
-  name: pamela_graham123
-  alias: P. Graham
+  fbid: pamela_graham123
   badge: Sailfish
+  name: P. Graham
+  definition: ''
 - timestamp: '20/11/2020 09:44'
-  name: brandon_russell123
-  alias: B. Russell
+  fbid: brandon_russell123
   badge: Sailfish
+  name: B. Russell
+  definition: ''
 - timestamp: '22/11/2020 20:02'
-  name: stephanie_lee_dds123
-  alias: S. Lee
+  fbid: stephanie_lee_dds123
   badge: Sailfish
+  name: S. Lee
+  definition: ''
 - timestamp: '24/11/2020 06:54'
-  name: danny_mason123
-  alias: D. Mason
+  fbid: danny_mason123
   badge: Sailfish
+  name: D. Mason
+  definition: ''
 - timestamp: '24/11/2020 20:25'
-  name: laura_tucker123
-  alias: L. Tucker
+  fbid: laura_tucker123
   badge: Sailfish
+  name: L. Tucker
+  definition: ''
 - timestamp: '25/11/2020 05:15'
-  name: misty_stout123
-  alias: M. Stout
+  fbid: misty_stout123
   badge: Sailfish
+  name: M. Stout
+  definition: ''
 - timestamp: '27/11/2020 01:19'
-  name: julie_lam123
-  alias: J. Lam
+  fbid: julie_lam123
   badge: Sailfish
+  name: J. Lam
+  definition: ''
 - timestamp: '28/11/2020 00:22'
-  name: jeffrey_smith123
-  alias: J. Smith
+  fbid: jeffrey_smith123
   badge: Sailfish
+  name: J. Smith
+  definition: ''
 - timestamp: '29/11/2020 03:24'
-  name: mark_villanueva123
-  alias: M. Villanueva
+  fbid: mark_villanueva123
   badge: Sailfish
+  name: M. Villanueva
+  definition: ''
 - timestamp: '29/11/2020 05:09'
-  name: michael_brown123
-  alias: M. Brown
+  fbid: michael_brown123
   badge: Sailfish
+  name: M. Brown
+  definition: ''
 - timestamp: '20/10/2020 10:21'
-  name: arthur_kelly123
-  alias: A. Kelly
+  fbid: arthur_kelly123
   badge: Iron Lungs
+  name: A. Kelly
+  definition: ''
 - timestamp: '20/10/2020 11:07'
-  name: deborah_gonzales123
-  alias: D. Gonzales
+  fbid: deborah_gonzales123
   badge: Iron Lungs
+  name: D. Gonzales
+  definition: ''
 - timestamp: '22/10/2020 01:16'
-  name: william_wallace123
-  alias: W. Wallace
+  fbid: william_wallace123
   badge: Iron Lungs
+  name: W. Wallace
+  definition: ''
 - timestamp: '22/10/2020 04:10'
-  name: tammy_franco123
-  alias: T. Franco
+  fbid: tammy_franco123
   badge: Iron Lungs
+  name: T. Franco
+  definition: ''
 - timestamp: '22/10/2020 06:53'
-  name: shelby_robertson123
-  alias: S. Robertson
+  fbid: shelby_robertson123
   badge: Iron Lungs
+  name: S. Robertson
+  definition: ''
 - timestamp: '23/10/2020 03:06'
-  name: steven_johnson123
-  alias: S. Johnson
+  fbid: steven_johnson123
   badge: Iron Lungs
+  name: S. Johnson
+  definition: ''
 - timestamp: '23/10/2020 11:23'
-  name: ian_townsend123
-  alias: I. Townsend
+  fbid: ian_townsend123
   badge: Iron Lungs
+  name: I. Townsend
+  definition: ''
 - timestamp: '23/10/2020 12:09'
-  name: kenneth_rogers123
-  alias: K. Rogers
+  fbid: kenneth_rogers123
   badge: Iron Lungs
+  name: K. Rogers
+  definition: ''
 - timestamp: '24/10/2020 08:08'
-  name: jessica_carter123
-  alias: J. Carter
+  fbid: jessica_carter123
   badge: Iron Lungs
+  name: J. Carter
+  definition: ''
 - timestamp: '24/10/2020 11:28'
-  name: kimberly_thomas123
-  alias: K. Thomas
+  fbid: kimberly_thomas123
   badge: Iron Lungs
+  name: K. Thomas
+  definition: ''
 - timestamp: '24/10/2020 17:13'
-  name: cameron_proctor123
-  alias: C. Proctor
+  fbid: cameron_proctor123
   badge: Iron Lungs
+  name: C. Proctor
+  definition: ''
 - timestamp: '24/10/2020 17:23'
-  name: harold_perez123
-  alias: H. Perez
+  fbid: harold_perez123
   badge: Iron Lungs
+  name: H. Perez
+  definition: ''
 - timestamp: '25/10/2020 02:33'
-  name: mary_jackson123
-  alias: M. Jackson
+  fbid: mary_jackson123
   badge: Iron Lungs
+  name: M. Jackson
+  definition: ''
 - timestamp: '25/10/2020 03:55'
-  name: brian_lambert123
-  alias: B. Lambert
+  fbid: brian_lambert123
   badge: Iron Lungs
+  name: B. Lambert
+  definition: ''
 - timestamp: '25/10/2020 14:27'
-  name: erica_raymond123
-  alias: E. Raymond
+  fbid: erica_raymond123
   badge: Iron Lungs
+  name: E. Raymond
+  definition: ''
 - timestamp: '26/10/2020 12:43'
-  name: tanya_lamb123
-  alias: T. Lamb
+  fbid: tanya_lamb123
   badge: Iron Lungs
+  name: T. Lamb
+  definition: ''
 - timestamp: '26/10/2020 13:03'
-  name: cynthia_webb123
-  alias: C. Webb
+  fbid: cynthia_webb123
   badge: Iron Lungs
+  name: C. Webb
+  definition: ''
 - timestamp: '27/10/2020 10:33'
-  name: evelyn_christian123
-  alias: E. Christian
+  fbid: evelyn_christian123
   badge: Iron Lungs
+  name: E. Christian
+  definition: ''
 - timestamp: '27/10/2020 14:56'
-  name: shawn_brown123
-  alias: S. Brown
+  fbid: shawn_brown123
   badge: Iron Lungs
+  name: S. Brown
+  definition: ''
 - timestamp: '27/10/2020 16:30'
-  name: lori_pham123
-  alias: L. Pham
+  fbid: lori_pham123
   badge: Iron Lungs
+  name: L. Pham
+  definition: ''
 - timestamp: '27/10/2020 18:42'
-  name: thomas_berry123
-  alias: T. Berry
+  fbid: thomas_berry123
   badge: Iron Lungs
+  name: T. Berry
+  definition: ''
 - timestamp: '27/10/2020 20:12'
-  name: james_jones123
-  alias: J. Jones
+  fbid: james_jones123
   badge: Iron Lungs
+  name: J. Jones
+  definition: ''
 - timestamp: '27/10/2020 23:41'
-  name: christopher_perry123
-  alias: C. Perry
+  fbid: christopher_perry123
   badge: Iron Lungs
+  name: C. Perry
+  definition: ''
 - timestamp: '28/10/2020 08:48'
-  name: angel_ho123
-  alias: A. Ho
+  fbid: angel_ho123
   badge: Iron Lungs
+  name: A. Ho
+  definition: ''
 - timestamp: '28/10/2020 14:45'
-  name: brandon_ramos123
-  alias: B. Ramos
+  fbid: brandon_ramos123
   badge: Iron Lungs
+  name: B. Ramos
+  definition: ''
 - timestamp: '29/10/2020 00:14'
-  name: angel_benson123
-  alias: A. Benson
+  fbid: angel_benson123
   badge: Iron Lungs
+  name: A. Benson
+  definition: ''
 - timestamp: '29/10/2020 07:25'
-  name: jennifer_robbins123
-  alias: J. Robbins
+  fbid: jennifer_robbins123
   badge: Iron Lungs
+  name: J. Robbins
+  definition: ''
 - timestamp: '29/10/2020 16:52'
-  name: jerome_whitehead123
-  alias: J. Whitehead
+  fbid: jerome_whitehead123
   badge: Iron Lungs
+  name: J. Whitehead
+  definition: ''
 - timestamp: '29/10/2020 22:16'
-  name: amanda_taylor123
-  alias: A. Taylor
+  fbid: amanda_taylor123
   badge: Iron Lungs
+  name: A. Taylor
+  definition: ''
 - timestamp: '30/10/2020 00:14'
-  name: danielle_vaughn123
-  alias: D. Vaughn
+  fbid: danielle_vaughn123
   badge: Iron Lungs
+  name: D. Vaughn
+  definition: ''
 - timestamp: '31/10/2020 03:06'
-  name: paul_hoover123
-  alias: P. Hoover
+  fbid: paul_hoover123
   badge: Iron Lungs
+  name: P. Hoover
+  definition: ''
 - timestamp: '31/10/2020 03:36'
-  name: aaron_graham123
-  alias: A. Graham
+  fbid: aaron_graham123
   badge: Iron Lungs
+  name: A. Graham
+  definition: ''
 - timestamp: '01/11/2020 0:10'
-  name: barbara_baker123
-  alias: B. Baker
+  fbid: barbara_baker123
   badge: Iron Lungs
+  name: B. Baker
+  definition: ''
 - timestamp: '01/11/2020 18:21'
-  name: heidi_caldwell123
-  alias: H. Caldwell
+  fbid: heidi_caldwell123
   badge: Iron Lungs
+  name: H. Caldwell
+  definition: ''
 - timestamp: '02/11/2020 2:32'
-  name: morgan_woods123
-  alias: M. Woods
+  fbid: morgan_woods123
   badge: Iron Lungs
+  name: M. Woods
+  definition: ''
 - timestamp: '02/11/2020 7:41'
-  name: catherine_smith123
-  alias: C. Smith
+  fbid: catherine_smith123
   badge: Iron Lungs
+  name: C. Smith
+  definition: ''
 - timestamp: '02/11/2020 21:04'
-  name: jeffrey_fisher123
-  alias: J. Fisher
+  fbid: jeffrey_fisher123
   badge: Iron Lungs
+  name: J. Fisher
+  definition: ''
 - timestamp: '02/11/2020 22:18'
-  name: antonio_taylor123
-  alias: A. Taylor
+  fbid: antonio_taylor123
   badge: Iron Lungs
+  name: A. Taylor
+  definition: ''
 - timestamp: '02/11/2020 23:19'
-  name: kelsey_pacheco123
-  alias: K. Pacheco
+  fbid: kelsey_pacheco123
   badge: Iron Lungs
+  name: K. Pacheco
+  definition: ''
 - timestamp: '03/11/2020 18:36'
-  name: evan_peterson123
-  alias: E. Peterson
+  fbid: evan_peterson123
   badge: Iron Lungs
+  name: E. Peterson
+  definition: ''
 - timestamp: '04/11/2020 5:44'
-  name: melinda_little123
-  alias: M. Little
+  fbid: melinda_little123
   badge: Iron Lungs
+  name: M. Little
+  definition: ''
 - timestamp: '04/11/2020 7:31'
-  name: zachary_thomas123
-  alias: Z. Thomas
+  fbid: zachary_thomas123
   badge: Iron Lungs
+  name: Z. Thomas
+  definition: ''
 - timestamp: '05/11/2020 11:04'
-  name: james_mays123
-  alias: J. Mays
+  fbid: james_mays123
   badge: Iron Lungs
+  name: J. Mays
+  definition: ''
 - timestamp: '06/11/2020 23:55'
-  name: sean_mcdonald123
-  alias: S. Mcdonald
+  fbid: sean_mcdonald123
   badge: Iron Lungs
+  name: S. Mcdonald
+  definition: ''
 - timestamp: '08/11/2020 3:22'
-  name: sydney_parsons123
-  alias: S. Parsons
+  fbid: sydney_parsons123
   badge: Iron Lungs
+  name: S. Parsons
+  definition: ''
 - timestamp: '08/11/2020 6:17'
-  name: robert_clark123
-  alias: R. Clark
+  fbid: robert_clark123
   badge: Iron Lungs
+  name: R. Clark
+  definition: ''
 - timestamp: '08/11/2020 16:12'
-  name: rick_rodriguez123
-  alias: R. Rodriguez
+  fbid: rick_rodriguez123
   badge: Iron Lungs
+  name: R. Rodriguez
+  definition: ''
 - timestamp: '08/11/2020 19:59'
-  name: steven_peterson123
-  alias: S. Peterson
+  fbid: steven_peterson123
   badge: Iron Lungs
+  name: S. Peterson
+  definition: ''
 - timestamp: '09/11/2020 20:08'
-  name: rachel_webb123
-  alias: R. Webb
+  fbid: rachel_webb123
   badge: Iron Lungs
+  name: R. Webb
+  definition: ''
 - timestamp: '11/11/2020 20:52'
-  name: jonathan_calderon123
-  alias: J. Calderon
+  fbid: jonathan_calderon123
   badge: Iron Lungs
+  name: J. Calderon
+  definition: ''
 - timestamp: '11/11/2020 23:27'
-  name: paula_scott123
-  alias: P. Scott
+  fbid: paula_scott123
   badge: Iron Lungs
+  name: P. Scott
+  definition: ''
 - timestamp: '12/11/2020 11:00'
-  name: vicki_flores123
-  alias: V. Flores
+  fbid: vicki_flores123
   badge: Iron Lungs
+  name: V. Flores
+  definition: ''
 - timestamp: '12/11/2020 16:16'
-  name: kyle_jones123
-  alias: K. Jones
+  fbid: kyle_jones123
   badge: Iron Lungs
+  name: K. Jones
+  definition: ''
 - timestamp: '12/11/2020 21:56'
-  name: jade_johnson123
-  alias: J. Johnson
+  fbid: jade_johnson123
   badge: Iron Lungs
+  name: J. Johnson
+  definition: ''
 - timestamp: '12/11/2020 21:59'
-  name: james_rodriguez123
-  alias: J. Rodriguez
+  fbid: james_rodriguez123
   badge: Iron Lungs
+  name: J. Rodriguez
+  definition: ''
 - timestamp: '13/11/2020 04:34'
-  name: andrea_ayers123
-  alias: A. Ayers
+  fbid: andrea_ayers123
   badge: Iron Lungs
+  name: A. Ayers
+  definition: ''
 - timestamp: '13/11/2020 20:11'
-  name: susan_hill123
-  alias: S. Hill
+  fbid: susan_hill123
   badge: Iron Lungs
+  name: S. Hill
+  definition: ''
 - timestamp: '14/11/2020 21:46'
-  name: paul_rogers123
-  alias: P. Rogers
+  fbid: paul_rogers123
   badge: Iron Lungs
+  name: P. Rogers
+  definition: ''
 - timestamp: '15/11/2020 19:12'
-  name: patricia_roberts123
-  alias: P. Roberts
+  fbid: patricia_roberts123
   badge: Iron Lungs
+  name: P. Roberts
+  definition: ''
 - timestamp: '16/11/2020 18:26'
-  name: jonathan_harris123
-  alias: J. Harris
+  fbid: jonathan_harris123
   badge: Iron Lungs
+  name: J. Harris
+  definition: ''
 - timestamp: '17/11/2020 01:08'
-  name: matthew_payne123
-  alias: M. Payne
+  fbid: matthew_payne123
   badge: Iron Lungs
+  name: M. Payne
+  definition: ''
 - timestamp: '17/11/2020 05:43'
-  name: johnny_lee123
-  alias: J. Lee
+  fbid: johnny_lee123
   badge: Iron Lungs
+  name: J. Lee
+  definition: ''
 - timestamp: '17/11/2020 10:16'
-  name: william_brown123
-  alias: W. Brown
+  fbid: william_brown123
   badge: Iron Lungs
+  name: W. Brown
+  definition: ''
 - timestamp: '17/11/2020 16:52'
-  name: david_bell123
-  alias: D. Bell
+  fbid: david_bell123
   badge: Iron Lungs
+  name: D. Bell
+  definition: ''
 - timestamp: '17/11/2020 21:19'
-  name: catherine_wilkins123
-  alias: C. Wilkins
+  fbid: catherine_wilkins123
   badge: Iron Lungs
+  name: C. Wilkins
+  definition: ''
 - timestamp: '18/11/2020 00:06'
-  name: todd_cross123
-  alias: T. Cross
+  fbid: todd_cross123
   badge: Iron Lungs
+  name: T. Cross
+  definition: ''
 - timestamp: '19/11/2020 20:07'
-  name: anthony_warren123
-  alias: A. Warren
+  fbid: anthony_warren123
   badge: Iron Lungs
+  name: A. Warren
+  definition: ''
 - timestamp: '20/11/2020 05:56'
-  name: justin_richardson123
-  alias: J. Richardson
+  fbid: justin_richardson123
   badge: Iron Lungs
+  name: J. Richardson
+  definition: ''
 - timestamp: '20/11/2020 06:56'
-  name: pamela_graham123
-  alias: P. Graham
+  fbid: pamela_graham123
   badge: Iron Lungs
+  name: P. Graham
+  definition: ''
 - timestamp: '20/11/2020 09:44'
-  name: brandon_russell123
-  alias: B. Russell
+  fbid: brandon_russell123
   badge: Iron Lungs
+  name: B. Russell
+  definition: ''
 - timestamp: '21/11/2020 22:25'
-  name: tracey_nguyen123
-  alias: T. Nguyen
+  fbid: tracey_nguyen123
   badge: Iron Lungs
+  name: T. Nguyen
+  definition: ''
 - timestamp: '24/11/2020 06:54'
-  name: danny_mason123
-  alias: D. Mason
+  fbid: danny_mason123
   badge: Iron Lungs
+  name: D. Mason
+  definition: ''
 - timestamp: '24/11/2020 15:03'
-  name: lisa_simpson123
-  alias: L. Simpson
+  fbid: lisa_simpson123
   badge: Iron Lungs
+  name: L. Simpson
+  definition: ''
 - timestamp: '24/11/2020 20:25'
-  name: laura_tucker123
-  alias: L. Tucker
+  fbid: laura_tucker123
   badge: Iron Lungs
+  name: L. Tucker
+  definition: ''
 - timestamp: '27/11/2020 01:19'
-  name: julie_lam123
-  alias: J. Lam
+  fbid: julie_lam123
   badge: Iron Lungs
+  name: J. Lam
+  definition: ''
 - timestamp: '27/11/2020 02:56'
-  name: lawrence_crawford123
-  alias: L. Crawford
+  fbid: lawrence_crawford123
   badge: Iron Lungs
+  name: L. Crawford
+  definition: ''
 - timestamp: '28/11/2020 06:59'
-  name: wendy_maynard123
-  alias: W. Maynard
+  fbid: wendy_maynard123
   badge: Iron Lungs
+  name: W. Maynard
+  definition: ''
 - timestamp: '28/11/2020 17:05'
-  name: david_johnson123
-  alias: D. Johnson
+  fbid: david_johnson123
   badge: Iron Lungs
+  name: D. Johnson
+  definition: ''
 - timestamp: '29/11/2020 03:24'
-  name: mark_villanueva123
-  alias: M. Villanueva
+  fbid: mark_villanueva123
   badge: Iron Lungs
+  name: M. Villanueva
+  definition: ''
 - timestamp: '29/11/2020 05:09'
-  name: michael_brown123
-  alias: M. Brown
+  fbid: michael_brown123
   badge: Iron Lungs
+  name: M. Brown
+  definition: ''
 - timestamp: '30/11/2020 16:27'
-  name: jeffrey_smith123
-  alias: J. Smith
+  fbid: jeffrey_smith123
   badge: Iron Lungs
+  name: J. Smith
+  definition: ''
