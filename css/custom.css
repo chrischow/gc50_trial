@@ -167,10 +167,10 @@ a.navbar-brand {
     transition: 0.3s;
 }
 
-.award-badge > img:hover {
+/* .award-badge > img:hover {
     filter: drop-shadow(5px 8px 16px rgba(33, 33, 33, 0.6));
     transition: 0.3s;
-}
+} */
 
 .badge-title {
     font-family: News Cycle;
