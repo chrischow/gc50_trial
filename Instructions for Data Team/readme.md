@@ -1,7 +1,7 @@
 # Data Team Workflow
 
 ## Integration of Design Updates
-*IC: Christian*
+**IC:** Christian
 
 1. Site to be tested locally.
 2. Changes will be pushed to *staging site* for live testing.
@@ -10,8 +10,8 @@
 3. Once tested good, changes will be pushed to *live site*.
 
 ## Data Updates
-*IC: Christian*
-*2IC: Gabriel*
+**IC:** Christian  
+**2IC:** Gabriel
 
 * Both the staging and live sites are to be refreshed with data from [Google Sheets](https://docs.google.com/spreadsheets/d/1P_eKRABIs7vQG0-p7Z8ElE_EpCOJl3bEJ8gUH5ScEHU/edit#gid=442245183) - method TBC
 * If necessary, data will be pushed from the staging site to the live site
@@ -24,6 +24,7 @@
 5. Ensure that the refreshes do not overlap exactly. Pause and continue the refresh timers for the four pages to spread them out by at least 30s.
 
 ## Periodic Checks and Tasks
+**IC:** Gabriel
 
 ### All Sheets
 * If there is at least response, then check that there are **no calculations errors** (e.g. #N/A, #VALUE!, #REF!)
