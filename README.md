@@ -1,4 +1,4 @@
-# GC50 Virtual Sports Challenge
+# GC50 Virtual Challenge
 This is the official webpage for the GC50 Virtual Sports Challenge (VSC).
 
 ## Overview of Workflow
