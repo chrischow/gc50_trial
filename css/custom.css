@@ -491,7 +491,7 @@ table {
     transition: 0.3s;
     font-family: News Cycle;
     /* text-transform: uppercase; */
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     letter-spacing: 0.1rem;
     text-align: left;
     padding-left: 20px;
@@ -511,7 +511,7 @@ button.btn-qa[aria-expanded="true"]  {
 }
 
 .card {
-    font-size: 1.0rem;
+    font-size: 1.2rem;
     color: #39424d;
     transition: 0.3s;
 }
