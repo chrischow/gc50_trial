@@ -1,5 +1,6 @@
 <!-- Bootstrap Carousel -->
 <div id="carouselIndicators" class="carousel slide" data-ride="carousel" data-interval="3000">
+    {% comment %}
     <ol class="carousel-indicators">
         {% assign img_counter = 0 %}
         {% for image in site.static_files %}
@@ -13,6 +14,8 @@
             {% endif %}
         {% endfor %}
     </ol>
+
+    {% endcomment %}
     <div class="carousel-inner">
         {% assign img_counter = 0 %}
         {% for image in site.static_files %}
