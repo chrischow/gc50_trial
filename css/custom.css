@@ -260,6 +260,15 @@ a.navbar-brand {
     font-size: 1.0rem;
 }
 
+.masthead-clock {
+    font-family: Montserrat;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-size: 3.0rem;
+    color: #ee4c7c;
+}
+
 /* Snapshots */
 #carouselIndicators {
     box-shadow: 5px 8px 16px rgba(33, 33, 33, 0.2);
