@@ -627,6 +627,11 @@ button.btn-qa[aria-expanded="true"]  {
         font-size: 1.6rem;
     }
 
+    .masthead-clock {
+        letter-spacing: 0.1rem;
+        font-size: 2.0rem;
+    }
+
     /* Snapshots */
     .carousel-inner {
         height: 300px!important;
@@ -769,6 +774,11 @@ button.btn-qa[aria-expanded="true"]  {
     /* Clock */
     #clockdiv{
         font-size: 1.4rem;
+    }
+
+    .masthead-clock {
+        letter-spacing: 0.1rem;
+        font-size: 1.6rem;
     }
 
     /* Snapshots */
