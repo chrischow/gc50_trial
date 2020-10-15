@@ -1,3 +1,87 @@
+<!-- MVP -->
+<div class="award-badge col-6">
+    <img src="assets/badges/MVP.png">
+    <br>
+    <span class="badge-title">
+        MVP
+    </span>
+    <br>
+    <a href="" class="badge-text" data-toggle="modal" data-target="#mvp">
+        0 unlocked
+    </a>
+</div>
+
+<div class="modal fade" id="mvp" tabindex="-1" role="dialog" aria-labelledby="mvp_Label" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="mvp_Label">
+                    MVP
+                </h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p class="modal-subtitle text-left">Awarded to those who clocked the most mileage each week.</p>
+                <br>
+                <!-- <div class="row">
+                    <div class="col-6">No names.</div>
+                </div> -->
+                <div class="text-center">
+                    This badge has not been awarded to anyone yet.
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- The Flash -->
+<div class="award-badge col-6">
+    <img src="assets/badges/The Flash.png">
+    <br>
+    <span class="badge-title">
+        The Flash
+    </span>
+    <br>
+    <a href="" class="badge-text" data-toggle="modal" data-target="#theflash">
+        0 unlocked
+    </a>
+</div>
+
+<div class="modal fade" id="theflash" tabindex="-1" role="dialog" aria-labelledby="theflash_Label" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="theflash_Label">
+                    The Flash Badge
+                </h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p class="modal-subtitle text-left">Awarded to those who clocked the fastest run timing each week.</p>
+                <br>
+                <!-- <div class="row">
+                    <div class="col-6">No names.</div>
+                </div> -->
+                <div class="text-center">
+                    This badge has not been awarded to anyone yet.
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Other Badges -->
 {% assign badge_names = "Baby Steps,Half Ironman,Ironman,ONE PUNCHHHHH,Mount Everest,Marathon,Run For Your Life,Buns of Steel,Cycopath,Tour de Singapore,Frogman,Swordfish,Iron Lungs" | split:"," %}
 {% assign badges = site.data.badges %}
 
@@ -59,85 +143,3 @@
     <!-- Increment counter -->
     {% assign badge_counter = badge_counter | plus: 1 %}
 {% endfor %}
-
-<!-- The Flash -->
-<div class="award-badge col-6">
-    <img src="assets/badges/The Flash.png">
-    <br>
-    <span class="badge-title">
-        The Flash
-    </span>
-    <br>
-    <a href="" class="badge-text" data-toggle="modal" data-target="#theflash">
-        0 unlocked
-    </a>
-</div>
-
-<div class="modal fade" id="theflash" tabindex="-1" role="dialog" aria-labelledby="theflash_Label" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="theflash_Label">
-                    The Flash Badge
-                </h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <p class="modal-subtitle text-left">Awarded to those who clocked the fastest run timing each week.</p>
-                <br>
-                <!-- <div class="row">
-                    <div class="col-6">No names.</div>
-                </div> -->
-                <div class="text-center">
-                    This badge has not been awarded to anyone yet.
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- MVP -->
-<div class="award-badge col-6">
-    <img src="assets/badges/MVP.png">
-    <br>
-    <span class="badge-title">
-        MVP
-    </span>
-    <br>
-    <a href="" class="badge-text" data-toggle="modal" data-target="#mvp">
-        0 unlocked
-    </a>
-</div>
-
-<div class="modal fade" id="mvp" tabindex="-1" role="dialog" aria-labelledby="mvp_Label" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="mvp_Label">
-                    MVP
-                </h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <p class="modal-subtitle text-left">Awarded to those who clocked the most mileage each week.</p>
-                <br>
-                <!-- <div class="row">
-                    <div class="col-6">No names.</div>
-                </div> -->
-                <div class="text-center">
-                    This badge has not been awarded to anyone yet.
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
