@@ -552,6 +552,10 @@ button.btn-qa[aria-expanded="true"]  {
         font-size: 18px;
     }
     
+    img.event-logo {
+        height: 35px;
+    }
+
     /* Panels */
     .masthead {
         padding-top: calc(5rem + 40px);
@@ -700,6 +704,10 @@ button.btn-qa[aria-expanded="true"]  {
         padding-right: 10px;
     }
     
+    img.event-logo {
+        height: 30px;
+    }
+
     /* Panels */
     .masthead {
         padding-top: calc(5rem + 50px);
