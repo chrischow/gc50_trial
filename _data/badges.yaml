@@ -102,6 +102,21 @@
   badge: Baby Steps
   name: Warren
   definition: ''
+- timestamp: '10/18/2020 16:35:15'
+  fbid: Ethan123
+  badge: Baby Steps
+  name: Ethan
+  definition: ''
+- timestamp: '10/18/2020 16:35:49'
+  fbid: Andrea123
+  badge: Baby Steps
+  name: Andrea
+  definition: ''
+- timestamp: '10/18/2020 16:36:19'
+  fbid: Lennon123
+  badge: Baby Steps
+  name: Lennon
+  definition: ''
 - timestamp: '10/15/2020 18:39:29'
   fbid: gabriel.lee.5478
   badge: Half Ironman
@@ -116,6 +131,21 @@
   fbid: asdfjkl;
   badge: Half Ironman
   name: Geek
+  definition: ''
+- timestamp: '10/18/2020 16:35:15'
+  fbid: Ethan123
+  badge: Half Ironman
+  name: Ethan
+  definition: ''
+- timestamp: '10/18/2020 16:35:49'
+  fbid: Andrea123
+  badge: Half Ironman
+  name: Andrea
+  definition: ''
+- timestamp: '10/18/2020 16:36:19'
+  fbid: Lennon123
+  badge: Half Ironman
+  name: Lennon
   definition: ''
 - timestamp: '10/18/2020 11:45:57'
   fbid: mujunnie
@@ -137,6 +167,21 @@
   badge: Mount Everest
   name: Geek
   definition: ''
+- timestamp: '10/18/2020 16:35:15'
+  fbid: Ethan123
+  badge: Mount Everest
+  name: Ethan
+  definition: ''
+- timestamp: '10/18/2020 16:35:49'
+  fbid: Andrea123
+  badge: Mount Everest
+  name: Andrea
+  definition: ''
+- timestamp: '10/18/2020 16:36:19'
+  fbid: Lennon123
+  badge: Mount Everest
+  name: Lennon
+  definition: ''
 - timestamp: '10/18/2020 11:49:38'
   fbid: mujunnie
   badge: Marathon
@@ -147,6 +192,21 @@
   badge: Marathon
   name: Geek
   definition: ''
+- timestamp: '10/18/2020 16:35:15'
+  fbid: Ethan123
+  badge: Marathon
+  name: Ethan
+  definition: ''
+- timestamp: '10/18/2020 16:35:49'
+  fbid: Andrea123
+  badge: Marathon
+  name: Andrea
+  definition: ''
+- timestamp: '10/18/2020 16:36:19'
+  fbid: Lennon123
+  badge: Marathon
+  name: Lennon
+  definition: ''
 - timestamp: '10/18/2020 11:49:38'
   fbid: mujunnie
   badge: Run For Your Life
@@ -156,6 +216,21 @@
   fbid: asdfjkl;
   badge: Run For Your Life
   name: Geek
+  definition: ''
+- timestamp: '10/18/2020 16:35:15'
+  fbid: Ethan123
+  badge: Run For Your Life
+  name: Ethan
+  definition: ''
+- timestamp: '10/18/2020 16:35:49'
+  fbid: Andrea123
+  badge: Run For Your Life
+  name: Andrea
+  definition: ''
+- timestamp: '10/18/2020 16:36:19'
+  fbid: Lennon123
+  badge: Run For Your Life
+  name: Lennon
   definition: ''
 - timestamp: '10/18/2020 11:43:50'
   fbid: mujunnie
