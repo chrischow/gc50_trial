@@ -26,47 +26,47 @@
   fbid: ''
   badge: Mount Everest
   name: ''
-  definition: Awarded to those who have ran and/or walked 8km or more.
+  definition: Awarded to those who have run and/or walked 8km or more.
 - timestamp: ''
   fbid: ''
   badge: Marathon
   name: ''
-  definition: Awarded to those who have run
+  definition: Awarded to those who have run and/or walked 42km or more.
 - timestamp: ''
   fbid: ''
   badge: Run For Your Life
   name: ''
-  definition: Awarded to those who ran 100 km or more.
+  definition: Awarded to those who have run and/or walked 100km or more.
 - timestamp: ''
   fbid: ''
   badge: Buns of Steel
   name: ''
-  definition: Awarded to those who cycled 42 km or more.
+  definition: Awarded to those who have cycled 42km or more.
 - timestamp: ''
   fbid: ''
   badge: Cycopath
   name: ''
-  definition: Awarded to those who cycled 100 km or more.
+  definition: Awarded to those who have cycled 100km or more.
 - timestamp: ''
   fbid: ''
   badge: Tour de Singapore
   name: ''
-  definition: Awarded to those who cycled 193 km or more.
+  definition: Awarded to those who have cycled 193km or more.
 - timestamp: ''
   fbid: ''
   badge: Frogman
   name: ''
-  definition: Awarded to those who swam 1.33 km or more.
+  definition: Awarded to those who have swum 1.5km or more.
 - timestamp: ''
   fbid: ''
   badge: Swordfish
   name: ''
-  definition: Awarded to those who swam 3.5 km or more
+  definition: Awarded to those who have swum 3.5km or more.
 - timestamp: ''
   fbid: ''
   badge: Iron Lungs
   name: ''
-  definition: Awarded to those who swam 7 km or more
+  definition: Awarded to those who have swum 7km or more.
 - timestamp: '10/15/2020 18:39:29'
   fbid: gabriel.lee.5478
   badge: Baby Steps
