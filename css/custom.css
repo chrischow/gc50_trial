@@ -545,6 +545,28 @@ button.btn-qa[aria-expanded="true"]  {
     margin-bottom: 20px;
 }
 
+/* Badges */
+.badge-card {
+    box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
+    transition: 0.3s;
+    margin: 10px 0;
+    padding: 15px 30px;
+}
+
+.badge-card:hover {
+    box-shadow: 5px 8px 16px rgba(33, 33, 33, 0.2);
+}
+
+.badge-card-logo {
+    height: 150px;
+}
+
+.badge-card-text {
+    font-size: 1.2rem;
+    color: #39424d;
+}
+
+
 /* Mobile - Horizontal */
 @media (max-width: 768px) {
 
@@ -689,6 +711,15 @@ button.btn-qa[aria-expanded="true"]  {
         padding-top: calc(7rem + 50px);
         padding-bottom: 7rem;
     }
+
+    /* Badges */
+    .badge-card-logo {
+        height: 125px;
+    }
+    
+    .badge-card-text {
+        font-size: 1.0rem;
+    }
 }
 
 /* Mobile */
@@ -825,5 +856,14 @@ button.btn-qa[aria-expanded="true"]  {
     .info-head {
         padding-top: calc(7rem + 50px);
         padding-bottom: 7rem;
+    }
+
+    /* Badges */
+    .badge-card-logo {
+        height: 100px;
+    }
+    
+    .badge-card-text {
+        font-size: 0.9rem;
     }
 }
