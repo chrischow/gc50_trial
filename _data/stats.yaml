@@ -1,924 +1,1056 @@
-- Name: Lee Wen Yang
+- Rank: '1'
+  Name: Lee Wen Yang
   Group: AFE
   FBID: LWY3942
-  Total Mileage: '50.00'
+  Total_Mileage: '50.00'
   Run: '0.00'
   Cycle: '200.00'
   Swim: '0.00'
-- Name: Legend
+- Rank: '2'
+  Name: Legend
   Group: ADW
   FBID: Legend2512
-  Total Mileage: '32.11'
+  Total_Mileage: '32.11'
   Run: '5.89'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Euj
+- Rank: '3'
+  Name: Euj
   Group: ATC
   FBID: Euj1871
-  Total Mileage: '28.54'
+  Total_Mileage: '28.54'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Hasty
+- Rank: '4'
+  Name: Hasty
   Group: ADW
   FBID: Hasty55555
-  Total Mileage: '25.00'
+  Total_Mileage: '25.00'
   Run: '25.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: LZX
+- Rank: '5'
+  Name: LZX
   Group: ADSS/ADWS/ADWO
   FBID: leezx1337
-  Total Mileage: '22.95'
+  Total_Mileage: '22.95'
   Run: '5.05'
   Cycle: '71.58'
   Swim: '0.00'
-- Name: T-rex
+- Rank: '6'
+  Name: T-rex
   Group: ABM
   FBID: Trex1406
-  Total Mileage: '21.00'
+  Total_Mileage: '21.00'
   Run: '12.00'
   Cycle: '0.00'
   Swim: '1.50'
-- Name: Weng
+- Rank: '7'
+  Name: Weng
   Group: ADSS/ADWS/ADWO
   FBID: Weng8238
-  Total Mileage: '16.71'
+  Total_Mileage: '16.71'
   Run: '0.00'
   Cycle: '15.51'
   Swim: '0.00'
-- Name: Marcus
+- Rank: '8'
+  Name: Marcus
   Group: ADSS/ADWS/ADWO
   FBID: Mtwk1998
-  Total Mileage: '16.60'
+  Total_Mileage: '16.60'
   Run: '10.00'
   Cycle: '0.00'
   Swim: '1.10'
-- Name: junhui
+- Rank: '9'
+  Name: junhui
   Group: ADW
   FBID: junhui2301
-  Total Mileage: '15.91'
+  Total_Mileage: '15.91'
   Run: '5.17'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Jason Chew
+- Rank: '10'
+  Name: Jason Chew
   Group: ADSS/ADWS/ADWO
   FBID: JChew1985
-  Total Mileage: '15.50'
+  Total_Mileage: '15.50'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: OLAF
+- Rank: '11'
+  Name: OLAF
   Group: ADW
   FBID: OLAF2156
-  Total Mileage: '15.20'
+  Total_Mileage: '15.20'
   Run: '15.20'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: yapoh
+- Rank: '12'
+  Name: yapoh
   Group: ADW
   FBID: yapoh0304
-  Total Mileage: '15.00'
+  Total_Mileage: '15.00'
   Run: '15.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Nicholas
+- Rank: '12'
+  Name: Nicholas
   Group: ADSS/ADWS/ADWO
   FBID: NN1974
-  Total Mileage: '15.00'
+  Total_Mileage: '15.00'
   Run: '6.00'
   Cycle: '0.00'
   Swim: '1.50'
-- Name: Hanyong
+- Rank: '12'
+  Name: Hanyong
   Group: ADW
   FBID: Hany2801
-  Total Mileage: '15.00'
+  Total_Mileage: '15.00'
   Run: '15.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: K Y Leong
+- Rank: '15'
+  Name: K Y Leong
   Group: ADSS/ADWS/ADWO
   FBID: Kyxy2808
-  Total Mileage: '14.39'
+  Total_Mileage: '14.39'
   Run: '14.39'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Sloh
+- Rank: '16'
+  Name: Sloh
   Group: ADW
   FBID: Sloh0121
-  Total Mileage: '13.55'
+  Total_Mileage: '13.55'
   Run: '0.00'
   Cycle: '54.19'
   Swim: '0.00'
-- Name: Ah Bing
+- Rank: '17'
+  Name: Ah Bing
   Group: ADW
   FBID: Bingo0507
-  Total Mileage: '11.02'
+  Total_Mileage: '11.02'
   Run: '11.02'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Andrew Leong
+- Rank: '18'
+  Name: Andrew Leong
   Group: ADSS/ADWS/ADWO
   FBID: Handy0206
-  Total Mileage: '11.00'
+  Total_Mileage: '11.00'
   Run: '11.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Eric Kwok
+- Rank: '19'
+  Name: Eric Kwok
   Group: ABM
   FBID: Villain1111
-  Total Mileage: '10.98'
+  Total_Mileage: '10.98'
   Run: '0.00'
   Cycle: '41.51'
   Swim: '0.10'
-- Name: Tan Chee Wee
+- Rank: '20'
+  Name: Tan Chee Wee
   Group: ATC
   FBID: tancw1974
-  Total Mileage: '10.74'
+  Total_Mileage: '10.74'
   Run: '10.74'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Quainapz
+- Rank: '21'
+  Name: Quainapz
   Group: ADSS/ADWS/ADWO
   FBID: Quainapz8585
-  Total Mileage: '10.32'
+  Total_Mileage: '10.32'
   Run: '8.02'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Barter
+- Rank: '22'
+  Name: Barter
   Group: ATC
   FBID: Reload0203
-  Total Mileage: '10.25'
+  Total_Mileage: '10.25'
   Run: '0.00'
   Cycle: '41.00'
   Swim: '0.00'
-- Name: Leonard ong
+- Rank: '23'
+  Name: Leonard ong
   Group: ADSS/ADWS/ADWO
   FBID: WANG0165
-  Total Mileage: '10.20'
+  Total_Mileage: '10.20'
   Run: '9.20'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 'Sengie '
+- Rank: '24'
+  Name: 'Sengie '
   Group: ADW
   FBID: ARIAL0160
-  Total Mileage: '10.10'
+  Total_Mileage: '10.10'
   Run: '4.10'
   Cycle: '0.00'
   Swim: '1.00'
-- Name: Loke Hon Wah
+- Rank: '25'
+  Name: Loke Hon Wah
   Group: ADSS/ADWS/ADWO
   FBID: HonWah1607
-  Total Mileage: '10.08'
+  Total_Mileage: '10.08'
   Run: '10.08'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Ben
+- Rank: '26'
+  Name: Ben
   Group: ADSS/ADWS/ADWO
   FBID: BY8362
-  Total Mileage: '10.02'
+  Total_Mileage: '10.02'
   Run: '10.02'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Vincent Yap
+- Rank: '27'
+  Name: Vincent Yap
   Group: ADW
   FBID: Vince2107
-  Total Mileage: '10.00'
+  Total_Mileage: '10.00'
   Run: '10.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Rycel Wong
+- Rank: '27'
+  Name: Rycel Wong
   Group: AOSX/AOS
   FBID: Rycel2929
-  Total Mileage: '10.00'
+  Total_Mileage: '10.00'
   Run: '10.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Pravin
+- Rank: '27'
+  Name: Pravin
   Group: ADSS/ADWS/ADWO
   FBID: Pravin8938
-  Total Mileage: '10.00'
+  Total_Mileage: '10.00'
   Run: '10.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Leon Yeo
+- Rank: '27'
+  Name: Leon Yeo
   Group: ADSS/ADWS/ADWO
   FBID: LeonYeo2590
-  Total Mileage: '10.00'
+  Total_Mileage: '10.00'
   Run: '10.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Dan
+- Rank: '27'
+  Name: Dan
   Group: ADSS/ADWS/ADWO
   FBID: Dan1234
-  Total Mileage: '10.00'
+  Total_Mileage: '10.00'
   Run: '10.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Cookie-ATC
+- Rank: '27'
+  Name: Cookie-ATC
   Group: ATC
   FBID: Cookie3rdWSO1975
-  Total Mileage: '10.00'
+  Total_Mileage: '10.00'
   Run: '10.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Ektar
+- Rank: '33'
+  Name: Ektar
   Group: ABM
   FBID: ektar1971
-  Total Mileage: '9.25'
+  Total_Mileage: '9.25'
   Run: '0.00'
   Cycle: '37.00'
   Swim: '0.00'
-- Name: Ram
+- Rank: '34'
+  Name: Ram
   Group: ADW
   FBID: ram7267
-  Total Mileage: '9.00'
+  Total_Mileage: '9.00'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '1.50'
-- Name: Speed
+- Rank: '35'
+  Name: Speed
   Group: ABM
   FBID: Speed0111
-  Total Mileage: '8.78'
+  Total_Mileage: '8.78'
   Run: '4.57'
   Cycle: '16.84'
   Swim: '0.00'
-- Name: Homeboy
+- Rank: '36'
+  Name: Homeboy
   Group: AOSX/AOS
   FBID: Home5116
-  Total Mileage: '8.52'
+  Total_Mileage: '8.52'
   Run: '8.52'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Asterix
+- Rank: '37'
+  Name: Asterix
   Group: ABM
   FBID: Asterix1987
-  Total Mileage: '8.49'
+  Total_Mileage: '8.49'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Patrick Pang
+- Rank: '38'
+  Name: Patrick Pang
   Group: AFE
   FBID: Playpang0113
-  Total Mileage: '8.11'
+  Total_Mileage: '8.11'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: LQ
+- Rank: '39'
+  Name: LQ
   Group: ADW
   FBID: LQ1988
-  Total Mileage: '7.31'
+  Total_Mileage: '7.31'
   Run: '7.31'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Nicholas Lian
+- Rank: '40'
+  Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2002
-  Total Mileage: '7.20'
+  Total_Mileage: '7.20'
   Run: '7.20'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Hybrid
+- Rank: '41'
+  Name: Hybrid
   Group: ADW
   FBID: Hybird1843
-  Total Mileage: '7.00'
+  Total_Mileage: '7.00'
   Run: '7.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Geeky
+- Rank: '41'
+  Name: Geeky
   Group: ADW
   FBID: Geeky1989
-  Total Mileage: '7.00'
+  Total_Mileage: '7.00'
   Run: '7.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 3SG Charlie
+- Rank: '41'
+  Name: 3SG Charlie
   Group: ADSS/ADWS/ADWO
   FBID: Charlie2539
-  Total Mileage: '7.00'
+  Total_Mileage: '7.00'
   Run: '7.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: JonChen
+- Rank: '44'
+  Name: JonChen
   Group: ADW
   FBID: JonChen0000
-  Total Mileage: '6.60'
+  Total_Mileage: '6.60'
   Run: '6.60'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Gregg
+- Rank: '45'
+  Name: Gregg
   Group: ADSS/ADWS/ADWO
   FBID: Hoodini2112
-  Total Mileage: '6.50'
+  Total_Mileage: '6.50'
   Run: '6.50'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Hejie
+- Rank: '46'
+  Name: Hejie
   Group: ADSS/ADWS/ADWO
   FBID: ULC0165
-  Total Mileage: '6.25'
+  Total_Mileage: '6.25'
   Run: '6.25'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Zech Lee
+- Rank: '47'
+  Name: Zech Lee
   Group: ADSS/ADWS/ADWO
   FBID: seffy9494
-  Total Mileage: '6.20'
+  Total_Mileage: '6.20'
   Run: '6.20'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Manu
+- Rank: '48'
+  Name: Manu
   Group: ABM
   FBID: Manu7894
-  Total Mileage: '6.08'
+  Total_Mileage: '6.08'
   Run: '6.08'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Starbucks
+- Rank: '49'
+  Name: Starbucks
   Group: ABM
   FBID: Starbucks3756
-  Total Mileage: '6.02'
+  Total_Mileage: '6.02'
   Run: '6.02'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: cheehao
+- Rank: '50'
+  Name: cheehao
   Group: ADSS/ADWS/ADWO
   FBID: 165sloth1999
-  Total Mileage: '6.01'
+  Total_Mileage: '6.01'
   Run: '2.02'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Spear
+- Rank: '51'
+  Name: Spear
   Group: ATC
   FBID: Spear0213
-  Total Mileage: '6.00'
+  Total_Mileage: '6.00'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '1.00'
-- Name: Rock
+- Rank: '51'
+  Name: Rock
   Group: ADW
   FBID: Rock0165
-  Total Mileage: '6.00'
+  Total_Mileage: '6.00'
   Run: '5.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: JIAYONG
+- Rank: '51'
+  Name: JIAYONG
   Group: ADSS/ADWS/ADWO
   FBID: Jaywhy0309
-  Total Mileage: '6.00'
+  Total_Mileage: '6.00'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: You Rong
+- Rank: '51'
+  Name: You Rong
   Group: ADW
   FBID: Audi1987
-  Total Mileage: '6.00'
+  Total_Mileage: '6.00'
   Run: '6.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Bryan
+- Rank: '51'
+  Name: Bryan
   Group: AOSX/AOS
   FBID: Artist1991
-  Total Mileage: '6.00'
+  Total_Mileage: '6.00'
   Run: '6.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 'Tay Wen Hao '
+- Rank: '56'
+  Name: 'Tay Wen Hao '
   Group: ADW
   FBID: Wh8295
-  Total Mileage: '5.85'
+  Total_Mileage: '5.85'
   Run: '5.85'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: WJ
+- Rank: '56'
+  Name: WJ
   Group: ADSS/ADWS/ADWO
   FBID: jie0304
-  Total Mileage: '5.85'
+  Total_Mileage: '5.85'
   Run: '5.85'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Ham
+- Rank: '56'
+  Name: Ham
   Group: ADSS/ADWS/ADWO
   FBID: Ham1234
-  Total Mileage: '5.85'
+  Total_Mileage: '5.85'
   Run: '5.85'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 'Crystal '
+- Rank: '59'
+  Name: 'Crystal '
   Group: ABM
   FBID: Crystal1101
-  Total Mileage: '5.28'
+  Total_Mileage: '5.28'
   Run: '5.28'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Wong Wei Ming
+- Rank: '60'
+  Name: Wong Wei Ming
   Group: ATC
   FBID: Shadow0206
-  Total Mileage: '5.24'
+  Total_Mileage: '5.24'
   Run: '5.24'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Tham Yong Jun
+- Rank: '60'
+  Name: Tham Yong Jun
   Group: AOSX/AOS
   FBID: Jun1996
-  Total Mileage: '5.24'
+  Total_Mileage: '5.24'
   Run: '5.24'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Lightyear
+- Rank: '62'
+  Name: Lightyear
   Group: ADW
   FBID: Lightyear2020
-  Total Mileage: '5.15'
+  Total_Mileage: '5.15'
   Run: '5.15'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Kelvin
+- Rank: '62'
+  Name: Kelvin
   Group: ADSS/ADWS/ADWO
   FBID: Kelvin1111
-  Total Mileage: '5.15'
+  Total_Mileage: '5.15'
   Run: '5.15'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: TT
+- Rank: '64'
+  Name: TT
   Group: ABM
   FBID: jiawei1989
-  Total Mileage: '5.09'
+  Total_Mileage: '5.09'
   Run: '3.20'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Essay
+- Rank: '65'
+  Name: Essay
   Group: ADW
   FBID: Essay7696
-  Total Mileage: '5.03'
+  Total_Mileage: '5.03'
   Run: '5.03'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Hayden
+- Rank: '66'
+  Name: Hayden
   Group: ADSS/ADWS/ADWO
   FBID: Hayden0165
-  Total Mileage: '5.02'
+  Total_Mileage: '5.02'
   Run: '5.02'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: ASHWIN1234
+- Rank: '66'
+  Name: ASHWIN1234
   Group: ADW
   FBID: ASHWIN1234
-  Total Mileage: '5.02'
+  Total_Mileage: '5.02'
   Run: '5.02'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Weaver
+- Rank: '68'
+  Name: Weaver
   Group: ADW
   FBID: Weaver5275
-  Total Mileage: '5.01'
+  Total_Mileage: '5.01'
   Run: '5.01'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Waffles
+- Rank: '69'
+  Name: Waffles
   Group: ATC
   FBID: Waffles3567
-  Total Mileage: '5.00'
+  Total_Mileage: '5.00'
   Run: '5.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Louis Chiu
+- Rank: '69'
+  Name: Louis Chiu
   Group: ADSS/ADWS/ADWO
   FBID: RookieCookie8280
-  Total Mileage: '5.00'
+  Total_Mileage: '5.00'
   Run: '5.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: PIXAR
+- Rank: '69'
+  Name: PIXAR
   Group: ABM
   FBID: PIXAR0001
-  Total Mileage: '5.00'
+  Total_Mileage: '5.00'
   Run: '5.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Matrix
+- Rank: '69'
+  Name: Matrix
   Group: ABM
   FBID: Matrix3280
-  Total Mileage: '5.00'
+  Total_Mileage: '5.00'
   Run: '5.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Joel
+- Rank: '69'
+  Name: Joel
   Group: ADSS/ADWS/ADWO
   FBID: Joe1308
-  Total Mileage: '5.00'
+  Total_Mileage: '5.00'
   Run: '5.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Aik Phan
+- Rank: '69'
+  Name: Aik Phan
   Group: ADSS/ADWS/ADWO
   FBID: aikphan1234
-  Total Mileage: '5.00'
+  Total_Mileage: '5.00'
   Run: '5.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Bronson
+- Rank: '75'
+  Name: Bronson
   Group: ADW
   FBID: Bronze1234
-  Total Mileage: '4.84'
+  Total_Mileage: '4.84'
   Run: '4.84'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 'Jonjuay '
+- Rank: '76'
+  Name: 'Jonjuay '
   Group: ADSS/ADWS/ADWO
   FBID: Jonjuay8822
-  Total Mileage: '4.51'
+  Total_Mileage: '4.51'
   Run: '4.51'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Ying Tat
+- Rank: '77'
+  Name: Ying Tat
   Group: ADW
   FBID: thumbs8599
-  Total Mileage: '4.30'
+  Total_Mileage: '4.30'
   Run: '2.67'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: IGNITE
+- Rank: '78'
+  Name: IGNITE
   Group: ADW
   FBID: IGNITE1631
-  Total Mileage: '4.18'
+  Total_Mileage: '4.18'
   Run: '4.18'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Tommy Tham
+- Rank: '79'
+  Name: Tommy Tham
   Group: ADSS/ADWS/ADWO
   FBID: Tommy1976
-  Total Mileage: '4.08'
+  Total_Mileage: '4.08'
   Run: '4.08'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Jon Thia
+- Rank: '80'
+  Name: Jon Thia
   Group: ADW
   FBID: Penguin3812
-  Total Mileage: '3.84'
+  Total_Mileage: '3.84'
   Run: '3.84'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Sean Chua
+- Rank: '81'
+  Name: Sean Chua
   Group: ADSS/ADWS/ADWO
   FBID: Stop0001
-  Total Mileage: '3.80'
+  Total_Mileage: '3.80'
   Run: '3.80'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Riston
+- Rank: '81'
+  Name: Riston
   Group: ADSS/ADWS/ADWO
   FBID: Etrius7476
-  Total Mileage: '3.80'
+  Total_Mileage: '3.80'
   Run: '3.80'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Nicholas Lian
+- Rank: '83'
+  Name: Nicholas Lian
   Group: ADW
   FBID: Horsepower2001
-  Total Mileage: '3.77'
+  Total_Mileage: '3.77'
   Run: '3.77'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: WW
+- Rank: '84'
+  Name: WW
   Group: ADW
   FBID: Dubs0001
-  Total Mileage: '3.68'
+  Total_Mileage: '3.68'
   Run: '3.68'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Brendan
+- Rank: '85'
+  Name: Brendan
   Group: ADSS/ADWS/ADWO
   FBID: xIAOchu0000
-  Total Mileage: '3.65'
+  Total_Mileage: '3.65'
   Run: '3.65'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Gabriel Tay Kai Xian
+- Rank: '86'
+  Name: Gabriel Tay Kai Xian
   Group: ADW
   FBID: Blueeyeswhitedragon2901
-  Total Mileage: '3.30'
+  Total_Mileage: '3.30'
   Run: '3.30'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 'Beatbox '
+- Rank: '86'
+  Name: 'Beatbox '
   Group: ABM
   FBID: Beatbox0202
-  Total Mileage: '3.30'
+  Total_Mileage: '3.30'
   Run: '3.30'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: JOVAN
+- Rank: '88'
+  Name: JOVAN
   Group: ADW
   FBID: NIGHTOWL1303
-  Total Mileage: '3.29'
+  Total_Mileage: '3.29'
   Run: '3.29'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Junan
+- Rank: '88'
+  Name: Junan
   Group: ADW
   FBID: Junan1111
-  Total Mileage: '3.29'
+  Total_Mileage: '3.29'
   Run: '3.29'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Isaac
+- Rank: '90'
+  Name: Isaac
   Group: ADSS/ADWS/ADWO
   FBID: xMint1998
-  Total Mileage: '3.24'
+  Total_Mileage: '3.24'
   Run: '3.24'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: KevinKKW
+- Rank: '91'
+  Name: KevinKKW
   Group: ADSS/ADWS/ADWO
   FBID: Kkkw0165
-  Total Mileage: '3.20'
+  Total_Mileage: '3.20'
   Run: '3.20'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: aH Hui
+- Rank: '92'
+  Name: aH Hui
   Group: ADSS/ADWS/ADWO
   FBID: Edgar0409
-  Total Mileage: '3.18'
+  Total_Mileage: '3.18'
   Run: '3.18'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Ankle
+- Rank: '93'
+  Name: Ankle
   Group: ADSS/ADWS/ADWO
   FBID: Redeyesblackdragon1310
-  Total Mileage: '3.17'
+  Total_Mileage: '3.17'
   Run: '3.17'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Guang
+- Rank: '94'
+  Name: Guang
   Group: ADSS/ADWS/ADWO
   FBID: Guang1309
-  Total Mileage: '3.14'
+  Total_Mileage: '3.14'
   Run: '3.14'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Kelvin Ooi
+- Rank: '95'
+  Name: Kelvin Ooi
   Group: ADSS/ADWS/ADWO
   FBID: whale1999
-  Total Mileage: '3.10'
+  Total_Mileage: '3.10'
   Run: '3.10'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Yun Jie (Rhythm)
+- Rank: '95'
+  Name: Yun Jie (Rhythm)
   Group: ADW
   FBID: JabeZ0160
-  Total Mileage: '3.10'
+  Total_Mileage: '3.10'
   Run: '3.10'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Fam
+- Rank: '97'
+  Name: Fam
   Group: ADSS/ADWS/ADWO
   FBID: Phantom1997
-  Total Mileage: '3.06'
+  Total_Mileage: '3.06'
   Run: '3.06'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Elliot Goodman
+- Rank: '98'
+  Name: Elliot Goodman
   Group: ADW
   FBID: Goodman8888
-  Total Mileage: '3.01'
+  Total_Mileage: '3.01'
   Run: '3.01'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Jia Heng
+- Rank: '99'
+  Name: Jia Heng
   Group: ADW
   FBID: z_jiaheng1998
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Jj
+- Rank: '99'
+  Name: Jj
   Group: ADSS/ADWS/ADWO
   FBID: TaroQ5061
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Spacebar
+- Rank: '99'
+  Name: Spacebar
   Group: ADW
   FBID: Spacebar5647
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Yi Kuang
+- Rank: '99'
+  Name: Yi Kuang
   Group: ADW
   FBID: rocket1999
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Leeg
+- Rank: '99'
+  Name: Leeg
   Group: ADW
   FBID: Leeg9475
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Jitsu
+- Rank: '99'
+  Name: Jitsu
   Group: ADW
   FBID: Jitsu3730
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 'HK '
+- Rank: '99'
+  Name: 'HK '
   Group: ADSS/ADWS/ADWO
   FBID: HK4812
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 'Tan Swee Kiat '
+- Rank: '99'
+  Name: 'Tan Swee Kiat '
   Group: ADW
   FBID: Eskay0077
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Ian Zayne Andre
+- Rank: '99'
+  Name: Ian Zayne Andre
   Group: ADSS/ADWS/ADWO
   FBID: Black_Santa0311
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '3.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Ah Bye
+- Rank: '99'
+  Name: Ah Bye
   Group: ADSS/ADWS/ADWO
   FBID: Ahbye8495
-  Total Mileage: '3.00'
+  Total_Mileage: '3.00'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: TWIG
+- Rank: '109'
+  Name: TWIG
   Group: ATC
   FBID: TWIG2020
-  Total Mileage: '2.87'
+  Total_Mileage: '2.87'
   Run: '2.87'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Jiajun
+- Rank: '110'
+  Name: Jiajun
   Group: ADSS/ADWS/ADWO
   FBID: Jj2304
-  Total Mileage: '2.86'
+  Total_Mileage: '2.86'
   Run: '2.86'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Sirius
+- Rank: '111'
+  Name: Sirius
   Group: ABM
   FBID: Sirius1320
-  Total Mileage: '2.80'
+  Total_Mileage: '2.80'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Poh Liong Wui
+- Rank: '112'
+  Name: Poh Liong Wui
   Group: AFE
   FBID: Pohlw7878
-  Total Mileage: '2.74'
+  Total_Mileage: '2.74'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Kelvis
+- Rank: '112'
+  Name: Kelvis
   Group: ADSS/ADWS/ADWO
   FBID: Kelvis2000
-  Total Mileage: '2.74'
+  Total_Mileage: '2.74'
   Run: '2.74'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Nicholas
+- Rank: '114'
+  Name: Nicholas
   Group: ADW
   FBID: 165Canon1998
-  Total Mileage: '2.69'
+  Total_Mileage: '2.69'
   Run: '2.69'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Devin Tan
+- Rank: '115'
+  Name: Devin Tan
   Group: ADSS/ADWS/ADWO
   FBID: alpha0117
-  Total Mileage: '2.55'
+  Total_Mileage: '2.55'
   Run: '2.55'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: 3SG Kent Zeng
+- Rank: '116'
+  Name: 3SG Kent Zeng
   Group: ADSS/ADWS/ADWO
   FBID: Stonks69420
-  Total Mileage: '2.50'
+  Total_Mileage: '2.50'
   Run: '2.50'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Yan Ting
+- Rank: '117'
+  Name: Yan Ting
   Group: ADSS/ADWS/ADWO
   FBID: Yeti1993
-  Total Mileage: '2.40'
+  Total_Mileage: '2.40'
   Run: '2.40'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Camper
+- Rank: '117'
+  Name: Camper
   Group: ADW
   FBID: tanht1968
-  Total Mileage: '2.40'
+  Total_Mileage: '2.40'
   Run: '2.40'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Saw
+- Rank: '117'
+  Name: Saw
   Group: ABM
   FBID: Saw1818
-  Total Mileage: '2.40'
+  Total_Mileage: '2.40'
   Run: '2.40'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Nicky
+- Rank: '117'
+  Name: Nicky
   Group: ADSS/ADWS/ADWO
   FBID: NGXW2103
-  Total Mileage: '2.40'
+  Total_Mileage: '2.40'
   Run: '2.40'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Joshua
+- Rank: '121'
+  Name: Joshua
   Group: ADSS/ADWS/ADWO
   FBID: 165Bang1999
-  Total Mileage: '2.14'
+  Total_Mileage: '2.14'
   Run: '2.14'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: SONG RUI
+- Rank: '122'
+  Name: SONG RUI
   Group: ADSS/ADWS/ADWO
   FBID: SR7730
-  Total Mileage: '2.10'
+  Total_Mileage: '2.10'
   Run: '2.10'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Andre
+- Rank: '123'
+  Name: Andre
   Group: ADSS/ADWS/ADWO
   FBID: Wagon6190
-  Total Mileage: '2.08'
+  Total_Mileage: '2.08'
   Run: '2.08'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: JTZH
+- Rank: '124'
+  Name: JTZH
   Group: ADSS/ADWS/ADWO
   FBID: Joshua2209
-  Total Mileage: '2.04'
+  Total_Mileage: '2.04'
   Run: '2.04'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Jun Jia
+- Rank: '124'
+  Name: Jun Jia
   Group: ADSS/ADWS/ADWO
   FBID: JJTAN1507
-  Total Mileage: '2.04'
+  Total_Mileage: '2.04'
   Run: '2.04'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: wk
+- Rank: '126'
+  Name: wk
   Group: ADSS/ADWS/ADWO
   FBID: wk1999
-  Total Mileage: '2.00'
+  Total_Mileage: '2.00'
   Run: '2.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Pixel EQ
+- Rank: '126'
+  Name: Pixel EQ
   Group: AOSX/AOS
   FBID: Pixel0323
-  Total Mileage: '2.00'
+  Total_Mileage: '2.00'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Kelvin Fan
+- Rank: '128'
+  Name: Kelvin Fan
   Group: ADW
   FBID: FICA1979
-  Total Mileage: '1.72'
+  Total_Mileage: '1.72'
   Run: '0.00'
   Cycle: '6.86'
   Swim: '0.00'
-- Name: Prem
+- Rank: '129'
+  Name: Prem
   Group: ADW
   FBID: Premium6687
-  Total Mileage: '1.32'
+  Total_Mileage: '1.32'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Andrew Ng
+- Rank: '130'
+  Name: Andrew Ng
   Group: ADW
   FBID: Maxcap2103
-  Total Mileage: '0.78'
+  Total_Mileage: '0.78'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: YuenG
+- Rank: '131'
+  Name: YuenG
   Group: ADSS/ADWS/ADWO
   FBID: YuenG1977
-  Total Mileage: '0.00'
+  Total_Mileage: '0.00'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
-- Name: Ndchilled
+- Rank: '131'
+  Name: Ndchilled
   Group: ADSS/ADWS/ADWO
   FBID: Hugo2525
-  Total Mileage: '0.00'
+  Total_Mileage: '0.00'
   Run: '0.00'
   Cycle: '0.00'
   Swim: '0.00'
