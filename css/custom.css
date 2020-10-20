@@ -566,6 +566,14 @@ button.btn-qa[aria-expanded="true"]  {
     color: #39424d;
 }
 
+/* DataTable */
+.dataTables_info {
+    font-size: 1.1rem;
+}
+
+.dataTables_paginate {
+    font-size: 1.1rem;
+}
 
 /* Mobile - Horizontal */
 @media (max-width: 768px) {
