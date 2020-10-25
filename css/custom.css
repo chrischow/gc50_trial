@@ -85,6 +85,24 @@ a.navbar-brand {
     transition: 0.3s;
 }
 
+li.nav-item > div.dropdown-menu {
+    background-color: #1f2833;
+}
+
+li.nav-item > div.dropdown-menu > a.dropdown-item {
+    color: #e5e5e5;
+    font-family: Poppins;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
+    font-weight: 200;
+}
+
+li.nav-item > div.dropdown-menu > a.dropdown-item:hover {
+    color: white;
+    background-color: #39424d;
+}
+
 /* Panels */
 .masthead {
     padding-top: calc(6rem + 74px);
@@ -294,7 +312,7 @@ a.navbar-brand {
 }
 
 /* Lightbox */
-#lightboxOverlay { 
+`ightboxOverlay { 
     position: fixed !important; 
     top: 0; 
     left: 0; 
@@ -570,6 +588,8 @@ button.btn-qa[aria-expanded="true"]  {
     color: #39424d;
 }
 
+/* Leaderboard Page */
+
 /* DataTable */
 .dataTables_info {
     font-size: 1.05rem;
@@ -585,7 +605,7 @@ button.btn-qa[aria-expanded="true"]  {
     transition: 0.3s;
     margin-top: 10px;
     padding: 15px 15px;
-    background: #000010;
+    background: #01012A;
     border-radius: 0;
     color: #66fcf1;
 }
@@ -618,7 +638,7 @@ button.btn-hof[aria-expanded="true"]  {
 }
 
 .hof-section {
-    margin: 15px 10px;
+    padding: 15px 30px;
 }
 
 .hof-badge {
