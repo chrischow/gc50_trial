@@ -4,6 +4,54 @@ title: Leaderboard
 ---
 <section class="lb-page page-section">
     <div class="container">
+        <!-- Weekly Leaderboard -->
+        <div class="row justify-content-center">
+            <div class="col-11 text-center">
+                <h2 class="page-section-header text-center">Weekly Leaderboard</h2>
+                <p style="font-style: italic;">Note: Total Mileage includes only Running, Cycling, and Swimming mileage <strong>with multiplier</strong>.</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-11">
+                {% assign stats = site.data.stats_weekly %}
+                <div style="overflow-x: scroll;">
+                    <table id="lb-weekly" class="compact stripe">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Name</th>
+                                <th>Group</th>
+                                <th>Run</th>
+                                <th>Cycle</th>
+                                <th>Swim</th>
+                                <th>Walk</th>
+                                <th>Badges</th>
+                                <th>Total Mileage</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for item in stats %}
+                                <tr>
+                                    <td>{{ item.Rank }}</td>
+                                    <td>{{ item.Name }}</td>
+                                    <td>{{ item.Group }}</td>
+                                    <td>{{ item.Run }}</td>
+                                    <td>{{ item.Cycle }}</td>
+                                    <td>{{ item.Swim }}</td>
+                                    <td>{{ item.Walk }}</td>
+                                    <td>{{ item.Badges }}</td>
+                                    <td>{{ item.Total_Mileage }}</td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <br><br>
+
+        <!-- Full Leaderboard -->
         <div class="row justify-content-center">
             <div class="col-11 text-center">
                 <h2 class="page-section-header text-center">Full Leaderboard</h2>
@@ -14,7 +62,7 @@ title: Leaderboard
             <div class="col-11">
                 {% assign stats = site.data.stats %}
                 <div style="overflow-x: scroll;">
-                    <table id="lb-table" class="compact stripe">
+                    <table id="lb-full" class="compact stripe">
                         <thead>
                             <tr>
                                 <th>Rank</th>

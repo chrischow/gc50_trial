@@ -7,8 +7,17 @@
 
 <script>
     $(document).ready( function(){
-        $('#lb-table').DataTable({
-            "pageLength": 50,
+        $('#lb-weekly').DataTable({
+            "pageLength": 25,
+            "columnDefs": [
+                {"className": "dt-center", "targets": "_all"}
+            ]
+        });
+    } );
+
+    $(document).ready( function(){
+        $('#lb-full').DataTable({
+            "pageLength": 25,
             "columnDefs": [
                 {"className": "dt-center", "targets": "_all"}
             ]
