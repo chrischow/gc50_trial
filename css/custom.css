@@ -641,9 +641,9 @@ button.btn-qa[aria-expanded="true"]  {
     transition: 0.3s;
     margin-top: 10px;
     padding: 15px 15px;
-    background: #01012A;
+    background: #1A1A43;
     border-radius: 0;
-    color: #66fcf1;
+    color: white;
 }
 
 .btn-hof:hover {
