@@ -21,13 +21,13 @@
         {% for image in site.static_files %}
             {% if image.path contains 'assets/gallery' %}
                     {% if img_counter == 0 %}
-                        <div class="carousel-item active" style="background-image: url({{ site.baseurl }}{{ image.path }});">
+                        <div class="carousel-item active" style="background-image: url('{{ site.baseurl }}{{ image.path }}');">
                             <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="gallery">
                                 <div class="carousel-item-link"></div>
                             </a>
                         </div>
                     {% else %}
-                        <div class="carousel-item" style="background-image: url({{ site.baseurl }}{{ image.path }});">
+                        <div class="carousel-item" style="background-image: url('{{ site.baseurl }}{{ image.path }}');">
                             <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="gallery">
                                 <div class="carousel-item-link"></div>
                             </a>
