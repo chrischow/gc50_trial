@@ -43,7 +43,7 @@ li.nav-item > div.dropdown-menu > a.dropdown-item:hover {
     background-color: #39424d;
 }
 
-#clock-btn {
+#submit-btn {
     font-size: 0.6rem;
     padding: 4px;
     border: 1px solid #e5e5e5;
@@ -51,7 +51,7 @@ li.nav-item > div.dropdown-menu > a.dropdown-item:hover {
     /* transition: 0.3s; */
 }
 
-#clock-btn:hover {
+#submit-btn:hover {
     transition: 0.3s;
     color: #66fcf1;
     border-color: #66fcf1;
