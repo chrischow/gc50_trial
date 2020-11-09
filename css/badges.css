@@ -1,0 +1,166 @@
+/* Badges */
+.award-badge {
+    padding: 10px;
+}
+
+.award-badge > img {
+    width: 225px;
+    filter: drop-shadow(1px 3px 5px rgba(33, 33, 33, 0.6));
+    transition: 0.3s;
+}
+
+.badge-title {
+    font-family: News Cycle;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+    color: #1f2833;
+}
+
+.badge-text {
+    font-family: Poppins;
+    text-transform: uppercase;
+    /* font-weight: bold; */
+    color: #39424D;
+    font-size: 0.95rem;
+    transition: 0.3s;
+}
+
+.badge-text:hover {
+    color: #2dd2fa;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.modal-title {
+    font-family: News Cycle;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.4rem;
+    letter-spacing: 0.2rem;
+}
+
+.modal-subtitle {
+    font-family: News Cycle;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    color: #39424d;
+}
+
+.modal-body {
+    font-size: 1.0rem;
+}
+
+
+/* Badges Page */
+.badge-card {
+    box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
+    transition: 0.3s;
+    margin: 10px 0;
+    padding: 15px 30px;
+}
+
+.badge-card:hover {
+    box-shadow: 5px 8px 16px rgba(33, 33, 33, 0.2);
+}
+
+.badge-card-logo {
+    height: 150px;
+}
+
+.badge-card-text {
+    font-size: 1.2rem;
+    color: #39424d;
+}
+
+
+/* Mobile - Horizontal */
+@media (max-width: 768px) {
+
+    /* Badges */
+    .award-badge {
+        padding: 10px;
+    }
+
+    .award-badge > img {
+        width: 125px;
+    }
+
+    .badge-title {
+        font-size: 1.2rem;
+    }
+    
+    .badge-text {
+        font-size: 0.95rem;
+    }
+
+    .modal-title {
+        font-size: 1.2rem;
+        letter-spacing: 0.1rem;
+    }
+
+    .modal-subtitle {
+        font-size: 1.1rem;
+    }
+    
+    .modal-body {
+        font-size: 1.0rem;
+    }
+
+    /* Badges Page */
+    .badge-card-logo {
+        height: 125px;
+    }
+    
+    .badge-card-text {
+        font-size: 1.0rem;
+    }
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+
+    /* Badges */
+    .award-badge {
+        padding: 10px;
+    }
+
+    .award-badge > img {
+        width: 100px;
+    }
+
+    .badge-title {
+        font-size: 0.8rem;
+        letter-spacing: 0.1rem;
+    }
+    
+    .badge-text {
+        font-size: 0.65rem;
+        letter-spacing: 0.05rem;
+    }
+
+    .modal-title {
+        font-size: 1.0rem;
+        letter-spacing: 0.1rem;
+    }
+
+    .modal-subtitle {
+        font-size: 0.95rem;
+    }
+    
+    .modal-body {
+        font-size: 0.9rem;
+    }
+
+    /* Badges Page */
+    .badge-card-logo {
+        height: 100px;
+    }
+    
+    .badge-card-text {
+        font-size: 0.9rem;
+    }
+}

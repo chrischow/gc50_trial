@@ -58,101 +58,6 @@ body {
     color: white!important;
 }
 
-/* Navbar */
-a.navbar-brand {
-    font-family: Poppins;
-    font-weight: 300;
-    transition: 0.3s;
-}
-
-.navbar-dark .navbar-nav .nav-link {
-    color: #e5e6e7;
-}
-
-.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link {
-    font-family: Poppins;
-    font-weight: 200;
-    text-transform: uppercase;
-    font-size: 1.0rem;
-    letter-spacing: 0.2rem;
-    transition: 0.3s;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
-    color: #66fcf1;
-    transition: 0.3s;
-}
-
-li.nav-item > div.dropdown-menu {
-    background-color: #1f2833;
-}
-
-li.nav-item > div.dropdown-menu > a.dropdown-item {
-    color: #e5e5e5;
-    font-family: Poppins;
-    text-transform: uppercase;
-    font-size: 0.9rem;
-    letter-spacing: 0.1rem;
-    font-weight: 200;
-}
-
-li.nav-item > div.dropdown-menu > a.dropdown-item:hover {
-    color: white;
-    background-color: #39424d;
-}
-
-#clock-btn {
-    font-size: 0.7rem;
-    padding: 5px;
-    border: 1px solid #e5e5e5;
-    border-radius: 10px;
-    transition: 0.3s;
-}
-
-#clock-btn:hover {
-    color: #66fcf1;
-    transition: 0.3s;
-    border-color: #66fcf1;
-}
-
-/* Alerts */
-.alert-fixed {
-    top: 65px;
-    z-index: 99999;
-    position: fixed;
-}
-
-.alert-success {
-    background-color: #66fcf1f9;
-    border-color: #27ddcb;
-    color: #1f2833;
-    font-family: News Cycle;
-}
-
-.alert-success > a {
-    color: #1f2833;
-    font-weight: bold;
-    text-decoration: underline;
-    transition: 0.3s;
-}
-
-.alert-success > a:hover {
-    color: #ee4c7c;
-    text-decoration: none;
-    transition: 0.3s;
-}
-
-.alert-dismissible .close {
-    transition: 0.3s;
-}
-
-.alert-dismissible .close:hover {
-    color: #1f2833;
-    transition: 0.3s;
-}
-
 /* Panels */
 .masthead {
     padding-top: calc(6rem + 74px);
@@ -194,6 +99,13 @@ li.nav-item > div.dropdown-menu > a.dropdown-item:hover {
     color: #1f2833;
 }
 
+.info-head {
+    padding-top: calc(9rem + 74px);
+    padding-bottom: 9rem;
+    background-color: rgba(31,40,51, 0.94);
+    color: #66fcf1;
+}
+
 .footer {
     padding-top: 2rem;
     padding-bottom: 0.5rem;
@@ -220,162 +132,6 @@ li.nav-item > div.dropdown-menu > a.dropdown-item:hover {
     color: #39424D;
 }
 
-/* Leaderboard */
-
-#comm-progress {
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.subcomm-lb-panel {
-    margin-top: 50px;
-}
-
-.indiv-lb-panel {
-    margin-top: 20px;
-}
-
-.lb-text {
-    font-family: News Cycle;
-    text-transform: uppercase;
-    font-size: 1.5rem;
-    letter-spacing: 0.2rem;
-    color: #39424d;
-}
-
-/* Badges */
-.award-badge {
-    padding: 10px;
-}
-
-.award-badge > img {
-    width: 225px;
-    filter: drop-shadow(1px 3px 5px rgba(33, 33, 33, 0.6));
-    transition: 0.3s;
-}
-
-/* .award-badge > img:hover {
-    filter: drop-shadow(5px 8px 16px rgba(33, 33, 33, 0.6));
-    transition: 0.3s;
-} */
-
-.badge-title {
-    font-family: News Cycle;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1.2rem;
-    letter-spacing: 0.2rem;
-    color: #1f2833;
-}
-
-.badge-text {
-    font-family: Poppins;
-    text-transform: uppercase;
-    /* font-weight: bold; */
-    color: #39424D;
-    font-size: 0.95rem;
-    transition: 0.3s;
-}
-
-.badge-text:hover {
-    color: #2dd2fa;
-    text-decoration: none;
-    transition: 0.3s;
-}
-
-.modal-title {
-    font-family: News Cycle;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1.4rem;
-    letter-spacing: 0.2rem;
-}
-
-.modal-subtitle {
-    font-family: News Cycle;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1.2rem;
-    letter-spacing: 0.1rem;
-    color: #39424d;
-}
-
-.modal-body {
-    font-size: 1.0rem;
-}
-
-/* Clock */
-#clockdiv{
-    font-family: Oxanium;
-    color: #ee4c7c;
-    display: inline-block;
-    font-weight: bold;
-    text-align: center;
-    font-size: 4.0rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1rem;
-}
-
-#clockdiv > div{
-    padding-left: 4px;
-    padding-right: 4px;
-    display: inline-block;
-}
-
-#clockdiv div > span{
-    padding-left: 4px;
-    padding-right: 4px;
-    display: inline-block;
-}
-
-.smalltext{
-    font-size: 1.0rem;
-}
-
-.masthead-clock {
-    font-family: Oxanium;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.1rem;
-    font-size: 3.0rem;
-    color: #ee4c7c;
-}
-
-/* Snapshots */
-#carouselIndicators {
-    box-shadow: 5px 8px 16px rgba(33, 33, 33, 0.2);
-}
-
-.carousel-inner {
-    height: 500px!important;
-}
-
-.carousel-item {
-    background-size: cover;
-    background-position: center;
-    height: 100%;
-}
-
-.carousel-item-link {
-    height: 100%;
-    width: 100%;
-}
-
-/* Lightbox */
-lightboxOverlay { 
-    position: fixed !important; 
-    top: 0; 
-    left: 0; 
-    height: 100% !important; 
-    width: 100% !important; 
-}
-
-#lightbox { 
-    position: fixed !important; 
-    top: 50% !important; 
-    transform: translateY(-50%); 
-}
-
 /* Social */
 img.fb-icon {
     width: 120px;
@@ -399,16 +155,6 @@ img.sheets-icon:hover {
     transform: scale(1.1);
     transition: 0.3s;
 }
-
-/* .saturate { filter: saturate(3); }
-.grayscale { filter: grayscale(100%); }
-.contrast { filter: contrast(160%); }
-.brightness { filter: brightness(0.25); }
-.blur { filter: blur(3px); }
-.invert { filter: invert(100%); }
-.sepia { filter: sepia(100%); }
-.huerotate { filter: hue-rotate(180deg); }
-.rss.opacity { filter: opacity(50%); } */
 
 /* Footer */
 .footer-col {
@@ -436,7 +182,7 @@ hr {
 }
 
 a.footer-link:hover {
-    color: #ee4c7c;
+    color: #66fcf1;
     text-decoration: none;
     transition: 0.3s;
 }
@@ -470,110 +216,7 @@ table {
     margin-bottom: 20px;
 }
 
-/* The Team */
-#committee-top {
-    background-image: url('../assets/site/team_img_colorised.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-}
-
-.committee-top {
-    padding-top: calc(12rem + 74px);
-    padding-bottom: 12rem;
-    color: #66fcf1;
-}
-
-.thumbnail {
-    border-radius: 50%;
-    width: 225px;
-    height: 225px;
-    object-fit: cover;
-    filter: drop-shadow(1px 3px 5px rgba(33, 33, 33, 0.6));
-    transition: 0.3s;
-    margin-bottom: 15px;
-    border-width: 10px;
-}
-
-.thumbnail:hover {
-    filter: drop-shadow(3px 6px 10px rgba(33, 33, 33, 0.6));
-    transition: 0.3s;
-}
-
-.thumb-pink {
-    border-style: solid;
-    border-color: #ee4c7c;
-}
-
-.thumb-dark {
-    border-style: solid;
-    /* border-color: #1f2833; */
-    border-color: #000029;
-}
-
-.thumb-blue {
-    border-style: solid;
-    border-color: #3C396A;
-}
-
-.thumb-green {
-    border-style: solid;
-    border-color: #00AA98;
-}
-
-.thumb-light {
-    border-style: solid;
-    border-color: #6C7580;
-}
-
-.member {
-    margin: 30px 0;
-}
-
-.member-name {
-    font-family: News Cycle;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1.7rem;
-    letter-spacing: 0.2rem;
-    color: #1f2833;
-    transition: 0.3s;
-}
-
-.member-desig {
-    font-family: News Cycle;
-    color: #858E99;
-    font-size: 1.2rem;
-    transition: 0.3s;
-}
-
-.member > img:hover {
-    border-color: #1A1A43;
-    transition: 0.3s;
-}
-
-/* .member > img:hover + h4.member-name {
-    color: #00005C;
-    transition: 0.3s;
-}
-
-.member > img:hover ~ span.member-desig {
-    color: #1B37DB;
-    transition: 0.3s;
-} */
-
 /* Rules and FAQ */
-.info-head {
-    padding-top: calc(9rem + 74px);
-    padding-bottom: 9rem;
-    background-color: rgba(31,40,51, 0.94);
-    color: #66fcf1;
-}
-
 .btn-qa {
     /* height: 3.0rem; */
     /* background-color: #ee4c7c; */
@@ -615,118 +258,6 @@ button.btn-qa[aria-expanded="true"]  {
 
 .question {
     margin-bottom: 20px;
-}
-
-/* Badges */
-.badge-card {
-    box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
-    transition: 0.3s;
-    margin: 10px 0;
-    padding: 15px 30px;
-}
-
-.badge-card:hover {
-    box-shadow: 5px 8px 16px rgba(33, 33, 33, 0.2);
-}
-
-.badge-card-logo {
-    height: 150px;
-}
-
-.badge-card-text {
-    font-size: 1.2rem;
-    color: #39424d;
-}
-
-/* Leaderboard Page */
-
-/* DataTable */
-.dataTables_info {
-    font-size: 1.05rem;
-}
-
-.dataTables_paginate {
-    font-size: 1.05rem;
-}
-
-/* Hall of Fame */
-.btn-hof {
-    box-shadow: 1px 3px 5px rgba(33, 33, 33, 0.2);
-    transition: 0.3s;
-    margin-top: 10px;
-    padding: 15px 15px;
-    background: #1A1A43;
-    border-radius: 0;
-    color: white;
-}
-
-.btn-hof:hover {
-    background-color: #1A1A43;
-    box-shadow: 5px 8px 16px rgba(33, 33, 33, 0.2);
-    color: white;
-}
-
-button.btn-hof[aria-expanded="true"]  {
-    background-color: #1A1A43;
-    color: white;
-    transition: 0.3s;
-}
-
-.card-hof {
-    background-color: #1A1A43;
-    color: white;
-    border-radius: 0;
-    border: none;
-}
-
-.hof-hr {
-    width: 75%;
-    border: 0;
-    height: 1px;
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-    margin-top: -12px;
-}
-
-.hof-section {
-    padding: 15px 30px;
-}
-
-.hof-badge {
-    padding: 10px;
-}
-
-.hof-badge > img {
-    height: 200px;
-}
-
-.hof-title {
-    font-family: News Cycle;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1.9rem;
-    letter-spacing: 0.2rem;
-}
-
-.hof-sectiontitle {
-    font-family: News Cycle;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1.4rem;
-    letter-spacing: 0.2rem;
-}
-
-.hof-subtitle {
-    font-family: News Cycle;
-    text-transform: uppercase;
-    font-size: 1.1rem;
-    letter-spacing: 0.1rem;
-    color: #e5e5e5;
-}
-
-table.hof-table {
-    margin: 15px 0;
-    font-family: News Cycle;
-    color: white;
 }
 
 /* Mobile - Horizontal */
@@ -773,57 +304,6 @@ table.hof-table {
         letter-spacing: 0.2rem;
         margin-bottom: 15px;
     }
-    
-    /* Leaderboard */
-    .lb-text {
-        font-size: 1.5rem;
-        letter-spacing: 0.2rem;
-    }
-
-    /* Badges */
-    .award-badge {
-        padding: 10px;
-    }
-
-    .award-badge > img {
-        width: 125px;
-    }
-
-    .badge-title {
-        font-size: 1.2rem;
-    }
-    
-    .badge-text {
-        font-size: 0.95rem;
-    }
-
-    .modal-title {
-        font-size: 1.2rem;
-        letter-spacing: 0.1rem;
-    }
-
-    .modal-subtitle {
-        font-size: 1.1rem;
-    }
-    
-    .modal-body {
-        font-size: 1.0rem;
-    }
-    
-    /* Clock */
-    #clockdiv{
-        font-size: 1.6rem;
-    }
-
-    .masthead-clock {
-        letter-spacing: 0.1rem;
-        font-size: 2.0rem;
-    }
-
-    /* Snapshots */
-    .carousel-inner {
-        height: 300px!important;
-    }
 
     /* Footer */
     .footer-text {
@@ -847,70 +327,6 @@ table.hof-table {
     .card {
         font-size: 0.9rem;
     }
-
-    /* Committee */
-    .thumbnail {
-        width: 200px;
-        height: 200px;
-        border-width: 9px;
-    }
-
-    .member-name {
-        font-size: 1.5rem;
-        letter-spacing: 0.2rem;
-    }
-    
-    .member-desig {
-        font-size: 1.1rem;
-    }
-
-    .member {
-        margin: 20px 0;
-    }
-
-    /* Info Pages */
-    .info-head {
-        padding-top: calc(7rem + 50px);
-        padding-bottom: 7rem;
-    }
-
-    /* Badges */
-    .badge-card-logo {
-        height: 125px;
-    }
-    
-    .badge-card-text {
-        font-size: 1.0rem;
-    }
-
-    /* DataTable */
-    .dataTables_info {
-        font-size: 0.95rem;
-    }
-
-    .dataTables_paginate {
-        font-size: 0.95rem;
-    }
-
-    /* Hall of Fame */
-    .hof-badge > img {
-        height: 125px;
-    }
-    
-    .hof-title {
-        font-size: 1.7rem;
-        letter-spacing: 0.2rem;
-    }
-
-    .hof-sectiontitle {
-        font-size: 1.2rem;
-        letter-spacing: 0.2rem;
-    }
-    
-    .hof-subtitle {
-        font-size: 0.9rem;
-        letter-spacing: 0.1rem;
-    }
 }
 
 /* Mobile */
@@ -918,16 +334,6 @@ table.hof-table {
 
     body {
         font-size: 16px;
-    }
-    
-    /* Navbar */
-    .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-    
-    img.event-logo {
-        height: 40px;
     }
 
     /* Panels */
@@ -957,63 +363,15 @@ table.hof-table {
         margin-bottom: 30px;
     }
     
+    .info-head {
+        padding-top: calc(7rem + 50px);
+        padding-bottom: 7rem;
+    }
+
     .page-section-subheader {
         font-size: 1.5rem;
         letter-spacing: 0.2rem;
         margin-bottom: 15px;
-    }
-    
-    /* Leaderboard */
-    .lb-text {
-        font-size: 1.2rem;
-        letter-spacing: 0.2rem;
-    }
-
-    /* Badges */
-    .award-badge {
-        padding: 10px;
-    }
-
-    .award-badge > img {
-        width: 100px;
-    }
-
-    .badge-title {
-        font-size: 0.8rem;
-        letter-spacing: 0.1rem;
-    }
-    
-    .badge-text {
-        font-size: 0.65rem;
-        letter-spacing: 0.05rem;
-    }
-
-    .modal-title {
-        font-size: 1.0rem;
-        letter-spacing: 0.1rem;
-    }
-
-    .modal-subtitle {
-        font-size: 0.95rem;
-    }
-    
-    .modal-body {
-        font-size: 0.9rem;
-    }
-    
-    /* Clock */
-    #clockdiv{
-        font-size: 1.4rem;
-    }
-
-    .masthead-clock {
-        letter-spacing: 0.1rem;
-        font-size: 1.6rem;
-    }
-
-    /* Snapshots */
-    .carousel-inner {
-        height: 300px!important;
     }
 
     /* Footer */
@@ -1021,65 +379,5 @@ table.hof-table {
         font-family: Poppins;
         font-weight: 200;
         font-size: 0.90rem;
-    }
-
-    /* Committee */
-    .thumbnail {
-        width: 150px;
-        height: 150px;
-        border-width: 7px;
-    }
-
-    .member-name {
-        font-size: 1.3rem;
-        letter-spacing: 0.2rem;
-    }
-    
-    .member-desig {
-        font-size: 1.0rem;
-    }
-
-    .member {
-        margin: 15px 0;
-    }
-
-    /* Info Pages */
-    .info-head {
-        padding-top: calc(7rem + 50px);
-        padding-bottom: 7rem;
-    }
-
-    /* Badges */
-    .badge-card-logo {
-        height: 100px;
-    }
-    
-    .badge-card-text {
-        font-size: 0.9rem;
-    }
-
-    /* DataTable */
-    .dataTables_info {
-        font-size: 0.85rem;
-    }
-
-    .dataTables_paginate {
-        font-size: 0.85rem;
-    }
-
-    /* Hall of Fame */
-    .hof-title {
-        font-size: 1.5rem;
-        letter-spacing: 0.1rem;
-    }
-    
-    .hof-sectiontitle {
-        font-size: 1.0rem;
-        letter-spacing: 0.1rem;
-    }
-    
-    .hof-subtitle {
-        font-size: 0.7rem;
-        letter-spacing: 0.05rem;
     }
 }

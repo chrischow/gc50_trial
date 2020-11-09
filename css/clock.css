@@ -1,0 +1,64 @@
+/* Clock */
+#clockdiv{
+    font-family: Oxanium;
+    color: #ee4c7c;
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    font-size: 4.0rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+#clockdiv > div{
+    padding-left: 4px;
+    padding-right: 4px;
+    display: inline-block;
+}
+
+#clockdiv div > span{
+    padding-left: 4px;
+    padding-right: 4px;
+    display: inline-block;
+}
+
+.smalltext{
+    font-size: 1.0rem;
+}
+
+.masthead-clock {
+    font-family: Oxanium;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-size: 3.0rem;
+    color: #ee4c7c;
+}
+
+/* Mobile - Horizontal */
+@media (max-width: 768px) {
+
+    /* Clock */
+    #clockdiv{
+        font-size: 1.6rem;
+    }
+
+    .masthead-clock {
+        letter-spacing: 0.1rem;
+        font-size: 2.0rem;
+    }
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+
+    /* Clock */
+    #clockdiv{
+        font-size: 1.4rem;
+    }
+
+    .masthead-clock {
+        letter-spacing: 0.1rem;
+        font-size: 1.6rem;
+    }
+}

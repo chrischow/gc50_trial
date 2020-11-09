@@ -1,0 +1,72 @@
+/* Navbar */
+a.navbar-brand {
+    font-family: Poppins;
+    font-weight: 300;
+    transition: 0.3s;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #e5e6e7;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link {
+    font-family: Poppins;
+    font-weight: 200;
+    text-transform: uppercase;
+    font-size: 1.0rem;
+    letter-spacing: 0.2rem;
+    transition: 0.3s;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #66fcf1;
+    transition: 0.3s;
+}
+
+li.nav-item > div.dropdown-menu {
+    background-color: #1f2833;
+}
+
+li.nav-item > div.dropdown-menu > a.dropdown-item {
+    color: #e5e5e5;
+    font-family: Poppins;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
+    font-weight: 200;
+}
+
+li.nav-item > div.dropdown-menu > a.dropdown-item:hover {
+    color: white;
+    background-color: #39424d;
+}
+
+#clock-btn {
+    font-size: 0.6rem;
+    padding: 4px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    /* transition: 0.3s; */
+}
+
+#clock-btn:hover {
+    transition: 0.3s;
+    color: #66fcf1;
+    border-color: #66fcf1;
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+    
+    /* Navbar */
+    .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    img.event-logo {
+        height: 40px;
+    }
+}

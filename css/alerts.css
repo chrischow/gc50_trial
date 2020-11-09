@@ -1,0 +1,35 @@
+/* Alerts */
+.alert-fixed {
+    top: 65px;
+    z-index: 99999;
+    position: fixed;
+}
+
+.alert-success {
+    background-color: #66fcf1f9;
+    border-color: #27ddcb;
+    color: #1f2833;
+    font-family: News Cycle;
+}
+
+.alert-success > a {
+    color: #1f2833;
+    font-weight: bold;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
+.alert-success > a:hover {
+    color: #ee4c7c;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.alert-dismissible .close {
+    transition: 0.3s;
+}
+
+.alert-dismissible .close:hover {
+    color: #1f2833;
+    transition: 0.3s;
+}
