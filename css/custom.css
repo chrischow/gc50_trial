@@ -103,6 +103,20 @@ li.nav-item > div.dropdown-menu > a.dropdown-item:hover {
     background-color: #39424d;
 }
 
+#clock-btn {
+    font-size: 0.7rem;
+    padding: 5px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+#clock-btn:hover {
+    color: #66fcf1;
+    transition: 0.3s;
+    border-color: #66fcf1;
+}
+
 /* Alerts */
 .alert-fixed {
     top: 65px;
